@@ -1,0 +1,80 @@
+{
+  "air_date": "2002-10-13", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006cff", 
+      "department": "Writing", 
+      "id": 1227656, 
+      "job": "Writer", 
+      "name": "Mere Smith", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383a760ee3668d00771d", 
+      "department": "Directing", 
+      "id": 43222, 
+      "job": "Director", 
+      "name": "Michael Grossman", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 2, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573851760ee3668d0092d8", 
+      "id": 28109, 
+      "name": "Alexa Davalos", 
+      "order": 0, 
+      "profile_path": "/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009300", 
+      "id": 27544, 
+      "name": "Tom Irwin", 
+      "order": 2, 
+      "profile_path": "/8veWAQr2kXYL3EP4ZkAjJhVcZGq.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d00932c", 
+      "id": 7241, 
+      "name": "Rena Owen", 
+      "order": 3, 
+      "profile_path": "/sgJpdxXO6ATawDqzFQak5HSqs9y.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d00934e", 
+      "id": 1212916, 
+      "name": "Jessica Kiper", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009370", 
+      "id": 65124, 
+      "name": "Troy Brenna", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183013, 
+  "name": "Ground State", 
+  "overview": "In his quest to steal an artifact that may help him find Cordelia, Angel finds himself competing with a human thief whose body is electrically charged.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/lWKFSdjE73GUlqnskLy4eZ3j9rt.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

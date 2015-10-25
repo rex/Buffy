@@ -1,0 +1,80 @@
+{
+  "air_date": "1999-11-30", 
+  "crew": [
+    {
+      "credit_id": "5257383f760ee3668d007f80", 
+      "department": "Writing", 
+      "id": 1221664, 
+      "job": "Writer", 
+      "name": "Howard Gordon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383f760ee3668d007fa4", 
+      "department": "Directing", 
+      "id": 1212609, 
+      "job": "Director", 
+      "name": "Tucker Gates", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 9, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007ece", 
+      "id": 20847, 
+      "name": "Michelle Horn", 
+      "order": 0, 
+      "profile_path": "/eFOyaLVvUTcxFuANlhMdT8oqfAu.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007ef0", 
+      "id": 159282, 
+      "name": "Anthony Cistaro", 
+      "order": 1, 
+      "profile_path": "/kAFE0ohHBnDb4zFaDyMFSAlwDPL.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007f12", 
+      "id": 1710, 
+      "name": "Lee Arenberg", 
+      "order": 2, 
+      "profile_path": "/ziQH86o2BInPEUF7VW0gYte35Tw.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d007f34", 
+      "id": 3908, 
+      "name": "Tony Denman", 
+      "order": 3, 
+      "profile_path": "/8W0gxnfQyeWATYKOdQhjFtWLsft.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d007f56", 
+      "id": 51663, 
+      "name": "Sean Gunn", 
+      "order": 4, 
+      "profile_path": "/dldYyij2lt4rDUehY4wLZoZ0KUK.jpg"
+    }
+  ], 
+  "id": 182964, 
+  "name": "Hero", 
+  "overview": "Doyle is presented with an opportunity for atonement when a band of frightened refugees seek his help.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/8NwZLMQaGJyLn2jOlNrt6ythxYR.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

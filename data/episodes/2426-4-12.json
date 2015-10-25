@@ -1,0 +1,72 @@
+{
+  "air_date": "2003-02-12", 
+  "crew": [
+    {
+      "credit_id": "52573833760ee3668d0071e5", 
+      "department": "Directing", 
+      "id": 58075, 
+      "job": "Director", 
+      "name": "Bill L. Norton", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006cff", 
+      "department": "Writing", 
+      "id": 1227656, 
+      "job": "Writer", 
+      "name": "Mere Smith", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }, 
+    {
+      "credit_id": "52573849760ee3668d008810", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009517", 
+      "id": 19898, 
+      "name": "Vladimir Kulich", 
+      "order": 3, 
+      "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183029, 
+  "name": "Calvary", 
+  "overview": "After learning the doomsday beast may be working for something bigger and badder than itself, Angel's friends cast a spell to return his soul to Angelus' body.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/vsfErbhIgQGTjuS4qVLEBwAFuai.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

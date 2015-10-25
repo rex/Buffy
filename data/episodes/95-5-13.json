@@ -1,0 +1,64 @@
+{
+  "air_date": "2001-02-06", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c126", 
+      "department": "Directing", 
+      "id": 1231299, 
+      "job": "Director", 
+      "name": "Michael Gershman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387519c2957940054017", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949503, 
+  "name": "Blood Ties", 
+  "overview": "Buffy finally tells her friends about Dawn being the Key and they start acting weird around Dawn, which leads to her seeking answers. She knows that crazy people know what she is, so she goes to the mental ward at the hospital. While she's there, she runs into Ben. Ben freaks when she tells him she is the key and tells her to run away fast, but before she gets a chance to get away from him, he turns into Glory.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/cDyal36aS17sx8uYYZX8BHMnanX.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

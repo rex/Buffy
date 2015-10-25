@@ -1,0 +1,88 @@
+{
+  "air_date": "2002-02-25", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006cff", 
+      "department": "Writing", 
+      "id": 1227656, 
+      "job": "Writer", 
+      "name": "Mere Smith", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 15, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009422", 
+      "id": 18657, 
+      "name": "Laurel Holloman", 
+      "order": 1, 
+      "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a47c", 
+      "id": 1214140, 
+      "name": "Wendy Davis", 
+      "order": 3, 
+      "profile_path": "/xewR401F4IXfkUFt8bxAZuDdDbp.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009074", 
+      "id": 21675, 
+      "name": "Jack Conley", 
+      "order": 3, 
+      "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a49e", 
+      "id": 1215999, 
+      "name": "Kerrigan Mahan", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385d760ee3668d00a4c6", 
+      "id": 1214404, 
+      "name": "Enrique Castillo", 
+      "order": 6, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183059, 
+  "name": "Loyalty", 
+  "overview": "Wes dreads the fulfilment of the prophecy that Angel will kill Connor; Sahjhan becomes dissatisfied with Holtz's progress in stalking Angel and take matters into his own hands; Fred and Gunn try to figure out how to juggle working together with their new romance.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/7weFU72LLOXkcpAoXJZiyYnlZiW.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

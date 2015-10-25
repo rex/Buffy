@@ -1,0 +1,104 @@
+{
+  "air_date": "2003-02-18", 
+  "crew": [
+    {
+      "credit_id": "52599e4e19c295731c09043e", 
+      "department": "Directing", 
+      "id": 1213071, 
+      "job": "Director", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 15, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091d8c", 
+      "id": 642250, 
+      "name": "Iyari Limon", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c09176a", 
+      "id": 168339, 
+      "name": "Sarah Hagan", 
+      "order": 1, 
+      "profile_path": "/p31CwP968p1QOyG3HPFUL2O2w2f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091edc", 
+      "id": 125047, 
+      "name": "Lalaine", 
+      "order": 4, 
+      "profile_path": "/5dc2viOzA5rcJFFPLUb54hKrIq1.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091dea", 
+      "id": 155212, 
+      "name": "Clara Bryant", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091f06", 
+      "id": 1213577, 
+      "name": "Indigo", 
+      "order": 5, 
+      "profile_path": "/oZT8eVQOJkmUkbLjzbGbyo5DWQw.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091f3e", 
+      "id": 76527, 
+      "name": "Felicia Day", 
+      "order": 6, 
+      "profile_path": "/mlTqR0XorYqvPvgu1mLVT8Fso6s.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6019c295731c0921e0", 
+      "id": 94135, 
+      "name": "Kristy Wu", 
+      "order": 6, 
+      "profile_path": "/shPbdHP7augnWkTDhz0UO8xxID1.jpg"
+    }
+  ], 
+  "id": 949549, 
+  "name": "Get It Done", 
+  "overview": "Principal Wood gives Buffy a bag of items that used to belong to his mother, the slayer killed on the subway by Spike.  The bag contains many various items including weapons, a book, and a strange sealed box.  After opening the box, Buffy and gang watch a puppet show that opens a portal sending Buffy to a strange land and leaving in her wake a demon.  Buffy meets three men who offer her more power, but it doesn't come freely.  It's up to Willow to get the portal open and Spike to get the demon back.  Meanwhile, the Potentials are feeling the stress of the situation, and the First takes full advantage of this, with dire consequences.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/cN03lsXDfXyuu8AI5SIw7Q5JQuY.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

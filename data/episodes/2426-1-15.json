@@ -1,0 +1,80 @@
+{
+  "air_date": "2000-02-22", 
+  "crew": [
+    {
+      "credit_id": "5257383c760ee3668d007aaa", 
+      "department": "Directing", 
+      "id": 1214718, 
+      "job": "Director", 
+      "name": "Bruce Seth Green", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 15, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573841760ee3668d0082db", 
+      "id": 110014, 
+      "name": "Christina Hendricks", 
+      "order": 2, 
+      "profile_path": "/d9KRMyCHigiHoDgmi1GX8EbhkOz.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573841760ee3668d0082fd", 
+      "id": 99231, 
+      "name": "John Maynard", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573841760ee3668d00831f", 
+      "id": 1212872, 
+      "name": "Eliza Szonert", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573841760ee3668d008341", 
+      "id": 1215365, 
+      "name": "Henri Lubatti", 
+      "order": 5, 
+      "profile_path": "/g666XyjLA7GCnljvkSbIoCpqz5p.jpg"
+    }
+  ], 
+  "id": 182972, 
+  "name": "The Prodigal", 
+  "overview": "Angel's conflict with Kate and her dad stirs up memories of his own father.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/mPDJILlNfcnnKH8BygqvBuOBvlA.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

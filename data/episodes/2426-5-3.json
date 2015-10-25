@@ -1,0 +1,64 @@
+{
+  "air_date": "2003-10-15", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008a3d", 
+      "department": "Writing", 
+      "id": 1231386, 
+      "job": "Writer", 
+      "name": "Mutant Enemy Productions", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a83", 
+      "department": "Directing", 
+      "id": 1215026, 
+      "job": "Director", 
+      "name": "Marita Grabiak", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a5f", 
+      "department": "Writing", 
+      "id": 1224044, 
+      "job": "Writer", 
+      "name": "Sarah Fain", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257384b760ee3668d0089d2", 
+      "id": 21722, 
+      "name": "John Billingsley", 
+      "order": 0, 
+      "profile_path": "/fHQ6ecMufxLwUAbN3dX3yxFAn5d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384b760ee3668d0089f4", 
+      "id": 63661, 
+      "name": "Jenny Mollen", 
+      "order": 1, 
+      "profile_path": "/17eWISaAGuTWYbYxICVwV4Wwrf5.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384b760ee3668d008a16", 
+      "id": 77340, 
+      "name": "Heidi Dippold", 
+      "order": 2, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182991, 
+  "name": "Unleashed", 
+  "overview": "Angel tries to help a young woman who has been turned into a werewolf and is being pursued by a group of truly rarified gourmets.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/lFJPu1ySJjL2j7HkwmAcKfINgK3.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,56 @@
+{
+  "air_date": "2000-10-10", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4519c295731c08f1d7", 
+      "id": 1234334, 
+      "name": "Kelly Donovan", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4519c295731c08f22b", 
+      "id": 37008, 
+      "name": "Michael Bailey Smith", 
+      "order": 2, 
+      "profile_path": "/8viurb658U8a4ep5G1xdpUG8fxr.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949493, 
+  "name": "The Replacement", 
+  "overview": "Are two Xanders really better than one? We find out when a demon searching for the Slayer accidentally hits Xander with his weapon, splitting him in two; one with all the positive aspects of his personality, the other with all the negative. While each of them try to convince the Scooby Gang that the other is a demon, Buffy must find the real demon to put the Xanders back together.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/vlE0Um0AwNxFgGivyCPuFGPCnSC.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,64 @@
+{
+  "air_date": "2003-01-29", 
+  "crew": [
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d00797c", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573849760ee3668d008810", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573853760ee3668d0096bb", 
+      "id": 1228121, 
+      "name": "Larry McCormick", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009517", 
+      "id": 19898, 
+      "name": "Vladimir Kulich", 
+      "order": 3, 
+      "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183022, 
+  "name": "Awakening", 
+  "overview": "Angel agrees to try to bring Angelus back... but after the first attempt fails, he and his friends discover a magic sword that might do a better job of getting rid of the Big Bad beast.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/1XVnPzrOSI1OVf4Efe9CIehBIV0.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

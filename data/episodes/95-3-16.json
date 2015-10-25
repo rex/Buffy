@@ -1,0 +1,80 @@
+{
+  "air_date": "1999-02-23", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 16, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce23", 
+      "id": 35518, 
+      "name": "Harry Groener", 
+      "order": 1, 
+      "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4d6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 4, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d68a", 
+      "id": 149563, 
+      "name": "Ethan Erickson", 
+      "order": 4, 
+      "profile_path": "/rFf9TFofNCARgpj1xTW0CynidAe.jpg"
+    }
+  ], 
+  "id": 949462, 
+  "name": "Doppelgangland", 
+  "overview": "While unknowingly participating in a spell with the wish-granting demon Anyanka in order for her to get her powers back, Willow accidentally brings forth the vampire Willow from Cordelia's alternate universe.    The vampire Willow sets her sights on turning Sunnydale into the vampire-ruled world she knows but when she learns of her counterpart, she decides to make Willow send her back. After trying to seduce Willow and freaking her out a bit, the vampire Willow is captured. The real Willow, dressed in her doppelganger's outfit, attempts to stop the ensuing slaughter at the Bronze and is almost killed by the vampire Willow before Buffy saves her.   Giles and Anya successfully send the vampire back to her world but she arrives at the exact same moment she left, right before she is staked by Oz.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/nAU9ZrSNc5CNRtsqTfA5PXTHxZH.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

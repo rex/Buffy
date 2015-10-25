@@ -1,0 +1,72 @@
+{
+  "air_date": "2001-11-20", 
+  "crew": [
+    {
+      "credit_id": "52599e5319c295731c090c31", 
+      "department": "Directing", 
+      "id": 72445, 
+      "job": "Director", 
+      "name": "Turi Meyer", 
+      "profile_path": "/3TRekhDcZsF3PhH2hLZZcv4ebE2.jpg"
+    }, 
+    {
+      "credit_id": "5253387419c2957940053ff7", 
+      "department": "Writing", 
+      "id": 1213073, 
+      "job": "Writer", 
+      "name": "Drew Greenberg", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 9, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a580", 
+      "id": 1226827, 
+      "name": "Elizabeth Anne Allen", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949526, 
+  "name": "Smashed", 
+  "overview": "After breaking up with Tara, Willow successfully de-rats Amy and the two witches begin hanging out and having fun with magic, drawing Willow further into her growing addiction.   Meanwhile, Spike notices that his chip doesn't kick in when he hits Buffy but it only works with her, leading him to believe that she is not entirely human anymore.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/pPSRXeffRC7uVCTPLEf8tQjUamm.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

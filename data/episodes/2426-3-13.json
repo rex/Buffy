@@ -1,0 +1,64 @@
+{
+  "air_date": "2002-02-04", 
+  "crew": [
+    {
+      "credit_id": "52573831760ee3668d006f6f", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52573833760ee3668d0071c1", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257385e760ee3668d00a571", 
+      "id": 54881, 
+      "name": "Summer Glau", 
+      "order": 2, 
+      "profile_path": "/7AlW3QVQUAfGwWrnDwb0iP3J1Wx.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385e760ee3668d00a593", 
+      "id": 88949, 
+      "name": "Mark Harelik", 
+      "order": 3, 
+      "profile_path": "/iiWjqkiQc9StJjC0KTSjg5AZFSa.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006d83", 
+      "id": 55568, 
+      "name": "Mark Lutz", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }
+  ], 
+  "id": 183063, 
+  "name": "Waiting in the Wings", 
+  "overview": "Angel and his friends attend a ballet,where Angel realises he saw the exact same dancers on stage 110 years ago.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/5d94Yxox6C9uAiC8LH2bc1hfoI0.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

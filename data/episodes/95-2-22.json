@@ -1,0 +1,80 @@
+{
+  "air_date": "1998-05-19", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 22, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 149448, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }
+  ], 
+  "id": 949446, 
+  "name": "Becoming, Part Two", 
+  "overview": "After Drusilla's attack on her friends which resulted in the death of Kendra and Giles' abduction, Buffy is arrested for the murder but escapes from the police. She heads to the hospital where she learns that Xander has a broken arm and Willow is left in a coma. They all realize that Giles was taken by Drusilla and Buffy prepares herself to face Angelus. After being stopped by another cop, Spike comes to her aid and convinces her that he wants to be rid of Angelus too and they form an unusual alliance.   Buffy is forced to slay a vampire in front of her mother and tells her the truth but she does not want to accept it. When Buffy tries to leave to fight Angelus, Joyce tells her that if she goes she better not bother coming back. After retrieving Kendra's sword from the library she heads toward Angelus' mansion.   Meanwhile, Willow wakes up and decides to try the spell again and Xander runs to Buffy's aid. Drusilla uses her psychic powers to make Giles reveal the secret of the ritual to", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/kLEmMHEJDNjo7KTMtxUmBDxYYg5.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

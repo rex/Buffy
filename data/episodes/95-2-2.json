@@ -1,0 +1,40 @@
+{
+  "air_date": "1997-09-22", 
+  "crew": [
+    {
+      "credit_id": "52599e2119c295731c08a6b9", 
+      "department": "Directing", 
+      "id": 1214718, 
+      "job": "Director", 
+      "name": "Bruce Seth Green", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387719c295794005402f", 
+      "department": "Writing", 
+      "id": 1213076, 
+      "job": "Writer", 
+      "name": "David Tyron King", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 2, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 1222896, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949426, 
+  "name": "Some Assembly Required", 
+  "overview": "When the bodies of several teenage girls are dug out of their graves and some of their parts are found soon afterwards, the gang discover that two students are trying to create the perfect woman; with the final touch being Cordelia's head.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/7FTMd5upbk1h0iothB4DpiFsFy9.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

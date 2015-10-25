@@ -1,0 +1,72 @@
+{
+  "air_date": "2003-01-15", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008b05", 
+      "department": "Directing", 
+      "id": 68841, 
+      "job": "Director", 
+      "name": "Skip Schoolnik", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573853760ee3668d0095f4", 
+      "id": 38703, 
+      "name": "Kay Panabaker", 
+      "order": 3, 
+      "profile_path": "/lnPWuiJAkt43mnrZV7a1Lx3IlZI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009517", 
+      "id": 19898, 
+      "name": "Vladimir Kulich", 
+      "order": 3, 
+      "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006cb6", 
+      "id": 18307, 
+      "name": "Daniel Dae Kim", 
+      "order": 3, 
+      "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }
+  ], 
+  "id": 183020, 
+  "name": "Habeas Corpses", 
+  "overview": "Connor gets locked inside Wolfram and Hart with the Big Bad doomsday beast, who turns the legal firms staff into an army of zombies.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/nULfEL5E0KPK3TS3KmYeM0ruhvp.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

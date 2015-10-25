@@ -1,0 +1,64 @@
+{
+  "air_date": "2000-05-09", 
+  "crew": [
+    {
+      "credit_id": "5257383e760ee3668d007e16", 
+      "department": "Directing", 
+      "id": 1215383, 
+      "job": "Director", 
+      "name": "David Straiton", 
+      "profile_path": "/kwoDQzrt9cywbhFffDx4S6C7x0D.jpg"
+    }, 
+    {
+      "credit_id": "52573845760ee3668d0085c0", 
+      "department": "Writing", 
+      "id": 1225538, 
+      "job": "Writer", 
+      "name": "Gary Campbell", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 20, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573843760ee3668d008558", 
+      "id": 153939, 
+      "name": "J. August Richards", 
+      "order": 1, 
+      "profile_path": "/7JlN8VwjjlV2dIipqDIz6PP5MfG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d007825", 
+      "id": 52794, 
+      "name": "David Herman", 
+      "order": 2, 
+      "profile_path": "/6S0UlaChdcilaeYk5svTxOCtShC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573843760ee3668d00857a", 
+      "id": 1215362, 
+      "name": "Ricky Luna", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573843760ee3668d00859c", 
+      "id": 48530, 
+      "name": "Maurice Compte", 
+      "order": 3, 
+      "profile_path": "/gt8vrkSOmv4dt5AfIcVsevNQ05b.jpg"
+    }
+  ], 
+  "id": 182980, 
+  "name": "War Zone", 
+  "overview": "When Angel tracks down a millionaire's blackmailer, he gets caught in the middle of a gang war between street kids and vampires.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/epV3Kcq1SMisPVxZO0CDTaHqJJn.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

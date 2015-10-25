@@ -1,0 +1,112 @@
+{
+  "air_date": "1998-04-28", 
+  "crew": [
+    {
+      "credit_id": "52599e2f19c295731c08c4ab", 
+      "department": "Directing", 
+      "id": 87472, 
+      "job": "Director", 
+      "name": "James Whitmore Jr.", 
+      "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2e19c295731c08c29b", 
+      "id": 1224584, 
+      "name": "Angie Hart", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2e19c295731c08c305", 
+      "id": 16861, 
+      "name": "John Hawkes", 
+      "order": 1, 
+      "profile_path": "/bz4usMR7NWEgVgWTxVBLEjCo3Dv.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2e19c295731c08c351", 
+      "id": 18706, 
+      "name": "Meredith Salenger", 
+      "order": 2, 
+      "profile_path": "/tSViHUajIO0k49bFwIy42OqfbGq.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2f19c295731c08c39b", 
+      "id": 1215877, 
+      "name": "Brian Poth", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "James Stanley", 
+      "credit_id": "52599e2f19c295731c08c3d3", 
+      "id": 53761, 
+      "name": "Christopher Gorham", 
+      "order": 5, 
+      "profile_path": "/1fAcWAtGeTluNjbGVGxaShQD090.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b0b4", 
+      "id": 1469, 
+      "name": "Brian Reddy", 
+      "order": 6, 
+      "profile_path": "/6AOxOUfyU3iDQabWL6EipPZ5DAM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2f19c295731c08c45b", 
+      "id": 35109, 
+      "name": "Miriam Flynn", 
+      "order": 8, 
+      "profile_path": "/6VKACA883vyve6uuviO4I6QpluL.jpg"
+    }
+  ], 
+  "id": 949443, 
+  "name": "I Only Have Eyes for You", 
+  "overview": "As the Sadie Hawkins Dance nears, Buffy faces inner demons as she feels responsible for Angel's epiphany, meanwhile Sunnydale High is even more dangerous than usual as the ghost of a former student who killed his sweetheart and then committed suicide haunts the halls forcing people to relive the moments that killed them over and over.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/vDKYjNhzasv1MCJb68IjyOXCnTE.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,135 @@
+{
+  "backdrop_path": "/1M10ZfgGhJUKKKCjYLiEspyAyzS.jpg", 
+  "created_by": [
+    {
+      "id": 87590, 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "id": 12891, 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_run_time": [
+    42
+  ], 
+  "first_air_date": "1999-10-05", 
+  "genres": [
+    {
+      "id": 28, 
+      "name": "Action"
+    }, 
+    {
+      "id": 12, 
+      "name": "Adventure"
+    }, 
+    {
+      "id": 35, 
+      "name": "Comedy"
+    }, 
+    {
+      "id": 18, 
+      "name": "Drama"
+    }, 
+    {
+      "id": 14, 
+      "name": "Fantasy"
+    }, 
+    {
+      "id": 878, 
+      "name": "Science Fiction"
+    }
+  ], 
+  "homepage": "http://www.tntdrama.com/series/angel/", 
+  "id": 2426, 
+  "in_production": false, 
+  "languages": [
+    "en"
+  ], 
+  "last_air_date": "2004-05-19", 
+  "name": "Angel", 
+  "networks": [
+    {
+      "id": 21, 
+      "name": "The WB Television Network"
+    }
+  ], 
+  "number_of_episodes": 110, 
+  "number_of_seasons": 5, 
+  "origin_country": [
+    "US"
+  ], 
+  "original_language": "en", 
+  "original_name": "Angel", 
+  "overview": "Angel is an American television series, a spin-off from the television series Buffy the Vampire Slayer. Angel (David Boreanaz), a 240-year old vampire cursed with a conscience, haunts the dark streets of Los Angeles alone. But after he meets a half-demon with mysterious visions, Angel realizes his true purpose: to help those in danger with the hope that he may have a chance to redeem himself and save his own soul. With Cordelia (Charisma Carpenter) and Doyle (Glenn Quinn) at his side, he forms Angel Investigations. He is soon joined by Wesley (Alexis Denisof), Gunn (J. August Richards), Lorne (Andy Hallett) and Fred (Amy Acker), and he will need all their expertise to fight the growing forces of evil, and the supernatural law firm of Wolfram and Hart.", 
+  "popularity": 1.754713, 
+  "poster_path": "/vAWsRDgKJzx9qjugWFlkGKhWH4F.jpg", 
+  "production_companies": [
+    {
+      "id": 1556, 
+      "name": "20th Century Fox Television"
+    }, 
+    {
+      "id": 2516, 
+      "name": "Kuzui Enterprises"
+    }, 
+    {
+      "id": 5842, 
+      "name": "Sandollar Productions"
+    }, 
+    {
+      "id": 10567, 
+      "name": "Mutant Enemy Productions"
+    }
+  ], 
+  "seasons": [
+    {
+      "air_date": null, 
+      "episode_count": 1, 
+      "id": 7629, 
+      "poster_path": "/kxcW3sYKbeYIe6RkuFbFWBT65GJ.jpg", 
+      "season_number": 0
+    }, 
+    {
+      "air_date": "1999-10-05", 
+      "episode_count": 22, 
+      "id": 7625, 
+      "poster_path": "/99doFNHAvDhDq0Z96P7msT06Dds.jpg", 
+      "season_number": 1
+    }, 
+    {
+      "air_date": "2000-09-26", 
+      "episode_count": 22, 
+      "id": 7623, 
+      "poster_path": "/pRLEthZ98XbvnOmdAhaOxYSYHPg.jpg", 
+      "season_number": 2
+    }, 
+    {
+      "air_date": "2001-09-24", 
+      "episode_count": 22, 
+      "id": 7628, 
+      "poster_path": "/8MYcGwOFtlQqedYHxjtCfMUciqy.jpg", 
+      "season_number": 3
+    }, 
+    {
+      "air_date": "2002-10-06", 
+      "episode_count": 22, 
+      "id": 7627, 
+      "poster_path": "/qIUdPV0fSWWzTvVx4R7tD3E7x31.jpg", 
+      "season_number": 4
+    }, 
+    {
+      "air_date": "2003-10-01", 
+      "episode_count": 22, 
+      "id": 7626, 
+      "poster_path": "/gXE6DgsZ73ho0XkJDJCxSgf46wR.jpg", 
+      "season_number": 5
+    }
+  ], 
+  "status": "Ended", 
+  "type": "Scripted", 
+  "vote_average": 7.8, 
+  "vote_count": 24
+}

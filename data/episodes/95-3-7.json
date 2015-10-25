@@ -1,0 +1,48 @@
+{
+  "air_date": "1998-11-17", 
+  "crew": [
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3419c295731c08cf83", 
+      "id": 10780, 
+      "name": "Serena Scott Thomas", 
+      "order": 0, 
+      "profile_path": "/dvTjb6V46wOo9JGgcViU54UoZNN.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }
+  ], 
+  "id": 949453, 
+  "name": "Revelations", 
+  "overview": "Xander finds out about Angel's return to Sunnydale and promptly informs the gang who confront Buffy with the fear that he may turn evil again, while Faith finds herself under the wing of a new Watcher, Gwendolyn Post, an outwardly prim and proper Englishwoman who was expelled from the Watcher's Council for practicing evil magic.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/e2D4WVbrSw3OvN22nfKPGY07yN6.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

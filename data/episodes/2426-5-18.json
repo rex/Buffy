@@ -1,0 +1,64 @@
+{
+  "air_date": "2004-04-21", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008b89", 
+      "department": "Writing", 
+      "id": 47506, 
+      "job": "Writer", 
+      "name": "Drew Goddard", 
+      "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+    }, 
+    {
+      "credit_id": "5257384d760ee3668d008d4d", 
+      "department": "Directing", 
+      "id": 102638, 
+      "job": "Director", 
+      "name": "Terrence O'Hara", 
+      "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d00900e", 
+      "id": 27770, 
+      "name": "Dennis Christopher", 
+      "order": 0, 
+      "profile_path": "/sNFwlPHBAVn2fQIMVBTXMfx5E69.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009030", 
+      "id": 52646, 
+      "name": "Vincent Kartheiser", 
+      "order": 1, 
+      "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009052", 
+      "id": 2059, 
+      "name": "Adam Baldwin", 
+      "order": 2, 
+      "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009074", 
+      "id": 21675, 
+      "name": "Jack Conley", 
+      "order": 3, 
+      "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+    }
+  ], 
+  "id": 183006, 
+  "name": "Origin", 
+  "overview": "When a warlock brings Connor back into Angel's life, Wesley finds out that Angel has tinkered with the memories of his friends.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/uNBDTOymMBgwPOMSKghIkkBziAx.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

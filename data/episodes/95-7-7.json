@@ -1,0 +1,104 @@
+{
+  "air_date": "2002-11-12", 
+  "crew": [
+    {
+      "credit_id": "52599e4419c295731c08efd8", 
+      "department": "Directing", 
+      "id": 1214210, 
+      "job": "Director", 
+      "name": "Nick Marck", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "5253386e19c2957940053f5f", 
+      "department": "Writing", 
+      "id": 47506, 
+      "job": "Writer", 
+      "name": "Drew Goddard", 
+      "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2e19c295731c08c29b", 
+      "id": 1224584, 
+      "name": "Angie Hart", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c091740", 
+      "id": 31715, 
+      "name": "Azura Skye", 
+      "order": 0, 
+      "profile_path": "/9dyxe8DOX8eEGrCo6ieW4ZiPZWC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5a19c295731c091ac7", 
+      "id": 1217551, 
+      "name": "Jonathan M. Woodward", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5a19c295731c091b35", 
+      "id": 98818, 
+      "name": "Stacey Scowley", 
+      "order": 7, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949541, 
+  "name": "Conversations with Dead People", 
+  "overview": "Five seperate stories in this episode has the gang encountering a paranormal force which spells future doom.   While out on patrol, Buffy squares off with a former classmate and current vampire, who goads her into revealing her insecurities. Back at home, Dawn is thrown into a panic when an invisible force trashes the Summers' house and deposits the corpse of her mother on the sofa. The ghost of Cassie visits Willow under the guise of being sent by Tara; and Spike apparently has returned to his killing ways. Meanwhile, nerdy villains Jonathan and Andrew return from Mexico.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/lTeyy1VrB1dHILpaih67246g3oO.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

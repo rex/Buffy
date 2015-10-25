@@ -1,0 +1,80 @@
+{
+  "air_date": "2002-05-13", 
+  "crew": [
+    {
+      "credit_id": "52573831760ee3668d006f4d", 
+      "department": "Directing", 
+      "id": 1224034, 
+      "job": "Director", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 21, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009030", 
+      "id": 52646, 
+      "name": "Vincent Kartheiser", 
+      "order": 1, 
+      "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009422", 
+      "id": 18657, 
+      "name": "Laurel Holloman", 
+      "order": 1, 
+      "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006d83", 
+      "id": 55568, 
+      "name": "Mark Lutz", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183070, 
+  "name": "Benediction", 
+  "overview": "Holtz insists that Connor rejoins Angel; Justine learns Holtz is back; the Groosalugg realises the depths of Cordelia's feelings for Angel.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/ao42rdJ9DxvbKNM0C0MF4NloePU.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,48 @@
+{
+  "air_date": "1999-10-12", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }
+  ], 
+  "episode_number": 2, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08de04", 
+      "id": 149594, 
+      "name": "Paige Moss", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dd5b", 
+      "id": 80232, 
+      "name": "Dagney Kerr", 
+      "order": 6, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949470, 
+  "name": "Living Conditions", 
+  "overview": "Dorm life proves to be a challenge as Buffy has to deal with a roommate who is more than a little bit difficult. Kathy continually imposes her idiosyncrasies onto Buffy and even begins to invade her dreams which has Buffy acting just a little too strange about the situation. Buffy sets her sights on Parker Abrams, the first college guy to pay her any attention, but when Kathy becomes more friendly with him than her, Buffy declares that she must kill Kathy.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/psoyC7v24UgubqW8AVwFs4JvL23.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

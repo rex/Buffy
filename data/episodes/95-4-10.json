@@ -1,0 +1,80 @@
+{
+  "air_date": "1999-12-14", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dca9", 
+      "id": 1217813, 
+      "name": "Phina Oruche", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e1a5", 
+      "id": 83859, 
+      "name": "Leonard Roberts", 
+      "order": 3, 
+      "profile_path": "/stLgqI31p8ULs3lDZg57KWpYL68.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dcfd", 
+      "id": 32225, 
+      "name": "Lindsay Crouse", 
+      "order": 3, 
+      "profile_path": "/mAZTWVbtfmC0R4R6TZ3rjhJSW0b.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053ee5", 
+      "id": 46772, 
+      "name": "Marc Blucas", 
+      "order": 11, 
+      "profile_path": "/5OdBu0DFKca1mxjeqNruz00DSRF.jpg"
+    }
+  ], 
+  "id": 949477, 
+  "name": "Hush", 
+  "overview": "The entire town of Sunnydale goes silent when a group of fairy tale demons called The Gentlemen appear and steal everyone's voices. Without being vulnerable to the one thing that can kill them (a human scream) they are free to steal the hearts of seven people. Buffy and gang must solve the mystery and overcome the bad guys without being able to discuss anything.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/tgJA8kADzpAHeGA1VwoS8PoRBRx.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

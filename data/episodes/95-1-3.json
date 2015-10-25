@@ -1,0 +1,56 @@
+{
+  "air_date": "1997-03-17", 
+  "crew": [
+    {
+      "credit_id": "52599e2119c295731c08a5ac", 
+      "department": "Writing", 
+      "id": 1231028, 
+      "job": "Writer", 
+      "name": "Dana Reston", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2119c295731c08a5da", 
+      "department": "Directing", 
+      "id": 108250, 
+      "job": "Director", 
+      "name": "Stephen Cragg", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a54e", 
+      "id": 38711, 
+      "name": "Robin Riker", 
+      "order": 0, 
+      "profile_path": "/lEzPfPLcn18rCUVEfp6JanWR3oi.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a580", 
+      "id": 1226827, 
+      "name": "Elizabeth Anne Allen", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949415, 
+  "name": "Witch", 
+  "overview": "When several cheerleaders are involved in strange accidents that cause them to spontaneously combust or leave them without eyes or a mouth, Buffy and the gang suspect that one of the cheerleader wannabes is practicing witchcraft and is trying to eliminate her competition.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/p37idHQIs5ztzGK7rpfPrQGRZuu.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

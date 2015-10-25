@@ -1,0 +1,40 @@
+{
+  "air_date": "2000-04-04", 
+  "crew": [
+    {
+      "credit_id": "5257383e760ee3668d007df2", 
+      "department": "Writing", 
+      "id": 1212579, 
+      "job": "Writer", 
+      "name": "Tracey Stern", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573843760ee3668d008438", 
+      "department": "Directing", 
+      "id": 1231379, 
+      "job": "Director", 
+      "name": "Regis Kimble", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 17, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573841760ee3668d008409", 
+      "id": 22014, 
+      "name": "Tamara Gorski", 
+      "order": 0, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182974, 
+  "name": "Eternity", 
+  "overview": "When an embattled celebrity enlists Angel to protect her from a stalker, her interest in Angel could cost him his soul.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/bs7Et8eKoyhzJzRPATskScCFKEJ.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

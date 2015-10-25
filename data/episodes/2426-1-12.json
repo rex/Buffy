@@ -1,0 +1,56 @@
+{
+  "air_date": "2000-01-25", 
+  "crew": [
+    {
+      "credit_id": "52573837760ee3668d00747d", 
+      "department": "Directing", 
+      "id": 17272, 
+      "job": "Director", 
+      "name": "David Semel", 
+      "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+    }, 
+    {
+      "credit_id": "5257383f760ee3668d007f80", 
+      "department": "Writing", 
+      "id": 1221664, 
+      "job": "Writer", 
+      "name": "Howard Gordon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d0080cc", 
+      "id": 77089, 
+      "name": "Ken Marino", 
+      "order": 0, 
+      "profile_path": "/h0EU4SvG8iCejG6xO0tF3uj6GfI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d0080ee", 
+      "id": 97779, 
+      "name": "Daphn\u00e9e Duplaix Samuel", 
+      "order": 1, 
+      "profile_path": "/fxnZIMmTX4L9lZey7TjK4mZjmeH.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573840760ee3668d008110", 
+      "id": 56162, 
+      "name": "Josh Randall", 
+      "order": 2, 
+      "profile_path": "/jUg69xKO9L1HqRPgrSjBunRlkt2.jpg"
+    }
+  ], 
+  "id": 182969, 
+  "name": "Expecting", 
+  "overview": "After a one-night stand goes bad, Cordelia wakes up to find herself extremely pregnant with something extremely unnatural.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/gWdmmVarSw2xPtAvKyG1ou1GsgG.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

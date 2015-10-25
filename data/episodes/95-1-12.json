@@ -1,0 +1,80 @@
+{
+  "air_date": "1997-06-02", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 149448, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2419c295731c08ab1f", 
+      "id": 1228811, 
+      "name": "Andrew J. Ferchland", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2519c295731c08ad35", 
+      "id": 55714, 
+      "name": "Scott Gurney", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1e19c295731c08a056", 
+      "id": 55194, 
+      "name": "Mark Metcalf", 
+      "order": 5, 
+      "profile_path": "/qjxCggGQH99OkXjDxm33QPIJZcl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949423, 
+  "name": "Prophecy Girl", 
+  "overview": "With the help of Angel, Giles discovers an ancient prophecy which foresees that Buffy will die if she fights The Master. Upon hearing of her doom, Buffy is met with the biggest decision of her young life.   When vampires attack a group of students at the school, Buffy decides to face her destiny. Unfortunately, the prophecy is deceiving and it is actually Buffy who frees the Master when he feeds on her and gains the power to break through the barrier.   Buffy falls unconscious into a pool of water and drowns but Xander and Angel arrive in time and Xander performs CPR to bring her back. Buffy wakes and is stronger after the encounter and the three head to the school to stop the Master, while the rest of the gang have their hands full fighting off the Hellmouth.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/tVZpFPt96ZqL2El62DDpemnX0ML.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

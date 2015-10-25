@@ -1,0 +1,64 @@
+{
+  "air_date": "2003-04-16", 
+  "crew": [
+    {
+      "credit_id": "5257384a760ee3668d0088b1", 
+      "department": "Directing", 
+      "id": 1236075, 
+      "job": "Director", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573854760ee3668d00995d", 
+      "id": 9576, 
+      "name": "Gina Torres", 
+      "order": 1, 
+      "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d009aa7", 
+      "id": 13645, 
+      "name": "Danny Woodburn", 
+      "order": 1, 
+      "profile_path": "/8oXcLk4pijxK8H8xp8G1NmGDL2E.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d009ac9", 
+      "id": 52801, 
+      "name": "Patrick Fischler", 
+      "order": 2, 
+      "profile_path": "/ccSabJ9XcpsF21OPskhJRxKsz2d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d009aeb", 
+      "id": 72577, 
+      "name": "Zakk Wylde", 
+      "order": 3, 
+      "profile_path": "/qvKFy0zwS6lKTrh23uNyTpkoktr.jpg"
+    }
+  ], 
+  "id": 183035, 
+  "name": "The Magic Bullet", 
+  "overview": "As Jasmine's influence continues to spread, Fred finally tricks Angel into seeing her true nature.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/KJZP7DIn6X7t37WWWBkFMkaYQs.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

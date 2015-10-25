@@ -1,0 +1,96 @@
+{
+  "air_date": "2000-11-28", 
+  "crew": [
+    {
+      "credit_id": "5257383c760ee3668d007a7a", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383c760ee3668d007aaa", 
+      "department": "Directing", 
+      "id": 1214718, 
+      "job": "Director", 
+      "name": "Bruce Seth Green", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 9, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b6d", 
+      "id": 36221, 
+      "name": "Sam Anderson", 
+      "order": 3, 
+      "profile_path": "/2zcmQEBeArztSQJ317nZCHwCVtF.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b8f", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 4, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383c760ee3668d007a50", 
+      "id": 120560, 
+      "name": "Jim Piddock", 
+      "order": 4, 
+      "profile_path": "/vdsY1X3LBvXzX84kl9sxCNaTxjw.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }
+  ], 
+  "id": 182954, 
+  "name": "The Trial", 
+  "overview": "Still haunted by flashbacks of his 150-year fling with the dreaded Darla, Angel sends Gunn out to find her.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/svjmuq2r3f94mAGv1WG1yZxO7V.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

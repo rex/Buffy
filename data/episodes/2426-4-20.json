@@ -1,0 +1,56 @@
+{
+  "air_date": "2003-04-23", 
+  "crew": [
+    {
+      "credit_id": "5257383e760ee3668d007e16", 
+      "department": "Directing", 
+      "id": 1215383, 
+      "job": "Director", 
+      "name": "David Straiton", 
+      "profile_path": "/kwoDQzrt9cywbhFffDx4S6C7x0D.jpg"
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d008922", 
+      "department": "Writing", 
+      "id": 1215761, 
+      "job": "Writer", 
+      "name": "Ben Edlund", 
+      "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg"
+    }
+  ], 
+  "episode_number": 20, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573854760ee3668d00995d", 
+      "id": 9576, 
+      "name": "Gina Torres", 
+      "order": 1, 
+      "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d0099c7", 
+      "id": 98661, 
+      "name": "Bradley Stryker", 
+      "order": 1, 
+      "profile_path": "/8ZUSpcR7ueXdQfhhChGjNEcpcfF.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d0099e9", 
+      "id": 69748, 
+      "name": "Tristine Skyler", 
+      "order": 2, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183033, 
+  "name": "Sacrifice", 
+  "overview": "While hiding in a sewer, Angel and his friends battle a nasty monster provides some clues that might help in the larger battle against Jasmine.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/tvpEnzVA28VGQkpByesMJmQXHgQ.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

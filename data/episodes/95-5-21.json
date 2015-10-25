@@ -1,0 +1,88 @@
+{
+  "air_date": "2001-05-15", 
+  "crew": [
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 21, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4b19c295731c08fdb2", 
+      "id": 6748, 
+      "name": "Joel Grey", 
+      "order": 0, 
+      "profile_path": "/yCLwC64GVp96bNi7eTPT0VPmjON.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4419c295731c08f130", 
+      "id": 149660, 
+      "name": "Bob Morrisey", 
+      "order": 1, 
+      "profile_path": "/4hHQkGkKJxYuuVNG01JkGIoOD2v.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08aeee", 
+      "id": 149463, 
+      "name": "Dean Butler", 
+      "order": 3, 
+      "profile_path": "/iOdPV4ksc2hO3HmWx854Uq5gUVB.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949511, 
+  "name": "The Weight of the World", 
+  "overview": "The Slayer in Buffy is catatonic due to Glory's abduction of Dawn so Willow psychically enters her mind. Willow goes through a loophole in Buffy's mind and sees several replays of Buffy's childhood when she first sees her sister; and of Buffy as she is now smothering Dawn to death. Buffy's guilt over Dawn being kidnapped finally proved to her that she is no match for Glory and she believes she killed Dawn herself.    Meanwhile, Glory vents her frustrations about being stuck on Earth to Dawn and is beginning to feel real human emotions as the barrier separating her and Ben's psyches becomes weaker. She and Ben fight in a confusing switching back and forth argument as he tries to help Dawn. Eventually, Ben is the one to give Dawn away to Glory, knowing that it is his life or hers.    Spike, Xander and Giles are left to try to figure out how to undermine Glory's plans, but the options don't look good. Buffy may have to end up choosing between killing her own sister or letting the world be", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/5gFBs4OJt66ZgKhULqxXmMqe8gX.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

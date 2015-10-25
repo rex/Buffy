@@ -1,0 +1,64 @@
+{
+  "air_date": "1999-05-11", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 20, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4d6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 4, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949466, 
+  "name": "The Prom", 
+  "overview": "As the all time night-of-nights for the senior students peeks around the halls, Buffy must save her friends and the rest of the school from a scorned student who has trained a pack of hellhounds to attack formalwear.   Meanwhile, Angel reveals his feelings that he and Buffy could never have a normal life together and has decided to do the right thing and break up with her and plans to leave town after the Ascension.   Of course Buffy saves the day and her night doesn't turn out so bad when she receives a special Class Protector award from her fellow students and Angel shows up looking very dapper in a tux and asks for one last dance.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/sei1RUj7LHZZxnlWBLW3Sd3y2VG.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

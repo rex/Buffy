@@ -1,0 +1,64 @@
+{
+  "air_date": "2003-11-12", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008b89", 
+      "department": "Writing", 
+      "id": 47506, 
+      "job": "Writer", 
+      "name": "Drew Goddard", 
+      "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+    }, 
+    {
+      "credit_id": "5257384d760ee3668d008bad", 
+      "department": "Directing", 
+      "id": 1216553, 
+      "job": "Director", 
+      "name": "Jefferson Kibbee", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257384c760ee3668d008b37", 
+      "id": 4002, 
+      "name": "Roy Dotrice", 
+      "order": 0, 
+      "profile_path": "/5lEq1zJbdKO9KmhNiYxqEeiHgqT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573847760ee3668d0086f1", 
+      "id": 43427, 
+      "name": "Sarah Thompson", 
+      "order": 2, 
+      "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384c760ee3668d008b65", 
+      "id": 12802, 
+      "name": "Treva Etienne", 
+      "order": 3, 
+      "profile_path": "/wIHXwmb2aFBNIT9aJHahtlHMrto.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573847760ee3668d008713", 
+      "id": 1217551, 
+      "name": "Jonathan M. Woodward", 
+      "order": 3, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182994, 
+  "name": "Lineage", 
+  "overview": "When Wesley's father visits Wolfram and Hart, the firm is attacked by a troop of spooky Ninja cyborgs.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/tQoQEcXrdLHzKA5yzI2QfpUdlA2.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

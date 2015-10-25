@@ -1,0 +1,56 @@
+{
+  "air_date": "1998-01-12", 
+  "crew": [
+    {
+      "credit_id": "52599e2819c295731c08b39a", 
+      "department": "Directing", 
+      "id": 87590, 
+      "job": "Director", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2b19c295731c08ba93", 
+      "id": 44205, 
+      "name": "Jeremy Ratchford", 
+      "order": 0, 
+      "profile_path": "/xaRo0XqN8oTlQFufgvPJRWWTj3x.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2b19c295731c08bac5", 
+      "id": 1213542, 
+      "name": "Rick Zieff", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949436, 
+  "name": "Bad Eggs", 
+  "overview": "The students are given eggs to look after to teach them about parenthood but they aren't what they seem. Soon the eggs hatch and the creatures inside take over their owners and lead them to the school basement to dig up the mother creature.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/3fQvV7AgGPTNpOVulk1BEKahNSU.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

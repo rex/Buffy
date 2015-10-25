@@ -1,0 +1,72 @@
+{
+  "air_date": "2002-05-14", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 20, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d31c", 
+      "id": 54865, 
+      "name": "Jeff Kober", 
+      "order": 3, 
+      "profile_path": "/eMp9ZsC77yddwW4SMiuZ7xOd0GS.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949513, 
+  "name": "Villains", 
+  "overview": "While the paramedics work on Buffy in the yard, in her bedroom Willow deperately calls on Osiris to bring Tara back to life the same way as she did for Buffy. She is told that the spell will not work for a natural human death and becomes consumed with rage and wants revenge in the worst way. She runs to the magic shop and draws the dark power from the books into her causing her hair and eyes to turn black. After saving Buffy by magically removing the bullet from her shoulder she heads out to find Warren.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/hUe7AvBqpEkCztKw0XdWAWtHhJP.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

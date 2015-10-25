@@ -1,0 +1,72 @@
+{
+  "air_date": "1999-04-21", 
+  "crew": [
+    {
+      "credit_id": "52599e3919c295731c08d8a6", 
+      "department": "Directing", 
+      "id": 1231379, 
+      "job": "Director", 
+      "name": "Regis Kimble", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d822", 
+      "id": 4134, 
+      "name": "Keram Malicki-S\u00e1nchez", 
+      "order": 0, 
+      "profile_path": "/jTrVwWLpoUme2xezQHrRU1M5T0M.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4d6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 4, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d68a", 
+      "id": 149563, 
+      "name": "Ethan Erickson", 
+      "order": 4, 
+      "profile_path": "/rFf9TFofNCARgpj1xTW0CynidAe.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949464, 
+  "name": "Earshot", 
+  "overview": "After a close encounter with a mouthless demon Buffy is infected with the demon's blood and she gains the ability to hear people's thoughts. Her new found ability at first is good for cheating on schoolwork, but when the voices continue to flood her mind, she realises that she cannot control the power.    While the gang tries to track down a would-be killer at the school, Buffy is slowly going crazy from the inability to block the noise from the minds of the people around her.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/rSbcbQrWDJx1OKzezrlQhBXBLbv.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

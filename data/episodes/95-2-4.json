@@ -1,0 +1,80 @@
+{
+  "air_date": "1997-10-06", 
+  "crew": [
+    {
+      "credit_id": "5253387919c2957940054047", 
+      "department": "Writing", 
+      "id": 1213078, 
+      "job": "Writer", 
+      "name": "Matt Kiene", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387a19c2957940054053", 
+      "department": "Writing", 
+      "id": 1213079, 
+      "job": "Writer", 
+      "name": "Joe Reinkemeyer", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2319c295731c08aa7c", 
+      "department": "Directing", 
+      "id": 1213615, 
+      "job": "Director", 
+      "name": "Ellen S. Pressman", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2719c295731c08b19b", 
+      "id": 59671, 
+      "name": "Clayne Crawford", 
+      "order": 0, 
+      "profile_path": "/6JCfyUTPMxwcfZMauVRHBCu0EWh.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2719c295731c08b1c5", 
+      "id": 156739, 
+      "name": "Bernard White", 
+      "order": 1, 
+      "profile_path": "/1DEmHQyjfMLQssEE8PeFOtTYGn3.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2719c295731c08b275", 
+      "id": 64189, 
+      "name": "Ara Celi", 
+      "order": 4, 
+      "profile_path": "/v5ejFjsfIX4gBeBzoEo5LCejCgq.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }
+  ], 
+  "id": 949428, 
+  "name": "Inca Mummy Girl", 
+  "overview": "While on a visit to the local museum one of the students accidentally breaks an ancient seal buried with an Inca Mummy. Without the seal to hold her, the mummy rises and must consume the life force of the living in order to stay alive. When she consumes the identity of Ampada, an exchange student, Buffy have to stop her from seducing Xander into her death list.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/4pIQKVqbNXnt80ZnYaQqevE6S0U.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

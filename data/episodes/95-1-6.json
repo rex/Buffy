@@ -1,0 +1,64 @@
+{
+  "air_date": "1997-04-07", 
+  "crew": [
+    {
+      "credit_id": "5253387919c2957940054047", 
+      "department": "Writing", 
+      "id": 1213078, 
+      "job": "Writer", 
+      "name": "Matt Kiene", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2119c295731c08a6b9", 
+      "department": "Directing", 
+      "id": 1214718, 
+      "job": "Director", 
+      "name": "Bruce Seth Green", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387a19c2957940054053", 
+      "department": "Writing", 
+      "id": 1213079, 
+      "job": "Writer", 
+      "name": "Joe Reinkemeyer", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2519c295731c08ade6", 
+      "id": 21376, 
+      "name": "James Stephens", 
+      "order": 0, 
+      "profile_path": "/bc6fOz9XXuqrvnZQC5L1xRdVpUP.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2519c295731c08ae28", 
+      "id": 7498, 
+      "name": "Eion Bailey", 
+      "order": 1, 
+      "profile_path": "/4MnRgrwuiJvHsfoiJrIUL4TkfoC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2519c295731c08ae54", 
+      "id": 20981, 
+      "name": "Jennifer Sky", 
+      "order": 2, 
+      "profile_path": "/bisnIsbLI08eVM9JNLdQcF4xYg3.jpg"
+    }
+  ], 
+  "id": 949424, 
+  "name": "The Pack", 
+  "overview": "\"The Pack\" is the sixth episode of season 1 of the television series Buffy the Vampire Slayer. The episode was written by story editors Matt Kiene and Joe Reinkemeyer, and directed by Bruce Seth Green. In the episode, Buffy's friend Xander and four classmates are possessed by animal spirits, causing them to act increasingly like predators.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/3rACEBaLRunKnxdPvNrjnoEG8cG.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

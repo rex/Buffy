@@ -1,0 +1,72 @@
+{
+  "air_date": "1999-05-04", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce23", 
+      "id": 35518, 
+      "name": "Harry Groener", 
+      "order": 1, 
+      "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4d6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 4, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949465, 
+  "name": "Choices", 
+  "overview": "Buffy's acceptance to college leaves her with even more doubts about her life outside of Sunnydale with Faith and the Mayor still around. Buffy decides to take the fight to the Mayor and discovers a secret delivery for him, the Box of Gavrok which contains a mystical energy vital to the Ascension. Buffy and Angel successfully break into Town Hall and snatch the box but unfortunately, Willow is captured by Faith. Are they willing to give up their best chance at avoiding the Ascension to save Willow's life? Is there any doubt?", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/LTMV4gDlLZWU9umUbuZ2G30lMa.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

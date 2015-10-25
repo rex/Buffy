@@ -1,0 +1,64 @@
+{
+  "air_date": "1998-09-29", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 1, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3119c295731c08cab7", 
+      "id": 51931, 
+      "name": "Harrison Young", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3119c295731c08cae1", 
+      "id": 1216156, 
+      "name": "Chad Todhunter", 
+      "order": 1, 
+      "profile_path": "/zFHBwnGHAfyj3naHz6NbPaZNAuT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08cb13", 
+      "id": 1213088, 
+      "name": "Mary-Pat Green", 
+      "order": 3, 
+      "profile_path": "/6yNnVUrXe9jLRQm7qvkIacg7YVc.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949447, 
+  "name": "Anne", 
+  "overview": "Willow, Xander and Oz are attempting to keep the Sunnydale vampire population in check during Buffy's absence with only moderate success. As the gang restarts school we learn that Buffy is working as a waitress in L.A. using the name Anne and trying to forget her old life. Buffy runs into Lily (formerly known as Chanterelle) and her boyfriend Rickie who quickly turns up missing. Buffy discovers Rickie dead but mysteriously aged to an old man. Continuing her investigation Buffy tracks down Ken (a social worker) and Lily and all three fall through a portal in the floor. They are in a demonic factory where the humans are slave labor.   Back in Sunnydale the gang succeeds in staking a vampire though it's not exactly pretty. Meanwhile Buffy and Lily wake up in a cell and Ken explains they are in an alternate dimension where a hundred years passes before a day on Earth goes by. Buffy overcomes the guards with some help from Lily and leads her and the other slaves back to Earth. After handing", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/lbFhRII9UgiN8QBo7puUKDUBn5x.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

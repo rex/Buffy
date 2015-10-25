@@ -1,0 +1,64 @@
+{
+  "air_date": "2000-11-21", 
+  "crew": [
+    {
+      "credit_id": "52573836760ee3668d00732f", 
+      "department": "Writing", 
+      "id": 21155, 
+      "job": "Writer", 
+      "name": "Jim Kouf", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573837760ee3668d007566", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d0074f6", 
+      "id": 19384, 
+      "name": "Tony Todd", 
+      "order": 1, 
+      "profile_path": "/lAU9F4FLcthAdSqs0HSAsbKbYSW.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d007518", 
+      "id": 6951, 
+      "name": "W. Earl Brown", 
+      "order": 2, 
+      "profile_path": "/ygTJtQVn9R2NgE1YPybsgk33jBm.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d00753a", 
+      "id": 1220725, 
+      "name": "Dwayne L. Barnes", 
+      "order": 3, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182943, 
+  "name": "The Shroud of Rahmon", 
+  "overview": "Angel goes undercover with the help of the witty and street smart Gunn in order to prevent a mind-altering shroud from falling into the wrong hands.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/8sJYFHiFmuf5VJRhqwAjqAP3MfP.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

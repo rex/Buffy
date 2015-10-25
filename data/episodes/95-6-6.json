@@ -1,0 +1,72 @@
+{
+  "air_date": "2001-10-30", 
+  "crew": [
+    {
+      "credit_id": "5253387519c2957940054017", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5019c295731c0907f2", 
+      "id": 35554, 
+      "name": "Steven Anthony Lawrence", 
+      "order": 2, 
+      "profile_path": "/nUwkJOWPsV1mIPUpn5kPRyg4fl0.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5119c295731c09083a", 
+      "id": 20354, 
+      "name": "Amber Tamblyn", 
+      "order": 3, 
+      "profile_path": "/4nwsbtFzoxzN2YF2HOW4P4vdit2.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5119c295731c090868", 
+      "id": 78598, 
+      "name": "Dave Power", 
+      "order": 4, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949521, 
+  "name": "All the Way", 
+  "overview": "Dawn lies to Buffy and spends Halloween night joyriding and partying with her friend Janice and two older boys. She develops a crush on one of the boys, Justin, and receives her first real kiss. When the boys reveal themselves to be vampires Dawn stakes Justin and is devastated.    Buffy decides Dawn needs a serious grown-up talk but she hands the task over to Giles, who is not at all happy about the way Buffy is depending on him so much.    Meanwhile, after Willow and Tara have a fight about Willow's abuse of magic, Willow casts a spell on Tara to make her forget the fight.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/iThB4PPb3CGgGJdGJkqa200wCVO.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,56 @@
+{
+  "air_date": "2002-10-20", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008a83", 
+      "department": "Directing", 
+      "id": 1215026, 
+      "job": "Director", 
+      "name": "Marita Grabiak", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d00797c", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d0093b8", 
+      "id": 91725, 
+      "name": "Clayton Rohner", 
+      "order": 1, 
+      "profile_path": "/uVLfEz3oE6VF2VG8YpcjjP4wa5M.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d0093da", 
+      "id": 57995, 
+      "name": "Matt Bushell", 
+      "order": 2, 
+      "profile_path": "/cYq1abfNB0rcxfSdavEaH0gt3AM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183014, 
+  "name": "The House Always Wins", 
+  "overview": "Angel and his friends discover that Lorne is being held prisoner in a corrupt Las Vegas casino.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/lIT1KqbwErNg3xI9sBWSlW0ghFk.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

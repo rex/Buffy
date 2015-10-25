@@ -1,0 +1,56 @@
+{
+  "air_date": "2001-11-27", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a580", 
+      "id": 1226827, 
+      "name": "Elizabeth Anne Allen", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d31c", 
+      "id": 54865, 
+      "name": "Jeff Kober", 
+      "order": 3, 
+      "profile_path": "/eMp9ZsC77yddwW4SMiuZ7xOd0GS.jpg"
+    }
+  ], 
+  "id": 949523, 
+  "name": "Wrecked", 
+  "overview": "When they finally return home from their nights out, Buffy is ashamed of having slept with Spike and Willow is exhausted from casting spells all night. Amy takes Willow to a warlock whose particular brand of magic quickly has Willow hooked.   While looking after Dawn, Willow decides to get another quick fix and leaves the warlock's place looking very high and not at all in control of herself. To escape a demon Willow and Dawn steal a car but Willow seems it better to drive using magic, not her hands, resulting in them crashing.   Willow breaks down and seems truly sorry for what she has done, but her actions further enrage Buffy who is now convinced that Willow is completely out of control and may need to get help.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/jisisC76Fe0qSSgB1gdDF7JOXyd.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

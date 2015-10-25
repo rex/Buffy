@@ -1,0 +1,96 @@
+{
+  "air_date": "2001-10-16", 
+  "crew": [
+    {
+      "credit_id": "52599e4e19c295731c09043e", 
+      "department": "Directing", 
+      "id": 1213071, 
+      "job": "Director", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4e19c295731c0903fe", 
+      "id": 19277, 
+      "name": "Todd Stashwick", 
+      "order": 6, 
+      "profile_path": "/vTY2rqUPQnY3gZNRyoebOZPpsmr.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949515, 
+  "name": "Flooded", 
+  "overview": "With Joyce gone, Buffy finds herself trying to contend with burst pipes and home-improvement loans. She seeks out the advice of a just-returned Giles who expresses his concern over Willow's attitude toward bringing Buffy back. While trying to get a loan, Buffy's meeting is crashed by a demon, dispatched by a trio of bored, twenty-something would-be sorcerers who want to cause mischief (and to hypnotize Buffy and make her their love slave).   The demon makes its way to the Slayers home and Buffy begs him not to break anything, and winds up drowning him in a pool of water formed by her plumbing leak.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/wb5W6waI4Fah7NZLe8xrSoBtUGx.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

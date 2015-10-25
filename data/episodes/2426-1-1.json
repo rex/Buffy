@@ -1,0 +1,64 @@
+{
+  "air_date": "1999-10-05", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573831760ee3668d006f6f", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52573833760ee3668d0071c1", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 1, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257383c760ee3668d007af4", 
+      "id": 12547, 
+      "name": "Tracy Middendorf", 
+      "order": 1, 
+      "profile_path": "/j55JY7bG995jfnZ0kkXZxzF1wxt.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383c760ee3668d007b16", 
+      "id": 142636, 
+      "name": "Josh Holloway", 
+      "order": 2, 
+      "profile_path": "/4vMj8zIMSZoxxXefanh5SuEDDJ6.jpg"
+    }
+  ], 
+  "id": 182956, 
+  "name": "City Of", 
+  "overview": "Angel moves to L.A. where he meets up with Cordelia, another Sunnydale transplant who comes to work for him, and Doyle, a half-demon who gets visions of people in trouble.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/3rtghGlepSYWNhVPfbqm2VjE8A8.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

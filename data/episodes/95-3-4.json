@@ -1,0 +1,56 @@
+{
+  "air_date": "1998-10-20", 
+  "crew": [
+    {
+      "credit_id": "52599e2f19c295731c08c4ab", 
+      "department": "Directing", 
+      "id": 87472, 
+      "job": "Director", 
+      "name": "James Whitmore Jr.", 
+      "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08cc51", 
+      "id": 75946, 
+      "name": "Fab Filippo", 
+      "order": 0, 
+      "profile_path": "/34Wj12QrzinSnwe0Wjq1XiPGvre.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08cda4", 
+      "id": 33490, 
+      "name": "Phill Lewis", 
+      "order": 1, 
+      "profile_path": "/dhS3Er0m1cF9HgmcEXe2lmmlIG7.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }
+  ], 
+  "id": 949450, 
+  "name": "Beauty and the Beasts", 
+  "overview": "When a student is found savagely mauled in the woods the Oz-werewolf is suspected, but when Buffy discovers that Angel is back on Earth after hundreds of years of torture and has been reduced to nothing more than a wild animal, she fears that he may be the killer.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/uZa8En7S6C5AzfFuOTZ8iA1bP1T.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

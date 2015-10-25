@@ -1,0 +1,72 @@
+{
+  "air_date": "1997-09-15", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 1, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 149448, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08aeee", 
+      "id": 149463, 
+      "name": "Dean Butler", 
+      "order": 3, 
+      "profile_path": "/iOdPV4ksc2hO3HmWx854Uq5gUVB.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2419c295731c08ab1f", 
+      "id": 1228811, 
+      "name": "Andrew J. Ferchland", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949425, 
+  "name": "When She Was Bad", 
+  "overview": "Buffy returns from her summer vacation after defeating the Master and is not the same fun-loving slayer she used to be. Her cold, distant behaviour escalates when she discovers that the remaining vampire population are planning to resurrect The Master.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/5mIxbqmnquudYQ4XA6XBc9ysQgm.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

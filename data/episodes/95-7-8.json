@@ -1,0 +1,80 @@
+{
+  "air_date": "2002-11-19", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "52599e5b19c295731c091c75", 
+      "department": "Directing", 
+      "id": 44131, 
+      "job": "Director", 
+      "name": "Alan J. Levi", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5b19c295731c091bc3", 
+      "id": 55258, 
+      "name": "Robinne Lee", 
+      "order": 1, 
+      "profile_path": "/dkt0s7GjQ2fEJGHYVd1T2pTqBET.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5b19c295731c091bef", 
+      "id": 4771, 
+      "name": "Aimee Mann", 
+      "order": 2, 
+      "profile_path": "/2qP6xS8h9SKFOSi053duEFVv6b0.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5b19c295731c091c1d", 
+      "id": 104785, 
+      "name": "Kevin Daniels", 
+      "order": 3, 
+      "profile_path": "/hmQYLZ4nywBHbBhl2SBWqpiaEkU.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5a19c295731c091b35", 
+      "id": 98818, 
+      "name": "Stacey Scowley", 
+      "order": 7, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949542, 
+  "name": "Sleeper", 
+  "overview": "After discovering that an old friend may have been recently sired by Spike, Buffy informs the gang that they must keep a close eye on him. When Spike manages to go out, he gets put in a mysterious trance and then seduces and kills a girl with the evil morphing entity watching over him.    Meanwhile in England, Giles finds a fellow watcher close to death. While he is finding out what happened, a man with no eyes approaches Giles from behind, and swings an axe at his head...", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/9hNURTKG3ZJM9hyC1t7VJmfNCnb.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

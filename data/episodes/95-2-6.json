@@ -1,0 +1,72 @@
+{
+  "air_date": "1997-10-27", 
+  "crew": [
+    {
+      "credit_id": "52599e2819c295731c08b4e5", 
+      "department": "Writing", 
+      "id": 20977, 
+      "job": "Writer", 
+      "name": "Carl Ellsworth", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2119c295731c08a6b9", 
+      "department": "Directing", 
+      "id": 1214718, 
+      "job": "Director", 
+      "name": "Bruce Seth Green", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2819c295731c08b3f7", 
+      "id": 15030, 
+      "name": "Robin Sachs", 
+      "order": 1, 
+      "profile_path": "/rSMeopDC1loyjUVhxK0XjFfSlAC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }
+  ], 
+  "id": 949430, 
+  "name": "Halloween", 
+  "overview": "On Halloween, Buffy, Willow and Xander are 'volunteered' by Principal Snyder to take groups of kids trick-or-treating. They get their costumes from a new store run by an Englishman, Ethan Rayne. Xander chooses a soldier outfit, Buffy buys an 18th century noblewomans dress to impress Angel; and Willow, despite Buffy's attempts to get her to dress in a sexy skirt and halter, dresses as a ghost. Unfortunately Ethan turns out to be a bad guy and casts a spell to transform everyone into their costumes, and causing Buffy and Xander to have amnesia. When Spike and his vampire gang attacks them, Willow, Giles, Angel and Cordelia team up to save Buffy and the rest from being dinner, while they also need to put a stop on Ethan's curse spell.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/cubRjpgyNzFAiGf6CIhNzr5XLcm.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

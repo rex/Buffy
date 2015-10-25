@@ -1,0 +1,80 @@
+{
+  "air_date": "1998-03-03", 
+  "crew": [
+    {
+      "credit_id": "5253387419c2957940054001", 
+      "department": "Writing", 
+      "id": 1212428, 
+      "job": "Writer", 
+      "name": "Dean Batali", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387419c295794005400b", 
+      "department": "Writing", 
+      "id": 1212432, 
+      "job": "Writer", 
+      "name": "Rob Des Hotel", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2e19c295731c08c222", 
+      "department": "Directing", 
+      "id": 1237501, 
+      "job": "Director", 
+      "name": "Deran Serafian", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2e19c295731c08c262", 
+      "department": "Directing", 
+      "id": 45645, 
+      "job": "Director", 
+      "name": "Deran Sarafian", 
+      "profile_path": "/1EQbGieH0GYE3adw9UvwEKw5Ipd.jpg"
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2e19c295731c08c162", 
+      "id": 1219652, 
+      "name": "Mimi Paley", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2e19c295731c08c1ae", 
+      "id": 13732, 
+      "name": "Richard Herd", 
+      "order": 1, 
+      "profile_path": "/1wsn9V7kkrvD2Qr3bD1vSH2OjpK.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2e19c295731c08c1e8", 
+      "id": 80615, 
+      "name": "Juanita Jennings", 
+      "order": 3, 
+      "profile_path": "/epxlAax85oVnIEuDfaGeJYp4SxT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949442, 
+  "name": "Killed by Death", 
+  "overview": "When Buffy is admitted to hospital with a raging fever she meets a young boy, Ryan, who has the same flu virus and claims that the sick children in the hospital are being persecuted by a monster that may be death himself.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/4HonNAqTxjXU4sRd9BDbP0ifFeV.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

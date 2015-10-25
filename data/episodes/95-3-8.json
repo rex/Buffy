@@ -1,0 +1,64 @@
+{
+  "air_date": "1998-11-24", 
+  "crew": [
+    {
+      "credit_id": "52599e2219c295731c08a798", 
+      "department": "Directing", 
+      "id": 17272, 
+      "job": "Director", 
+      "name": "David Semel", 
+      "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+    }, 
+    {
+      "credit_id": "5253387d19c295794005406b", 
+      "department": "Writing", 
+      "id": 1213081, 
+      "job": "Writer", 
+      "name": "Dan Vebber", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3419c295731c08d00c", 
+      "id": 19307, 
+      "name": "Suzanne Krull", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce23", 
+      "id": 35518, 
+      "name": "Harry Groener", 
+      "order": 1, 
+      "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949454, 
+  "name": "Lovers Walk", 
+  "overview": "Spike returns to Sunnydale a shadow of his bad-ass vampire self and kidnaps Willow so she can put a love spell on Drusilla. While he is out collecting magic spell ingredients and convincing Buffy why she shouldn't kill him, Willow and Xander lose their inhibitions in the heat of the moment only to be caught in the act by a rescue party in the form of Oz and Cordelia.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/tDaZSEG2gCQfffg0tys2zzFgcbR.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

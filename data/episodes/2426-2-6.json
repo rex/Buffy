@@ -1,0 +1,72 @@
+{
+  "air_date": "2000-11-07", 
+  "crew": [
+    {
+      "credit_id": "5257383b760ee3668d0077c3", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d0077e7", 
+      "department": "Directing", 
+      "id": 1226653, 
+      "job": "Director", 
+      "name": "Krishna Rao", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573831760ee3668d007106", 
+      "id": 1215391, 
+      "name": "Brigid Brannagh", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383a760ee3668d00774f", 
+      "id": 1212004, 
+      "name": "Todd Susman", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383a760ee3668d007777", 
+      "id": 44792, 
+      "name": "Art LaFleur", 
+      "order": 2, 
+      "profile_path": "/4rEvPSEtiOeYfqNzwZ6PnCCAP9F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d00779f", 
+      "id": 32286, 
+      "name": "Patrick Kilpatrick", 
+      "order": 4, 
+      "profile_path": "/wEu61ecaSkCN1mD4vXf5WlrUKTV.jpg"
+    }
+  ], 
+  "id": 182949, 
+  "name": "Guise Will Be Guise", 
+  "overview": "Angel meets with a swami in hopes of ending his obsession with Darla; meanwhile, Wesley assumes Angel's identity and plays bodyguard to a wealthy business man's daughter.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/9UQAKe2ZWKbRwRBFghurZR06hHO.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

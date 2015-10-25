@@ -1,0 +1,72 @@
+{
+  "air_date": "2000-10-10", 
+  "crew": [
+    {
+      "credit_id": "5257382e760ee3668d006bd5", 
+      "department": "Writing", 
+      "id": 1216733, 
+      "job": "Writer", 
+      "name": "Shawn Ryan", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d007825", 
+      "id": 52794, 
+      "name": "David Herman", 
+      "order": 2, 
+      "profile_path": "/6S0UlaChdcilaeYk5svTxOCtShC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d007847", 
+      "id": 17740, 
+      "name": "Lucas Babin", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d007869", 
+      "id": 56679, 
+      "name": "Edwin Hodge", 
+      "order": 4, 
+      "profile_path": "/3T6xlpUq3d0qHIuOOzKyAUK87nZ.jpg"
+    }
+  ], 
+  "id": 182950, 
+  "name": "First Impressions", 
+  "overview": "Angel encounters an amorous Darla in his dreams; Cordelia vows to protect Gunn after she experiences a vision depicting him in mortal danger.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/hGh5oq2ZgpGGc4lrM4xm9roesVF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

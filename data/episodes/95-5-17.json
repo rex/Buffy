@@ -1,0 +1,72 @@
+{
+  "air_date": "2001-04-17", 
+  "crew": [
+    {
+      "credit_id": "52599e4819c295731c08f862", 
+      "department": "Directing", 
+      "id": 1213070, 
+      "job": "Director", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 17, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4b19c295731c08fdb2", 
+      "id": 6748, 
+      "name": "Joel Grey", 
+      "order": 0, 
+      "profile_path": "/yCLwC64GVp96bNi7eTPT0VPmjON.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949507, 
+  "name": "Forever", 
+  "overview": "After dealing with the pain of Joyce's funeral, Buffy falls into the arms of Angel who has come from LA to pay his respects, and he consoles her on the future and about getting her and Dawn's lives back together. Dawn becomes fixated on using witchcraft to resurrect her mother and despite her best intentions, Willow actually helps her toward her goal. Dawn gathers information for a powerful spell and enlists Spike to help her complete the task. He takes her to a witch doctor who gives Dawn some advice and warning.   After collecting the final ingredient Dawn performs the spell. Willow warns Buffy about Dawn and she confronts her. Dawn cries that she has no one, Buffy has been pushing her away since Joyce died and hasn't even cried yet. Buffy tells her that when everything is over her mother will be truly gone, and she can't face that. Someone approaches the door and knocks and Buffy rushes to let Joyce in, but Dawn, realising that she was wrong, breaks the spell. Buffy opens the door t", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/z7Ir004jlhDBD9N7bpCAJdLPVw0.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

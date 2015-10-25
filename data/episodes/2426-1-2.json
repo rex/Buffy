@@ -1,0 +1,48 @@
+{
+  "air_date": "1999-10-12", 
+  "crew": [
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d00797c", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 2, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383c760ee3668d007b78", 
+      "id": 1219526, 
+      "name": "Obi Ndefo", 
+      "order": 1, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182957, 
+  "name": "Lonely Hearts", 
+  "overview": "Angel, with the aid of a new friend, tracks a serial killer whose hunting ground is L.A.'s single bars.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/kT5I7hvxhn7xwbnmytcMB0BsRru.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

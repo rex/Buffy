@@ -1,0 +1,104 @@
+{
+  "air_date": "2003-02-11", 
+  "crew": [
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 14, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091d8c", 
+      "id": 642250, 
+      "name": "Iyari Limon", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c09176a", 
+      "id": 168339, 
+      "name": "Sarah Hagan", 
+      "order": 1, 
+      "profile_path": "/p31CwP968p1QOyG3HPFUL2O2w2f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5f19c295731c092174", 
+      "id": 73830, 
+      "name": "K. D. Aubert", 
+      "order": 2, 
+      "profile_path": "/4debwedmhJ5aQYerlg2uhuQcPXN.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6019c295731c0921e0", 
+      "id": 94135, 
+      "name": "Kristy Wu", 
+      "order": 6, 
+      "profile_path": "/shPbdHP7augnWkTDhz0UO8xxID1.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6019c295731c092226", 
+      "id": 57172, 
+      "name": "Ashanti", 
+      "order": 8, 
+      "profile_path": "/lN5YrFFhCmxvX22Ts9hmzTMYblY.jpg"
+    }
+  ], 
+  "id": 949548, 
+  "name": "First Date", 
+  "overview": "Buffy goes on a dinner date with Principal Wood to try and find out what is really going on with him. After they are attacked and he shows off some fighting skill in dusting a few vamps, he explains that he is the son of a Slayer that was killed in New York.  Xander, too, finds a date when he impresses a girl with his rope knowledge, however her interest in him is much more demonic.  Meanwhile the First contacts Andrew in another attepmt to destroy the potentials and Giles finds himself tounge-tied with the new potential, Chao-Ahn.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/2RNXrZGfaGIgnmZ9l3yUpbLUSZa.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

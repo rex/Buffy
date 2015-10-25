@@ -1,0 +1,56 @@
+{
+  "air_date": "1999-11-02", 
+  "crew": [
+    {
+      "credit_id": "5253387619c2957940054023", 
+      "department": "Writing", 
+      "id": 1213075, 
+      "job": "Writer", 
+      "name": "Tracey Forbes", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08de04", 
+      "id": 1228179, 
+      "name": "Paige Moss", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dcfd", 
+      "id": 32225, 
+      "name": "Lindsay Crouse", 
+      "order": 3, 
+      "profile_path": "/mAZTWVbtfmC0R4R6TZ3rjhJSW0b.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053ee5", 
+      "id": 46772, 
+      "name": "Marc Blucas", 
+      "order": 11, 
+      "profile_path": "/5OdBu0DFKca1mxjeqNruz00DSRF.jpg"
+    }
+  ], 
+  "id": 949473, 
+  "name": "Beer Bad", 
+  "overview": "Still trying to come to terms with Parker's womanising, Buffy starts to hang out at the college bar where she and a group of upperclass students really regress when they start drinking a 'special' beer.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/aZfu0b2XmjV8xdsKq6uCexrzVfE.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

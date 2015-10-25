@@ -1,0 +1,64 @@
+{
+  "air_date": "1999-11-16", 
+  "crew": [
+    {
+      "credit_id": "5257383e760ee3668d007df2", 
+      "department": "Writing", 
+      "id": 1212579, 
+      "job": "Writer", 
+      "name": "Tracey Stern", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383e760ee3668d007e16", 
+      "department": "Directing", 
+      "id": 1215383, 
+      "job": "Director", 
+      "name": "David Straiton", 
+      "profile_path": "/kwoDQzrt9cywbhFffDx4S6C7x0D.jpg"
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257383d760ee3668d007d68", 
+      "id": 52930, 
+      "name": "Carlos Jacott", 
+      "order": 0, 
+      "profile_path": "/7bAXajnMa7BzLU8yDPgzJV5260M.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383d760ee3668d007d8a", 
+      "id": 1220719, 
+      "name": "Rib Hillis", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007dac", 
+      "id": 93746, 
+      "name": "Kristin Dattilo", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007dce", 
+      "id": 159275, 
+      "name": "Chris Tallman", 
+      "order": 3, 
+      "profile_path": "/irUaOUL0QKblluW8vXCEOSasWNT.jpg"
+    }
+  ], 
+  "id": 182962, 
+  "name": "Bachelor Party", 
+  "overview": "Doyle's past love comes to town, but her new fianc\u00e9 has other plans for him. Doyle gets a vision of Buffy.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/z8R0Ld5jdUZmSXKhUjZlpd9KMHC.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

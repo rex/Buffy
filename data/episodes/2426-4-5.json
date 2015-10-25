@@ -1,0 +1,72 @@
+{
+  "air_date": "2002-11-03", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008a3d", 
+      "department": "Writing", 
+      "id": 1231386, 
+      "job": "Writer", 
+      "name": "Mutant Enemy Productions", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573833760ee3668d0071e5", 
+      "department": "Directing", 
+      "id": 58075, 
+      "job": "Director", 
+      "name": "Bill L. Norton", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a5f", 
+      "department": "Writing", 
+      "id": 1224044, 
+      "job": "Writer", 
+      "name": "Sarah Fain", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573853760ee3668d00963c", 
+      "id": 102567, 
+      "name": "Randy Oglesby", 
+      "order": 0, 
+      "profile_path": "/i6Zrn7JKMnemYZysNqhkcGs9cjk.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573853760ee3668d00966a", 
+      "id": 111512, 
+      "name": "Jerry Trainor", 
+      "order": 3, 
+      "profile_path": "/sPElk2oZDaH2RE5rtE0STFSBLKY.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183021, 
+  "name": "Supersymmetry", 
+  "overview": "Fred discovers her old physics professor is the one who exiled her to Pylea; Cordelia can't get comfortable with Connor and begins to wonder more about her history with Angel.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/zke7HGOPdi3U9c3qn9l4oVyft2S.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

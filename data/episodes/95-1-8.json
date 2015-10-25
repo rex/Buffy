@@ -1,0 +1,64 @@
+{
+  "air_date": "1997-04-28", 
+  "crew": [
+    {
+      "credit_id": "5253387819c295794005403b", 
+      "department": "Writing", 
+      "id": 1213077, 
+      "job": "Writer", 
+      "name": "Ashley Gable", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387c19c295794005405f", 
+      "department": "Writing", 
+      "id": 1213080, 
+      "job": "Writer", 
+      "name": "Thomas A. Swyden", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2319c295731c08a99a", 
+      "department": "Directing", 
+      "id": 1222972, 
+      "job": "Director", 
+      "name": "Stephen Posey", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a8ee", 
+      "id": 12891, 
+      "name": "Joss Whedon", 
+      "order": 0, 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 149448, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a960", 
+      "id": 9186, 
+      "name": "Chad Lindberg", 
+      "order": 2, 
+      "profile_path": "/ludrPIZeTAXXsnYzQvDzM2JV6eg.jpg"
+    }
+  ], 
+  "id": 949419, 
+  "name": "I, Robot... You, Jane", 
+  "overview": "Willow, saddened by Xander's affection for Buffy turns to the chat rooms and meets a charming boy on-line, ignoring Buffy's concerns about Internet freaks. Meanwhile, the rest of the gang discover a demon trapped in the school computer network.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/4hVodU1YiUhhjaGpYdPzqI25kZf.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,1490 @@
+{
+  "air_date": "1999-10-05", 
+  "episodes": [
+    {
+      "air_date": "1999-10-05", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573831760ee3668d006f6f", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 1, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383c760ee3668d007af4", 
+          "id": 12547, 
+          "name": "Tracy Middendorf", 
+          "order": 1, 
+          "profile_path": "/j55JY7bG995jfnZ0kkXZxzF1wxt.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383c760ee3668d007b16", 
+          "id": 142636, 
+          "name": "Josh Holloway", 
+          "order": 2, 
+          "profile_path": "/4vMj8zIMSZoxxXefanh5SuEDDJ6.jpg"
+        }
+      ], 
+      "id": 182956, 
+      "name": "City Of", 
+      "overview": "Angel moves to L.A. where he meets up with Cordelia, another Sunnydale transplant who comes to work for him, and Doyle, a half-demon who gets visions of people in trouble.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/3rtghGlepSYWNhVPfbqm2VjE8A8.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-10-12", 
+      "crew": [
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 2, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383c760ee3668d007b78", 
+          "id": 1219526, 
+          "name": "Obi Ndefo", 
+          "order": 1, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182957, 
+      "name": "Lonely Hearts", 
+      "overview": "Angel, with the aid of a new friend, tracks a serial killer whose hunting ground is L.A.'s single bars.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/kT5I7hvxhn7xwbnmytcMB0BsRru.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-10-19", 
+      "crew": [
+        {
+          "credit_id": "5257383c760ee3668d007a7a", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383c760ee3668d007aaa", 
+          "department": "Directing", 
+          "id": 1214718, 
+          "job": "Director", 
+          "name": "Bruce Seth Green", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 3, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383c760ee3668d007bc0", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 1, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383c760ee3668d007be2", 
+          "id": 43010, 
+          "name": "Thomas Rosales, Jr.", 
+          "order": 2, 
+          "profile_path": "/vQj5seGz2vviAjxqIcAdHNMXgCt.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383c760ee3668d0079e7", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 3, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }
+      ], 
+      "id": 182958, 
+      "name": "In the Dark", 
+      "overview": "Spike follows Oz to L.A. and enlists the help of a demented vampire to regain a mystical relic from Angel.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/o0VwoTycXjlXOcbjZfVB4hBUXGH.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-10-26", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "5257383d760ee3668d007c7e", 
+          "department": "Directing", 
+          "id": 1216750, 
+          "job": "Director", 
+          "name": "Vern Gillum", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 4, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383c760ee3668d007c2a", 
+          "id": 33712, 
+          "name": "Carlos Carrasco", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383c760ee3668d007c4c", 
+          "id": 142204, 
+          "name": "Andy Umberger", 
+          "order": 2, 
+          "profile_path": "/nDuiFTa0qzfaD1KFmoq97Ae10N9.jpg"
+        }
+      ], 
+      "id": 182959, 
+      "name": "I Fall to Pieces", 
+      "overview": "A desperate young woman pleads for Angel's help, as her disembodied stalker grows more violent. Meanwhile Doyle goes to work with Melissa.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/wCQgnsizO0NFVjoeox8RMrecsBd.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-11-02", 
+      "crew": [
+        {
+          "credit_id": "52573836760ee3668d007353", 
+          "department": "Directing", 
+          "id": 130216, 
+          "job": "Director", 
+          "name": "Scott McGinnis", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d0077c3", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 5, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383d760ee3668d007cb6", 
+          "id": 5151, 
+          "name": "Beth Grant", 
+          "order": 1, 
+          "profile_path": "/8WYd8N24jUpwk4nKDGPAdt08ltM.jpg"
+        }
+      ], 
+      "id": 182960, 
+      "name": "Rm w/a Vu", 
+      "overview": "Cordelia finds a perfect apartment, but it's got just one flaw: it's haunted. Meanwhile, Doyle flees the phantoms of his past.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/dtVTod7jCUUHkwHOKjO6pewccDw.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-11-09", 
+      "crew": [
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 6, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383d760ee3668d007d04", 
+          "id": 1215817, 
+          "name": "Adam Donshik", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383d760ee3668d007d26", 
+          "id": 31007, 
+          "name": "John Capodice", 
+          "order": 2, 
+          "profile_path": "/sQuJV9o2FSXr5UBo2MaiTLObXiY.jpg"
+        }
+      ], 
+      "id": 182961, 
+      "name": "Sense & Sensitivity", 
+      "overview": "Kate's temper buys her a trip to sensitivity training, which has a strange effect on her... and those around her.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/xjEc7eyhQ9p88tygk0G5IDcN4Pv.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-11-16", 
+      "crew": [
+        {
+          "credit_id": "5257383e760ee3668d007df2", 
+          "department": "Writing", 
+          "id": 1212579, 
+          "job": "Writer", 
+          "name": "Tracey Stern", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383e760ee3668d007e16", 
+          "department": "Directing", 
+          "id": 1215383, 
+          "job": "Director", 
+          "name": "David Straiton", 
+          "profile_path": "/kwoDQzrt9cywbhFffDx4S6C7x0D.jpg"
+        }
+      ], 
+      "episode_number": 7, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383d760ee3668d007d68", 
+          "id": 52930, 
+          "name": "Carlos Jacott", 
+          "order": 0, 
+          "profile_path": "/7bAXajnMa7BzLU8yDPgzJV5260M.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383d760ee3668d007d8a", 
+          "id": 1220719, 
+          "name": "Rib Hillis", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007dac", 
+          "id": 93746, 
+          "name": "Kristin Dattilo", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007dce", 
+          "id": 159275, 
+          "name": "Chris Tallman", 
+          "order": 3, 
+          "profile_path": "/irUaOUL0QKblluW8vXCEOSasWNT.jpg"
+        }
+      ], 
+      "id": 182962, 
+      "name": "Bachelor Party", 
+      "overview": "Doyle's past love comes to town, but her new fianc\u00e9 has other plans for him. Doyle gets a vision of Buffy.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/z8R0Ld5jdUZmSXKhUjZlpd9KMHC.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-11-23", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573837760ee3668d007566", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "5257383e760ee3668d007e8e", 
+          "department": "Writing", 
+          "id": 1212542, 
+          "job": "Writer", 
+          "name": "Jeannine Renshaw", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 8, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007e48", 
+          "id": 11863, 
+          "name": "Sarah Michelle Gellar", 
+          "order": 0, 
+          "profile_path": "/rweJ98bNan86oIliWZYT552oRra.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007e6a", 
+          "id": 95825, 
+          "name": "Randall Slavin", 
+          "order": 1, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182963, 
+      "name": "I Will Remember You", 
+      "overview": "Old feelings are rekindled when Buffy comes to L.A. to visit Angel. Buffy and Angel are attacked by a Mohra demon, and together they slay it", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/mDsbDJ3yVuW99CkCQARzTvJhc7F.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-11-30", 
+      "crew": [
+        {
+          "credit_id": "5257383f760ee3668d007f80", 
+          "department": "Writing", 
+          "id": 1221664, 
+          "job": "Writer", 
+          "name": "Howard Gordon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383f760ee3668d007fa4", 
+          "department": "Directing", 
+          "id": 1212609, 
+          "job": "Director", 
+          "name": "Tucker Gates", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 9, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007ece", 
+          "id": 20847, 
+          "name": "Michelle Horn", 
+          "order": 0, 
+          "profile_path": "/eFOyaLVvUTcxFuANlhMdT8oqfAu.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007ef0", 
+          "id": 159282, 
+          "name": "Anthony Cistaro", 
+          "order": 1, 
+          "profile_path": "/kAFE0ohHBnDb4zFaDyMFSAlwDPL.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007f12", 
+          "id": 1710, 
+          "name": "Lee Arenberg", 
+          "order": 2, 
+          "profile_path": "/ziQH86o2BInPEUF7VW0gYte35Tw.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d007f34", 
+          "id": 3908, 
+          "name": "Tony Denman", 
+          "order": 3, 
+          "profile_path": "/8W0gxnfQyeWATYKOdQhjFtWLsft.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d007f56", 
+          "id": 51663, 
+          "name": "Sean Gunn", 
+          "order": 4, 
+          "profile_path": "/dldYyij2lt4rDUehY4wLZoZ0KUK.jpg"
+        }
+      ], 
+      "id": 182964, 
+      "name": "Hero", 
+      "overview": "Doyle is presented with an opportunity for atonement when a band of frightened refugees seek his help.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/8NwZLMQaGJyLn2jOlNrt6ythxYR.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-12-14", 
+      "crew": [
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383e760ee3668d007e8e", 
+          "department": "Writing", 
+          "id": 1212542, 
+          "job": "Writer", 
+          "name": "Jeannine Renshaw", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 10, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d007fd6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 0, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d007ff8", 
+          "id": 95200, 
+          "name": "Dominique Jennings", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007e6a", 
+          "id": 95825, 
+          "name": "Randall Slavin", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d00801a", 
+          "id": 65726, 
+          "name": "Maury Sterling", 
+          "order": 2, 
+          "profile_path": "/4Kj5xu4cREwmBxGOnWM0XoypFM4.jpg"
+        }
+      ], 
+      "id": 182967, 
+      "name": "Parting Gifts", 
+      "overview": "Angel and Cordelia, still coping with the death of their friend, are aided by an old friend in the pursuit of a demon bounty.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/cfnLb8QFYaO2AMpIwS43BsD8qnf.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-01-18", 
+      "crew": [
+        {
+          "credit_id": "5257383f760ee3668d00809a", 
+          "department": "Directing", 
+          "id": 1214043, 
+          "job": "Director", 
+          "name": "Winrich Kolbe", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 11, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d00806e", 
+          "id": 17604, 
+          "name": "Jeremy Renner", 
+          "order": 1, 
+          "profile_path": "/g8gheNEdPSXWH5SnjfjTYWj5ziU.jpg"
+        }
+      ], 
+      "id": 182968, 
+      "name": "Somnambulist", 
+      "overview": "When a killer stalks the L.A. streets using a mark that Angelus once used, Angel must face the possibility that he is committing the murders in his sleep.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/qQm9Jy9WViGZa1tprRRvm1pTv4t.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-01-25", 
+      "crew": [
+        {
+          "credit_id": "52573837760ee3668d00747d", 
+          "department": "Directing", 
+          "id": 17272, 
+          "job": "Director", 
+          "name": "David Semel", 
+          "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+        }, 
+        {
+          "credit_id": "5257383f760ee3668d007f80", 
+          "department": "Writing", 
+          "id": 1221664, 
+          "job": "Writer", 
+          "name": "Howard Gordon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 12, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d0080cc", 
+          "id": 77089, 
+          "name": "Ken Marino", 
+          "order": 0, 
+          "profile_path": "/h0EU4SvG8iCejG6xO0tF3uj6GfI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d0080ee", 
+          "id": 97779, 
+          "name": "Daphn\u00e9e Duplaix Samuel", 
+          "order": 1, 
+          "profile_path": "/fxnZIMmTX4L9lZey7TjK4mZjmeH.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573840760ee3668d008110", 
+          "id": 56162, 
+          "name": "Josh Randall", 
+          "order": 2, 
+          "profile_path": "/jUg69xKO9L1HqRPgrSjBunRlkt2.jpg"
+        }
+      ], 
+      "id": 182969, 
+      "name": "Expecting", 
+      "overview": "After a one-night stand goes bad, Cordelia wakes up to find herself extremely pregnant with something extremely unnatural.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/gWdmmVarSw2xPtAvKyG1ou1GsgG.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-02-08", 
+      "crew": [
+        {
+          "credit_id": "52573840760ee3668d0081ad", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006ebf", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 13, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573840760ee3668d008161", 
+          "id": 155018, 
+          "name": "Colby French", 
+          "order": 1, 
+          "profile_path": "/qVKU6hFvgcKdxGzNFpzfDtvIPs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573840760ee3668d008183", 
+          "id": 39126, 
+          "name": "Bai Ling", 
+          "order": 2, 
+          "profile_path": "/bZUGN7PsOCWWVTvs6jZgNbq19uu.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383f760ee3668d007f56", 
+          "id": 51663, 
+          "name": "Sean Gunn", 
+          "order": 4, 
+          "profile_path": "/dldYyij2lt4rDUehY4wLZoZ0KUK.jpg"
+        }
+      ], 
+      "id": 182970, 
+      "name": "She", 
+      "overview": "Angel forms tenuous truce with a warrior demon in order to save refugees from another dimension.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/mNiPToPXHHMe0Jxbhw9TqusgTGZ.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-02-15", 
+      "crew": [
+        {
+          "credit_id": "5257383a760ee3668d00760d", 
+          "department": "Directing", 
+          "id": 1231375, 
+          "job": "Director", 
+          "name": "R. D. Price", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006ebf", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383e760ee3668d007e8e", 
+          "department": "Writing", 
+          "id": 1212542, 
+          "job": "Writer", 
+          "name": "Jeannine Renshaw", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 14, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573840760ee3668d0081e7", 
+          "id": 75331, 
+          "name": "Ashley Edner", 
+          "order": 0, 
+          "profile_path": "/60fg89UxBEqyDHSNQWYat2M2yJH.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007ef0", 
+          "id": 159282, 
+          "name": "Anthony Cistaro", 
+          "order": 1, 
+          "profile_path": "/kAFE0ohHBnDb4zFaDyMFSAlwDPL.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573840760ee3668d00820f", 
+          "id": 10135, 
+          "name": "Jesse James", 
+          "order": 2, 
+          "profile_path": "/qWgZax4PuhIYy3Ohj9AbWVNEsJd.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573840760ee3668d008231", 
+          "id": 1585, 
+          "name": "Patience Cleveland", 
+          "order": 3, 
+          "profile_path": "/hPGnL3LRYhlusBDic0M6tpqsW2J.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573840760ee3668d008253", 
+          "id": 1228530, 
+          "name": "Will Kempe", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573840760ee3668d008275", 
+          "id": 61113, 
+          "name": "Jerry Lambert", 
+          "order": 5, 
+          "profile_path": "/j6jT5Zif7C5lmwberf47IiuwrOD.jpg"
+        }
+      ], 
+      "id": 182971, 
+      "name": "I've Got You Under My Skin", 
+      "overview": "A troubled family enlists Angel and Wesley to help them exorcise their resident demon.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/nSWDNIO0ndJBmh5Yg3SApWOBKG.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-02-22", 
+      "crew": [
+        {
+          "credit_id": "5257383c760ee3668d007aaa", 
+          "department": "Directing", 
+          "id": 1214718, 
+          "job": "Director", 
+          "name": "Bruce Seth Green", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 15, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573841760ee3668d0082db", 
+          "id": 110014, 
+          "name": "Christina Hendricks", 
+          "order": 2, 
+          "profile_path": "/d9KRMyCHigiHoDgmi1GX8EbhkOz.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573841760ee3668d0082fd", 
+          "id": 99231, 
+          "name": "John Maynard", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573841760ee3668d00831f", 
+          "id": 1212872, 
+          "name": "Eliza Szonert", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573841760ee3668d008341", 
+          "id": 1215365, 
+          "name": "Henri Lubatti", 
+          "order": 5, 
+          "profile_path": "/g666XyjLA7GCnljvkSbIoCpqz5p.jpg"
+        }
+      ], 
+      "id": 182972, 
+      "name": "The Prodigal", 
+      "overview": "Angel's conflict with Kate and her dad stirs up memories of his own father.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/mPDJILlNfcnnKH8BygqvBuOBvlA.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-02-29", 
+      "crew": [
+        {
+          "credit_id": "5257383f760ee3668d007f80", 
+          "department": "Writing", 
+          "id": 1221664, 
+          "job": "Writer", 
+          "name": "Howard Gordon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573841760ee3668d0083d7", 
+          "department": "Directing", 
+          "id": 1214210, 
+          "job": "Director", 
+          "name": "Nick Marck", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 16, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573841760ee3668d008389", 
+          "id": 144578, 
+          "name": "Scott William Winters", 
+          "order": 1, 
+          "profile_path": "/ubQy1q1A1EZoqJghTgcDv2v3rXb.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573841760ee3668d0083ab", 
+          "id": 42731, 
+          "name": "Anthony Guidera", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182973, 
+      "name": "The Ring", 
+      "overview": "In pursuit of a missing man, Angel becomes enslaved to an underground-fighting ring.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/vXEZcERB0uQXqAkjh7CiMuQTYkw.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-04-04", 
+      "crew": [
+        {
+          "credit_id": "5257383e760ee3668d007df2", 
+          "department": "Writing", 
+          "id": 1212579, 
+          "job": "Writer", 
+          "name": "Tracey Stern", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573843760ee3668d008438", 
+          "department": "Directing", 
+          "id": 1231379, 
+          "job": "Director", 
+          "name": "Regis Kimble", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 17, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573841760ee3668d008409", 
+          "id": 22014, 
+          "name": "Tamara Gorski", 
+          "order": 0, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182974, 
+      "name": "Eternity", 
+      "overview": "When an embattled celebrity enlists Angel to protect her from a stalker, her interest in Angel could cost him his soul.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/bs7Et8eKoyhzJzRPATskScCFKEJ.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-04-25", 
+      "crew": [
+        {
+          "credit_id": "52573836760ee3668d00732f", 
+          "department": "Writing", 
+          "id": 21155, 
+          "job": "Writer", 
+          "name": "Jim Kouf", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 18, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d0078d6", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 2, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573843760ee3668d008482", 
+          "id": 1219646, 
+          "name": "Tyler Christopher", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }
+      ], 
+      "id": 182977, 
+      "name": "Five by Five", 
+      "overview": "Rogue slayer Faith comes to town, and when she partners up with Wolfram and Hart , Angel's life is in danger.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/seFKbe3X6eIuw3rKqWE5iFblH7M.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-05-02", 
+      "crew": [
+        {
+          "credit_id": "5257383b760ee3668d00791a", 
+          "department": "Directing", 
+          "id": 1213371, 
+          "job": "Director", 
+          "name": "Michael Lange", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 19, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007e48", 
+          "id": 11863, 
+          "name": "Sarah Michelle Gellar", 
+          "order": 0, 
+          "profile_path": "/rweJ98bNan86oIliWZYT552oRra.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d0078d6", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 2, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573843760ee3668d0084dc", 
+          "id": 1224175, 
+          "name": "Alastair Duncan", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573843760ee3668d00850a", 
+          "id": 110800, 
+          "name": "Alastair Duncan", 
+          "order": 6, 
+          "profile_path": "/o3LiGcSIoDJVthEzg8PTPlEck2r.jpg"
+        }
+      ], 
+      "id": 182979, 
+      "name": "Sanctuary", 
+      "overview": "Everyone, including Buffy Summers, is out to get Faith, and Angel is the only man who can stop them.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/jdURkc0Hpc1rISzFMR5c5T1FCzu.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-05-09", 
+      "crew": [
+        {
+          "credit_id": "5257383e760ee3668d007e16", 
+          "department": "Directing", 
+          "id": 1215383, 
+          "job": "Director", 
+          "name": "David Straiton", 
+          "profile_path": "/kwoDQzrt9cywbhFffDx4S6C7x0D.jpg"
+        }, 
+        {
+          "credit_id": "52573845760ee3668d0085c0", 
+          "department": "Writing", 
+          "id": 1225538, 
+          "job": "Writer", 
+          "name": "Gary Campbell", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 20, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573843760ee3668d008558", 
+          "id": 153939, 
+          "name": "J. August Richards", 
+          "order": 1, 
+          "profile_path": "/7JlN8VwjjlV2dIipqDIz6PP5MfG.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d007825", 
+          "id": 52794, 
+          "name": "David Herman", 
+          "order": 2, 
+          "profile_path": "/6S0UlaChdcilaeYk5svTxOCtShC.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573843760ee3668d00857a", 
+          "id": 1215362, 
+          "name": "Ricky Luna", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573843760ee3668d00859c", 
+          "id": 48530, 
+          "name": "Maurice Compte", 
+          "order": 3, 
+          "profile_path": "/gt8vrkSOmv4dt5AfIcVsevNQ05b.jpg"
+        }
+      ], 
+      "id": 182980, 
+      "name": "War Zone", 
+      "overview": "When Angel tracks down a millionaire's blackmailer, he gets caught in the middle of a gang war between street kids and vampires.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/epV3Kcq1SMisPVxZO0CDTaHqJJn.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-05-16", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d00703f", 
+          "department": "Directing", 
+          "id": 8573, 
+          "job": "Director", 
+          "name": "Thomas J. Wright", 
+          "profile_path": "/9mAgimzp4CbzPRGPBfPirM87seb.jpg"
+        }, 
+        {
+          "credit_id": "5257383e760ee3668d007e8e", 
+          "department": "Writing", 
+          "id": 1212542, 
+          "job": "Writer", 
+          "name": "Jeannine Renshaw", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 21, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573843760ee3668d008558", 
+          "id": 153939, 
+          "name": "J. August Richards", 
+          "order": 1, 
+          "profile_path": "/7JlN8VwjjlV2dIipqDIz6PP5MfG.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b6d", 
+          "id": 36221, 
+          "name": "Sam Anderson", 
+          "order": 3, 
+          "profile_path": "/2zcmQEBeArztSQJ317nZCHwCVtF.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "Vampire in Rug", 
+          "credit_id": "547319cac3a36812de000100", 
+          "id": 133357, 
+          "name": "Joel Heyman", 
+          "order": 247, 
+          "profile_path": "/kdXW8kNVLz5EV7vvymf2iFt9W3o.jpg"
+        }
+      ], 
+      "id": 182981, 
+      "name": "Blind Date", 
+      "overview": "Angel must break into Wolfram and Hart to prevent an assassin from carrying out her deadly mission.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/6u3dGt69lHr4WkkAWTGsXJmzxUt.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-05-23", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006ebf", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 22, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b29", 
+          "id": 126932, 
+          "name": "Elisabeth R\u00f6hm", 
+          "order": 1, 
+          "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007e6a", 
+          "id": 95825, 
+          "name": "Randall Slavin", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573843760ee3668d008558", 
+          "id": 153939, 
+          "name": "J. August Richards", 
+          "order": 1, 
+          "profile_path": "/7JlN8VwjjlV2dIipqDIz6PP5MfG.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d007825", 
+          "id": 52794, 
+          "name": "David Herman", 
+          "order": 2, 
+          "profile_path": "/6S0UlaChdcilaeYk5svTxOCtShC.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b6d", 
+          "id": 36221, 
+          "name": "Sam Anderson", 
+          "order": 3, 
+          "profile_path": "/2zcmQEBeArztSQJ317nZCHwCVtF.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573845760ee3668d008650", 
+          "id": 19277, 
+          "name": "Todd Stashwick", 
+          "order": 5, 
+          "profile_path": "/vTY2rqUPQnY3gZNRyoebOZPpsmr.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573846760ee3668d008681", 
+          "id": 1231380, 
+          "name": "Robyn Cohen", 
+          "order": 8, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182982, 
+      "name": "To Shanshu in L.A.", 
+      "overview": "Wolfram and Hart raise a powerful new foe to strike down Angel and those close to him.", 
+      "production_code": null, 
+      "season_number": 1, 
+      "still_path": "/xctGJH6Y6wYI8oglW0d6MkH71QF.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }
+  ], 
+  "id": 7625, 
+  "name": "Season 1", 
+  "overview": "The first season of the television series Angel, the spin-off of Buffy the Vampire Slayer, premiered on October 5, 1999 on The WB and concluded its 22-episode season on May 23, 2000. The season aired on Tuesdays at 9:00 pm ET, following Buffy.", 
+  "poster_path": "/99doFNHAvDhDq0Z96P7msT06Dds.jpg", 
+  "season_number": 1
+}

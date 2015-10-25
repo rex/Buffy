@@ -1,0 +1,88 @@
+{
+  "air_date": "1998-01-19", 
+  "crew": [
+    {
+      "credit_id": "52599e2b19c295731c08bc78", 
+      "department": "Directing", 
+      "id": 1213371, 
+      "job": "Director", 
+      "name": "Michael Lange", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2b19c295731c08bb46", 
+      "id": 3418, 
+      "name": "Vincent Schiavelli", 
+      "order": 0, 
+      "profile_path": "/9VAmZfthJ8pbDsJE8cJxIpnFcQy.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 149448, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1e19c295731c08a0b6", 
+      "id": 2719, 
+      "name": "Brian Thompson", 
+      "order": 6, 
+      "profile_path": "/bjBHdq7uPEzrjDk96nNlbDBNKo6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }
+  ], 
+  "id": 949437, 
+  "name": "Surprise", 
+  "overview": "On Buffy's 17th birthday, Drusilla prepares to awaken a powerful demon named The Judge who was brought forth a thousand years ago to rid the Earth of the plague of humanity. His body was dismembered by an army and the parts were buried in every corner of the Earth but somehow all the parts have made their way to Sunnydale. Buffy intercepts one of his arms and Ms Calendar convinces Angel to take it to the most remote region possible.   Unknown to everyone else, Jenny Calendar is actually Janna, a descendant of the Romany clan who cursed Angel and has been sent to Sunnydale to ensure that the curse isn't lifted.   Buffy and Angel say their goodbyes at the docks when they are ambushed by Spike's gang who retrieve the arm and Drusilla is able to reassemble the demon. Buffy and Angel just manage to escape from The Judge and while recuperating in Angel's apartment, they consummate their relationship.   Some powerful, dark magic is released by this and Angel runs into the street, screaming Bu", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/jfd6biMdi77glmfVb17M4RrXO8Q.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,96 @@
+{
+  "air_date": "2002-01-21", 
+  "crew": [
+    {
+      "credit_id": "52573833760ee3668d0071e5", 
+      "department": "Directing", 
+      "id": 58075, 
+      "job": "Director", 
+      "name": "Bill L. Norton", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257385b760ee3668d00a0bd", 
+      "department": "Writing", 
+      "id": 1231393, 
+      "job": "Writer", 
+      "name": "Two Guys from Andromeda", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383a760ee3668d00771d", 
+      "department": "Directing", 
+      "id": 43222, 
+      "job": "Director", 
+      "name": "Michael Grossman", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009422", 
+      "id": 18657, 
+      "name": "Laurel Holloman", 
+      "order": 1, 
+      "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a3bc", 
+      "id": 47296, 
+      "name": "Jeffrey Dean Morgan", 
+      "order": 3, 
+      "profile_path": "/6ors2HGy8UdXm8kBx6on0HwRHB5.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a3de", 
+      "id": 132729, 
+      "name": "Eric Bruskotter", 
+      "order": 4, 
+      "profile_path": "/2N2W06SctE3BXExo3EmaPyjPNPO.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a400", 
+      "id": 58707, 
+      "name": "Sunny Mabrey", 
+      "order": 5, 
+      "profile_path": "/fKPc0yMFKIMJmvXH8yJcse22BmV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a422", 
+      "id": 1225944, 
+      "name": "Benjam\u00edn Ben\u00edtez", 
+      "order": 6, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183058, 
+  "name": "Provider", 
+  "overview": "Fred solves a puzzle for a group of demons who literally want to buy her brain; Angel is hired to clean out a vampire nest by a man who can't afford to pay for Angel's services; Wes and Gunn help a woman whose dead boyfriend is stalking her.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/OWtvB2vlhFrZVJXHtgakWXVhm.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

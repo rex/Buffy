@@ -1,0 +1,104 @@
+{
+  "air_date": "2002-10-15", 
+  "crew": [
+    {
+      "credit_id": "52599e4519c295731c08f32a", 
+      "department": "Writing", 
+      "id": 1231186, 
+      "job": "Writer", 
+      "name": "Rebecca Rand Kirshner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e5619c295731c09126b", 
+      "department": "Directing", 
+      "id": 33341, 
+      "job": "Director", 
+      "name": "Rick Rosenthal", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c091740", 
+      "id": 31715, 
+      "name": "Azura Skye", 
+      "order": 0, 
+      "profile_path": "/9dyxe8DOX8eEGrCo6ieW4ZiPZWC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c09176a", 
+      "id": 168339, 
+      "name": "Sarah Hagan", 
+      "order": 1, 
+      "profile_path": "/p31CwP968p1QOyG3HPFUL2O2w2f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c0917cc", 
+      "id": 12797, 
+      "name": "Glenn Morshower", 
+      "order": 3, 
+      "profile_path": "/ighVr61WoYsMVGvKeRXvubI0AkF.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c09180c", 
+      "id": 53184, 
+      "name": "Rick Gonzalez", 
+      "order": 4, 
+      "profile_path": "/goh90mno2bYXjOIncrJWoNYbhXy.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5919c295731c091848", 
+      "id": 52477, 
+      "name": "Zachery Ty Bryan", 
+      "order": 5, 
+      "profile_path": "/ddu684kwKFJixq3LhAZLgYVWQSU.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5919c295731c091872", 
+      "id": 1223181, 
+      "name": "Kevin Christy", 
+      "order": 6, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5919c295731c0918a4", 
+      "id": 10438, 
+      "name": "Jarrett Lennon", 
+      "order": 7, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5919c295731c0918d0", 
+      "id": 65124, 
+      "name": "Troy Brenna", 
+      "order": 8, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949538, 
+  "name": "Help", 
+  "overview": "Buffy is settling in to her counselor's role at the high school helping troubled teens and sorting out problems, but is left speechless when Cassie, a student, comes to her and calmly tells her that she (Cassie) has only a week to live. Suspecting the girl is suicidal, Buffy investigates and discovers a cult of students playing with dark forces and comes to believe Cassie is psychic.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/fRWLl6frXMP3OQYFfdL0H6cB1T0.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

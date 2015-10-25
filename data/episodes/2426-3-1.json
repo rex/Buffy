@@ -1,0 +1,80 @@
+{
+  "air_date": "2001-09-24", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006ebf", 
+      "department": "Directing", 
+      "id": 87590, 
+      "job": "Director", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 1, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009daf", 
+      "id": 37026, 
+      "name": "Kate Norby", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009dd1", 
+      "id": 149660, 
+      "name": "Bob Morrisey", 
+      "order": 4, 
+      "profile_path": "/4hHQkGkKJxYuuVNG01JkGIoOD2v.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009df3", 
+      "id": 154548, 
+      "name": "Robert Madrid", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183040, 
+  "name": "Heartthrob", 
+  "overview": "As Angel mourns Buffy's death, he battles a lovelorn vampire seeking revenge for the death of his beloved, who was killed by Angel.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/ekmFaZoWmrUGphByM9Ca2SYsx1k.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

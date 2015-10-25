@@ -1,0 +1,56 @@
+{
+  "air_date": "2000-10-24", 
+  "crew": [
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949495, 
+  "name": "No Place Like Home", 
+  "overview": "Buffy's mother continues to be sick and the doctors can't figure out why. Buffy finds a strange orb while on patrol and later the security guard who pointed it out to her shows up in the hospital apparently crazy. Buffy suspects that there's a supernatural reason behind her mother's illness and goes into a spell-induced trance provided by Willow which reveals Dawn fading in and out of reality.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/6bx27fkKlzYgRY7GDQm8oRh7MiD.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

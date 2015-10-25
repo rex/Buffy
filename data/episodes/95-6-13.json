@@ -1,0 +1,64 @@
+{
+  "air_date": "2002-02-05", 
+  "crew": [
+    {
+      "credit_id": "5253387519c2957940054017", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949528, 
+  "name": "Dead Things", 
+  "overview": "The Troika's latest escapade to make Warren's ex-girlfriend Katrina their willing slave goes horribly wrong when she is accidentally killed. The trio use magical and demonic forces to make Buffy think that she has killed Katrina - and it works.   With finding out the truth about her resurrection and believing she killed an innocent girl, Buffy's world begins to fall apart.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/ldrrucA38gLNjIqrvzgRCrRUrPO.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

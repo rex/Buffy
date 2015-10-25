@@ -1,0 +1,104 @@
+{
+  "air_date": "2000-02-15", 
+  "crew": [
+    {
+      "credit_id": "5257383a760ee3668d00760d", 
+      "department": "Directing", 
+      "id": 1231375, 
+      "job": "Director", 
+      "name": "R. D. Price", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006ebf", 
+      "department": "Directing", 
+      "id": 87590, 
+      "job": "Director", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383e760ee3668d007e8e", 
+      "department": "Writing", 
+      "id": 1212542, 
+      "job": "Writer", 
+      "name": "Jeannine Renshaw", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 14, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573840760ee3668d0081e7", 
+      "id": 75331, 
+      "name": "Ashley Edner", 
+      "order": 0, 
+      "profile_path": "/60fg89UxBEqyDHSNQWYat2M2yJH.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007ef0", 
+      "id": 159282, 
+      "name": "Anthony Cistaro", 
+      "order": 1, 
+      "profile_path": "/kAFE0ohHBnDb4zFaDyMFSAlwDPL.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573840760ee3668d00820f", 
+      "id": 10135, 
+      "name": "Jesse James", 
+      "order": 2, 
+      "profile_path": "/qWgZax4PuhIYy3Ohj9AbWVNEsJd.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573840760ee3668d008231", 
+      "id": 1585, 
+      "name": "Patience Cleveland", 
+      "order": 3, 
+      "profile_path": "/hPGnL3LRYhlusBDic0M6tpqsW2J.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573840760ee3668d008253", 
+      "id": 1228530, 
+      "name": "Will Kempe", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573840760ee3668d008275", 
+      "id": 61113, 
+      "name": "Jerry Lambert", 
+      "order": 5, 
+      "profile_path": "/j6jT5Zif7C5lmwberf47IiuwrOD.jpg"
+    }
+  ], 
+  "id": 182971, 
+  "name": "I've Got You Under My Skin", 
+  "overview": "A troubled family enlists Angel and Wesley to help them exorcise their resident demon.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/nSWDNIO0ndJBmh5Yg3SApWOBKG.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

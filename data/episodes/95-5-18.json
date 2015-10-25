@@ -1,0 +1,64 @@
+{
+  "air_date": "2001-04-24", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c126", 
+      "department": "Directing", 
+      "id": 1231299, 
+      "job": "Director", 
+      "name": "Michael Gershman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4519c295731c08f1d7", 
+      "id": 1234334, 
+      "name": "Kelly Donovan", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }
+  ], 
+  "id": 949508, 
+  "name": "Intervention", 
+  "overview": "Buffy and Giles leave for the desert on a self-discovery/guidance quest led by the First Slayer. While they are gone, Spike decides to have a little fun with his BuffyBot but the gang mistakes it for the real Buffy and think that she has gone crazy.   Meanwhile, Glory's minions also mistake the Buffybot for the Slayer and, noticing how it acts around Spike, begin to suspect that he is the Key.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/cFxqDF0vfq7sZkTCTEhvPE3tm0i.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

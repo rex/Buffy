@@ -1,0 +1,64 @@
+{
+  "air_date": "2000-01-25", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c126", 
+      "department": "Directing", 
+      "id": 1231299, 
+      "job": "Director", 
+      "name": "Michael Gershman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2819c295731c08b3f7", 
+      "id": 15030, 
+      "name": "Robin Sachs", 
+      "order": 1, 
+      "profile_path": "/rSMeopDC1loyjUVhxK0XjFfSlAC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dcfd", 
+      "id": 32225, 
+      "name": "Lindsay Crouse", 
+      "order": 3, 
+      "profile_path": "/mAZTWVbtfmC0R4R6TZ3rjhJSW0b.jpg"
+    }
+  ], 
+  "id": 949479, 
+  "name": "A New Man", 
+  "overview": "At Buffy's 19th birthday party, Giles finally realises that he is a middle-aged man hanging around with a bunch of teenagers and starts to get depressed about his life. He feels even more like the third wheel when he finds out about Riley and the Initiative, which Buffy neglected to tell him about. When Ethan Rayne returns to town, instead of kicking his butt back to England, Giles goes for a drink with him. The next morning Giles wakes up and notices that he has turned into a demon.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/sY0KJhQXab9ijsksuTWhs0rPw9O.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

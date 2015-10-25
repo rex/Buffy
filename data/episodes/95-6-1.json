@@ -1,0 +1,56 @@
+{
+  "air_date": "2001-10-02", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 1, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }
+  ], 
+  "id": 949517, 
+  "name": "Bargaining, Part One", 
+  "overview": "Several months have passed since Buffy sacrificed herself to save Dawn, her friends and the world. The Slayerettes are doing their best to keep the demon population down and Willow has repaired the Buffybot so the world remains unaware of the Slayers death. Unfortunately a vamp discovers the truth and escapes to tell his friends.   With no Slayer to watch, Giles makes preparations to return to England and leaves Anya in charge of the magic shop.   Willow, Tara, Anya and Xander secretly perform a powerful spell at Buffy's grave site to resurrect the Slayer, but the spell is interfered with by a group of demon bikers and the Slayerettes flee, not knowing if the spell worked or not.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/oWVhdFxLacZZBttW3rF8RwyYwKF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

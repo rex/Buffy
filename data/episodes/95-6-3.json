@@ -1,0 +1,40 @@
+{
+  "air_date": "2001-10-09", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }
+  ], 
+  "id": 949522, 
+  "name": "After Life", 
+  "overview": "The first repercussions of the resurrection spell has the Scoobies battling with a demon ghost and Buffy realizes she was happier with the peace of the afterlife but cannot bring herself to tell her friends. She finds a sympathetic ear in someone else who knows a little about an afterlife: Spike.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/mfLrZ2xok2Deoz1wY3gFKy9PFi4.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

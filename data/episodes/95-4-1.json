@@ -1,0 +1,88 @@
+{
+  "air_date": "1999-10-05", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 1, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2e19c295731c08c29b", 
+      "id": 1224584, 
+      "name": "Angie Hart", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3a19c295731c08dc7f", 
+      "id": 15012, 
+      "name": "Katharine Towne", 
+      "order": 1, 
+      "profile_path": "/33AK0lDtxIhh7125JC7daDWMSkC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dca9", 
+      "id": 1217813, 
+      "name": "Phina Oruche", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dcfd", 
+      "id": 32225, 
+      "name": "Lindsay Crouse", 
+      "order": 3, 
+      "profile_path": "/mAZTWVbtfmC0R4R6TZ3rjhJSW0b.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dd5b", 
+      "id": 80232, 
+      "name": "Dagney Kerr", 
+      "order": 6, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053ee5", 
+      "id": 46772, 
+      "name": "Marc Blucas", 
+      "order": 11, 
+      "profile_path": "/5OdBu0DFKca1mxjeqNruz00DSRF.jpg"
+    }
+  ], 
+  "id": 949469, 
+  "name": "The Freshman", 
+  "overview": "Buffy moves into her dorm and attempts to adjust to college life. Everything around her seems to have changed without the constant interaction with the gang she had in High School. With Giles becoming a 'gentleman of leisure', Willow getting more and more excited about college and Xander still away on his road trip, she again believes that she must fight and survive on her own when she discovers a gang of tough vampires operating on campus.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/tpcRVkp2gP4bXEBaHITB3DqRWW7.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

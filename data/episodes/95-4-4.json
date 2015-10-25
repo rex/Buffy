@@ -1,0 +1,80 @@
+{
+  "air_date": "1999-10-26", 
+  "crew": [
+    {
+      "credit_id": "52599e3c19c295731c08dfce", 
+      "department": "Directing", 
+      "id": 1212609, 
+      "job": "Director", 
+      "name": "Tucker Gates", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3c19c295731c08defa", 
+      "id": 60486, 
+      "name": "Darris Love", 
+      "order": 0, 
+      "profile_path": "/4LaMDRUOsvndIFeK6XwtwSDWCR1.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3c19c295731c08df24", 
+      "id": 1224040, 
+      "name": "Walter Emanuel Jones", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dcfd", 
+      "id": 32225, 
+      "name": "Lindsay Crouse", 
+      "order": 3, 
+      "profile_path": "/mAZTWVbtfmC0R4R6TZ3rjhJSW0b.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053ee5", 
+      "id": 46772, 
+      "name": "Marc Blucas", 
+      "order": 11, 
+      "profile_path": "/5OdBu0DFKca1mxjeqNruz00DSRF.jpg"
+    }
+  ], 
+  "id": 949472, 
+  "name": "Fear, Itself", 
+  "overview": "To help Buffy get over the pain of having been used by Parker, the gang head to a fraternity Halloween party expecting a few cheap scares and a bit of harmless fun. Unfortunately, some accidental magic turns the party into a house of horrors where everyone's fears come to life.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/iAdHI5sOrZR6ai4rDIwWmRqefyu.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

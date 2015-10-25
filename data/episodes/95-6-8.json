@@ -1,0 +1,56 @@
+{
+  "air_date": "2001-11-13", 
+  "crew": [
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "52599e4519c295731c08f32a", 
+      "department": "Writing", 
+      "id": 1231186, 
+      "job": "Writer", 
+      "name": "Rebecca Rand Kirshner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5019c295731c09071b", 
+      "id": 84606, 
+      "name": "Raymond O'Connor", 
+      "order": 1, 
+      "profile_path": "/bIC6drKtKjr4F2GXQwbBgJGh8y9.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }
+  ], 
+  "id": 949520, 
+  "name": "Tabula Rasa", 
+  "overview": "After the gang finds out about Buffy's true afterlife, Willow does a spell to make her forget that she was actually in heaven. Unfortunately the spell goes awry and the gang all wake up with amnesia, forgetting everything about their lives including the existence of vampires and the Slayer.   Because of their British accents, Giles and Spike (\"Randy\") think they are father and son, Giles and Anya think they are engaged, Willow and \"Alex\" think they are dating, and due to the absence of ID, Buffy names herself Joan.   When a demon loan shark comes to collect a long overdue loan from Spike, \"Joan\" and \"Randy\" discover their true nature when they are forced to fight, while Dawn, Willow, Tara and \"Alex\" head out to try and restore their memories.   At episodes end when they get their memories back the gang goes through some changes, with Tara breaking up with Willow and Giles finally leaving Sunnydale behind forever.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/gpoDkfg5BeHNK6lBWK6UE8xdD71.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,80 @@
+{
+  "air_date": "2003-04-09", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008a3d", 
+      "department": "Writing", 
+      "id": 1231386, 
+      "job": "Writer", 
+      "name": "Mutant Enemy Productions", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a83", 
+      "department": "Directing", 
+      "id": 1215026, 
+      "job": "Director", 
+      "name": "Marita Grabiak", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a5f", 
+      "department": "Writing", 
+      "id": 1224044, 
+      "job": "Writer", 
+      "name": "Sarah Fain", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573854760ee3668d00995d", 
+      "id": 9576, 
+      "name": "Gina Torres", 
+      "order": 1, 
+      "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d009b33", 
+      "id": 84421, 
+      "name": "Lyle Kanouse", 
+      "order": 1, 
+      "profile_path": "/8haoaqa7rcsyFtpbKxT43xxXP2N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d009b55", 
+      "id": 27589, 
+      "name": "Jackie Tohn", 
+      "order": 2, 
+      "profile_path": "/7fF8j4H6fIzhXH8DaO1nlfEKhDV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d009b77", 
+      "id": 46362, 
+      "name": "Samuel Witwer", 
+      "order": 3, 
+      "profile_path": "/e4FRojd6SmiyRLo2nQQGUXwi16v.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d009b99", 
+      "id": 159431, 
+      "name": "Annie Wersching", 
+      "order": 4, 
+      "profile_path": "/no4y7IjvnGNNoLidkQ8VVsgBc8M.jpg"
+    }
+  ], 
+  "id": 183036, 
+  "name": "Shiny Happy People", 
+  "overview": "While everyone else worships the beautiful woman Cordelia bore, Fred sees another side of her.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/hUZfVMOeDWzj6HWW4gsjMALHarR.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

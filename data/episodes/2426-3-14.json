@@ -1,0 +1,64 @@
+{
+  "air_date": "2002-02-18", 
+  "crew": [
+    {
+      "credit_id": "52573831760ee3668d006f4d", 
+      "department": "Directing", 
+      "id": 1224034, 
+      "job": "Director", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 14, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257385d760ee3668d00a51d", 
+      "id": 1231395, 
+      "name": "Sharon Bruneau", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006d83", 
+      "id": 55568, 
+      "name": "Mark Lutz", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183060, 
+  "name": "Couplet", 
+  "overview": "Angel struggles with his jealousy of the Groosalugg and Cordelia's attraction to him; Gunn and Fred get captured by a tree monster.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/2IjxCWnz4Bhd9GrNi6zVp3370N2.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

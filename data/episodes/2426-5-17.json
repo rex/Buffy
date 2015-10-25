@@ -1,0 +1,64 @@
+{
+  "air_date": "2004-04-14", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008a3d", 
+      "department": "Writing", 
+      "id": 1231386, 
+      "job": "Writer", 
+      "name": "Mutant Enemy Productions", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008b05", 
+      "department": "Directing", 
+      "id": 68841, 
+      "job": "Director", 
+      "name": "Skip Schoolnik", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a5f", 
+      "department": "Writing", 
+      "id": 1224044, 
+      "job": "Writer", 
+      "name": "Sarah Fain", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 17, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573847760ee3668d0086f1", 
+      "id": 43427, 
+      "name": "Sarah Thompson", 
+      "order": 2, 
+      "profile_path": "/bnzdKYFges5RCGDDAQqNftyAiku.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009052", 
+      "id": 2059, 
+      "name": "Adam Baldwin", 
+      "order": 2, 
+      "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+    }
+  ], 
+  "id": 183007, 
+  "name": "Underneath", 
+  "overview": "Angel, Gunn and Spike rescue Lindsey from a suburban hell dimension; Lorne and Eve are pursued by a representative of the senior partners; and Wesley consoles Illyria, who hates her new world.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/rLe2E6xtePDnbA8gVkPLfhUQl2m.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

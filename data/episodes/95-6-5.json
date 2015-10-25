@@ -1,0 +1,96 @@
+{
+  "air_date": "2001-10-23", 
+  "crew": [
+    {
+      "credit_id": "52599e4419c295731c08efd8", 
+      "department": "Directing", 
+      "id": 1214210, 
+      "job": "Director", 
+      "name": "Nick Marck", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5219c295731c090a44", 
+      "id": 53252, 
+      "name": "Noel Gugliemi", 
+      "order": 5, 
+      "profile_path": "/mI5urNyZJAzIGxelTjBkm624DkB.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5219c295731c090a72", 
+      "id": 111511, 
+      "name": "Jonathan Goldstein", 
+      "order": 6, 
+      "profile_path": "/5YTsyyHi93x7LCmUAqsqqCpTZ0z.jpg"
+    }
+  ], 
+  "id": 949524, 
+  "name": "Life Serial", 
+  "overview": "As Buffy tries to 'normalize' her new life as a parent and return to college and attempt numerous jobs, she again comes up against the Troika, a group of would-be sorcerers, who test the Slayer by casting spells on her which make her experience time distortions, magically appearing demons and a strange \"Groundhog Day\" time loop.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/cZNKCFxisqnnTR9Lk8dnlKc0S1I.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

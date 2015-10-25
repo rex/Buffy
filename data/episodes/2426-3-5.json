@@ -1,0 +1,48 @@
+{
+  "air_date": "2001-10-22", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006cff", 
+      "department": "Writing", 
+      "id": 1227656, 
+      "job": "Writer", 
+      "name": "Mere Smith", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a83", 
+      "department": "Directing", 
+      "id": 1215026, 
+      "job": "Director", 
+      "name": "Marita Grabiak", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d008f88", 
+      "id": 68180, 
+      "name": "Gary Grubbs", 
+      "order": 2, 
+      "profile_path": "/zbSSBFW8oRl4M1u2vyr1PUnWqCw.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183046, 
+  "name": "Fredless", 
+  "overview": "When Fred's parents come to take her home, she feels she should go with them...until she earns a place in the group by figuring out the key to an attack of larger bug demons.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/wF1CG6kofHLH1och39g6hKj2LcA.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

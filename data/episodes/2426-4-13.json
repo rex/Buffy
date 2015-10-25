@@ -1,0 +1,80 @@
+{
+  "air_date": "2003-03-05", 
+  "crew": [
+    {
+      "credit_id": "5257384d760ee3668d008bad", 
+      "department": "Directing", 
+      "id": 1216553, 
+      "job": "Director", 
+      "name": "Jefferson Kibbee", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d00797c", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d0078d6", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 2, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573854760ee3668d0098ed", 
+      "id": 1221710, 
+      "name": "Alonzo Bodden", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009517", 
+      "id": 19898, 
+      "name": "Vladimir Kulich", 
+      "order": 3, 
+      "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573854760ee3668d00990f", 
+      "id": 77740, 
+      "name": "Spice Williams-Crosby", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183031, 
+  "name": "Salvage", 
+  "overview": "While Lorne casts a sanctuary spell on the hotel, and Wesley brings in the slayer, Faith, to help get Angelus back... the Doomsday Beast and its boss also try to woo Angelus.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/5hH4yj2YWZDxIRs306bEJ3Vkzsb.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

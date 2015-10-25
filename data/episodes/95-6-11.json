@@ -1,0 +1,72 @@
+{
+  "air_date": "2002-01-08", 
+  "crew": [
+    {
+      "credit_id": "52599e5219c295731c090b6e", 
+      "department": "Directing", 
+      "id": 1213069, 
+      "job": "Director", 
+      "name": "David Fury", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 11, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5219c295731c090ae8", 
+      "id": 56692, 
+      "name": "Daniel Hagen", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5219c295731c090b3a", 
+      "id": 100060, 
+      "name": "Susan Ruttan", 
+      "order": 4, 
+      "profile_path": "/3EuWixVAbSJu2xKlWgMl5UwGQKA.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949525, 
+  "name": "Gone", 
+  "overview": "Buffy and Dawn clear the house of magic items to help Willow and Buffy has a surprise visit from a social worker checking on Dawn's home life. The meeting doesn't go well and in a fit of rage after wards, Buffy cuts off her hair.   Meanwhile, the Geek Trio have built an invisibility ray and accidentally hit Buffy with it.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/pbIfdlOiyFDA45vvTfpRfjalUE5.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,56 @@
+{
+  "air_date": "1999-11-09", 
+  "crew": [
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383d760ee3668d007d04", 
+      "id": 1215817, 
+      "name": "Adam Donshik", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383d760ee3668d007d26", 
+      "id": 31007, 
+      "name": "John Capodice", 
+      "order": 2, 
+      "profile_path": "/sQuJV9o2FSXr5UBo2MaiTLObXiY.jpg"
+    }
+  ], 
+  "id": 182961, 
+  "name": "Sense & Sensitivity", 
+  "overview": "Kate's temper buys her a trip to sensitivity training, which has a strange effect on her... and those around her.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/xjEc7eyhQ9p88tygk0G5IDcN4Pv.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

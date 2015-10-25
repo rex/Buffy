@@ -1,0 +1,80 @@
+{
+  "air_date": "2004-05-12", 
+  "crew": [
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d00797c", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 21, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d00900e", 
+      "id": 27770, 
+      "name": "Dennis Christopher", 
+      "order": 0, 
+      "profile_path": "/sNFwlPHBAVn2fQIMVBTXMfx5E69.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384b760ee3668d0089f4", 
+      "id": 63661, 
+      "name": "Jenny Mollen", 
+      "order": 1, 
+      "profile_path": "/17eWISaAGuTWYbYxICVwV4Wwrf5.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009052", 
+      "id": 2059, 
+      "name": "Adam Baldwin", 
+      "order": 2, 
+      "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d008faa", 
+      "id": 13362, 
+      "name": "Alec Newman", 
+      "order": 3, 
+      "profile_path": "/wVB3PgY21ooNuWzEdKazCw3GrBC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573851760ee3668d009232", 
+      "id": 31714, 
+      "name": "Stacey Travis", 
+      "order": 4, 
+      "profile_path": "/9a9RvQ8311piSh5sUVaypN9TNDT.jpg"
+    }
+  ], 
+  "id": 183011, 
+  "name": "Power Play", 
+  "overview": "As Angel's behaviour grows increasingly hostile, his friends learn he's associating with members of an evil secret society, and may have deliberately engineered Fred's death.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/xJdwGKwtgFJvCQTlRNqCxNDUVy1.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

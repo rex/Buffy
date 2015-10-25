@@ -1,0 +1,128 @@
+{
+  "air_date": "2003-04-29", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387419c2957940053ff7", 
+      "department": "Writing", 
+      "id": 1213073, 
+      "job": "Writer", 
+      "name": "Drew Greenberg", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091d8c", 
+      "id": 642250, 
+      "name": "Iyari Limon", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c09176a", 
+      "id": 168339, 
+      "name": "Sarah Hagan", 
+      "order": 1, 
+      "profile_path": "/p31CwP968p1QOyG3HPFUL2O2w2f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6219c295731c092508", 
+      "id": 51797, 
+      "name": "Nathan Fillion", 
+      "order": 5, 
+      "profile_path": "/B7VTVtnKyFk0AtYjEbqzBQlPec.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091f06", 
+      "id": 1213577, 
+      "name": "Indigo", 
+      "order": 5, 
+      "profile_path": "/oZT8eVQOJkmUkbLjzbGbyo5DWQw.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091f3e", 
+      "id": 76527, 
+      "name": "Felicia Day", 
+      "order": 6, 
+      "profile_path": "/mlTqR0XorYqvPvgu1mLVT8Fso6s.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6019c295731c0921e0", 
+      "id": 94135, 
+      "name": "Kristy Wu", 
+      "order": 6, 
+      "profile_path": "/shPbdHP7augnWkTDhz0UO8xxID1.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6319c295731c09271f", 
+      "id": 26718, 
+      "name": "Dorian Missick", 
+      "order": 9, 
+      "profile_path": "/cIVYTMbl5bsUk6wgD6iw7yIkdwX.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6319c295731c092765", 
+      "id": 17417, 
+      "name": "Justin Shilton", 
+      "order": 11, 
+      "profile_path": "/c4xVKtbbkgsFSTsaVROoOHwnhlL.jpg"
+    }
+  ], 
+  "id": 949553, 
+  "name": "Empty Places", 
+  "overview": "Following Caleb's attack, Xander is now blind in one eye. Buffy takes all the guilt and again encounters Caleb at the abandoned school. Faith presses her fun-loving nature on the potentials and takes them all to the Bronze, which leads to an argument between Faith and Buffy, culminating in forcing the potentials to choose between their two leaders, but because of Buffy's recent decisions and behavior, they all side with Faith. Meanwhile, Spike and Andrew look into an abandoned mission and discover a plaque which reads: 'It's not for thee, It is only for her to wield'.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/lwxdvxTA3f5qSXQrUEQiO6Yyk6K.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

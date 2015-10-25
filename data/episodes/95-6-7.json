@@ -1,0 +1,72 @@
+{
+  "air_date": "2001-11-06", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5619c295731c0912aa", 
+      "id": 1213069, 
+      "name": "David Fury", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5619c295731c0912d4", 
+      "id": 1213070, 
+      "name": "Marti Noxon", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5619c295731c091360", 
+      "id": 15567, 
+      "name": "Hinton Battle", 
+      "order": 4, 
+      "profile_path": "/e0KEfjlswSxTtkj4r2T0JajCnWK.jpg"
+    }
+  ], 
+  "id": 949534, 
+  "name": "Once More, With Feeling", 
+  "overview": "A mysterious force causes everyone in Sunnydale to reveal all of their innermost thoughts and feelings in song. Buffy tells the gang the truth about where she was when she was dead and they are devastated, none more than Willow. Tara sings a love song to Willow professing all her love, but does Willow feel the same way? Finally, Giles reveals his belief that Buffy is never going to learn to survive on her own with him around and decides to return to England for good.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/9bM4WmD2zPoFMMrY1TjYisEBCaY.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

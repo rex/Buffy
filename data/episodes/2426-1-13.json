@@ -1,0 +1,64 @@
+{
+  "air_date": "2000-02-08", 
+  "crew": [
+    {
+      "credit_id": "52573840760ee3668d0081ad", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006ebf", 
+      "department": "Directing", 
+      "id": 87590, 
+      "job": "Director", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573840760ee3668d008161", 
+      "id": 155018, 
+      "name": "Colby French", 
+      "order": 1, 
+      "profile_path": "/qVKU6hFvgcKdxGzNFpzfDtvIPs.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573840760ee3668d008183", 
+      "id": 39126, 
+      "name": "Bai Ling", 
+      "order": 2, 
+      "profile_path": "/bZUGN7PsOCWWVTvs6jZgNbq19uu.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d007f56", 
+      "id": 51663, 
+      "name": "Sean Gunn", 
+      "order": 4, 
+      "profile_path": "/dldYyij2lt4rDUehY4wLZoZ0KUK.jpg"
+    }
+  ], 
+  "id": 182970, 
+  "name": "She", 
+  "overview": "Angel forms tenuous truce with a warrior demon in order to save refugees from another dimension.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/mNiPToPXHHMe0Jxbhw9TqusgTGZ.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

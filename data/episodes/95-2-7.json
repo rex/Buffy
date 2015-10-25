@@ -1,0 +1,80 @@
+{
+  "air_date": "1997-11-03", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 149448, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2819c295731c08b550", 
+      "id": 149484, 
+      "name": "Will Rothhaar", 
+      "order": 1, 
+      "profile_path": "/oigxlX2GoRu50q0u6CNwNhfjvyB.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2819c295731c08b586", 
+      "id": 62763, 
+      "name": "Jarrad Paul", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "Billy 'Ford' Fordham", 
+      "credit_id": "52599e2919c295731c08b5d8", 
+      "id": 20386, 
+      "name": "Jason Behr", 
+      "order": 5, 
+      "profile_path": "/ctlMa2J04dLLkicqJqm9LCywSXB.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }
+  ], 
+  "id": 949431, 
+  "name": "Lie to Me", 
+  "overview": "Ford, an old boyfriend of Buffy's comes to Sunnydale and, unknown to her, is part of a secret sect which worships vampires. While the others in the sect are misguided teens who believe that vampires are a higher order of life, Ford has a more sinister reason for his deciet. Because he is going to die soon of cancer, he makes a deal with Spike to hand over Buffy in return for eternal life.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/gnhLYcF6goSfOqHQSatdCDWmO5N.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

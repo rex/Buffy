@@ -1,0 +1,56 @@
+{
+  "air_date": "2003-10-22", 
+  "crew": [
+    {
+      "credit_id": "52573849760ee3668d008834", 
+      "department": "Directing", 
+      "id": 1213074, 
+      "job": "Director", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573849760ee3668d008810", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573847760ee3668d0087c7", 
+      "id": 95001, 
+      "name": "Simon Templeman", 
+      "order": 1, 
+      "profile_path": "/7h0lCiggaZgg67QVB0lI1EDa74g.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573847760ee3668d0086f1", 
+      "id": 43427, 
+      "name": "Sarah Thompson", 
+      "order": 2, 
+      "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573849760ee3668d0087ec", 
+      "id": 1231382, 
+      "name": "Willow Geer", 
+      "order": 2, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182985, 
+  "name": "Hell Bound", 
+  "overview": "After being menaced by a series of gruesome ghosts no one else can see, Spike finally comes face to face with the spectral being who's been trying to drag him into hell.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/5rI74JZk5vN0vW6NDuUNjXrXGED.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

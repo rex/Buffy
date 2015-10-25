@@ -1,0 +1,72 @@
+{
+  "air_date": "1997-05-12", 
+  "crew": [
+    {
+      "credit_id": "52599e2119c295731c08a6b9", 
+      "department": "Directing", 
+      "id": 1214718, 
+      "job": "Director", 
+      "name": "Bruce Seth Green", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fdf", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aad5", 
+      "id": 108939, 
+      "name": "Jeremy Foley", 
+      "order": 0, 
+      "profile_path": "/uQn7bDcWyFtF4En85nj6eOkeB2t.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2419c295731c08ab1f", 
+      "id": 1228811, 
+      "name": "Andrew J. Ferchland", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1e19c295731c08a056", 
+      "id": 55194, 
+      "name": "Mark Metcalf", 
+      "order": 5, 
+      "profile_path": "/qjxCggGQH99OkXjDxm33QPIJZcl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949421, 
+  "name": "Nightmares", 
+  "overview": "When strange things begin happening to the students at Sunnydale High, it seems that everyone is living their worst nightmares. Buffy and the gang must hold together to stop the phenomena before reality and the nightmare world become one.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/etintGBZHIN7IBLbEGDOHbbLPiZ.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

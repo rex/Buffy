@@ -1,0 +1,80 @@
+{
+  "air_date": "1998-05-05", 
+  "crew": [
+    {
+      "credit_id": "52599e2219c295731c08a798", 
+      "department": "Directing", 
+      "id": 17272, 
+      "job": "Director", 
+      "name": "David Semel", 
+      "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+    }, 
+    {
+      "credit_id": "52599e3019c295731c08c61c", 
+      "department": "Writing", 
+      "id": 1217277, 
+      "job": "Writer", 
+      "name": "Elin Hampton", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 20, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2f19c295731c08c4fe", 
+      "id": 81295, 
+      "name": "Shane West", 
+      "order": 0, 
+      "profile_path": "/1TiKpPiFwdUbs24yrNZLSzAjsnk.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2f19c295731c08c546", 
+      "id": 11786, 
+      "name": "Charles Cyphers", 
+      "order": 1, 
+      "profile_path": "/pglMfoHMVEcziDlnl33DrZjRSM3.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3019c295731c08c582", 
+      "id": 3972, 
+      "name": "Wentworth Miller", 
+      "order": 2, 
+      "profile_path": "/z5qjqYgWfZsBrLWWm9jMRSJOtQ2.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3019c295731c08c5c8", 
+      "id": 1909, 
+      "name": "Conchata Ferrell", 
+      "order": 3, 
+      "profile_path": "/p7KiBF2blE5KOXKrXMrVpMgCYZX.jpg"
+    }
+  ], 
+  "id": 949444, 
+  "name": "Go Fish", 
+  "overview": "When several members of the Sunnydale High swim team are mysteriously skinned alive, Buffy and the gang take it upon themselves to protect the remaining members which results in Xander revealing a side of himself rarely seen.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/l4zv676G9pPG2JWvsVKewiKJsYF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

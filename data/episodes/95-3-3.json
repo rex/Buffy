@@ -1,0 +1,72 @@
+{
+  "air_date": "1998-10-13", 
+  "crew": [
+    {
+      "credit_id": "5253387219c2957940053fdf", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08cc51", 
+      "id": 75946, 
+      "name": "Fab Filippo", 
+      "order": 0, 
+      "profile_path": "/34Wj12QrzinSnwe0Wjq1XiPGvre.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08cd0b", 
+      "id": 15372, 
+      "name": "Jeremy Roberts", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949449, 
+  "name": "Faith, Hope & Trick", 
+  "overview": "The new Slayer Faith arrives in town and seems like a fun-loving wacky teenager who integrates herself into the gang. While Buffy is getting 'Single White Female-d' she notices that Faith is becoming more mysterious and discovers that she has been followed by an ancient vampire who murdered her watcher.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/x6H6KpzW5BwPOvICIbjCiEYJEeR.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

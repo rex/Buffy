@@ -1,0 +1,56 @@
+{
+  "air_date": "2003-04-02", 
+  "crew": [
+    {
+      "credit_id": "52573849760ee3668d008834", 
+      "department": "Directing", 
+      "id": 1213074, 
+      "job": "Director", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573849760ee3668d008810", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 17, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573854760ee3668d00995d", 
+      "id": 9576, 
+      "name": "Gina Torres", 
+      "order": 1, 
+      "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573855760ee3668d00997f", 
+      "id": 62562, 
+      "name": "David Denman", 
+      "order": 2, 
+      "profile_path": "/rT1dvSLZjlfiZm7VvD1qEbvZ34O.jpg"
+    }
+  ], 
+  "id": 183032, 
+  "name": "Inside Out", 
+  "overview": "As Cordelia prepares to give birth, Angel and his friends finally learn that she - or an evil presence controlling her - is the Beast's master.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/jMqn4irxEcBj0HfZHJAkOWEXRpR.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,72 @@
+{
+  "air_date": "2002-11-05", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c126", 
+      "department": "Directing", 
+      "id": 1231299, 
+      "job": "Director", 
+      "name": "Michael Gershman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387419c2957940053ff7", 
+      "department": "Writing", 
+      "id": 1213073, 
+      "job": "Writer", 
+      "name": "Drew Greenberg", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5a19c295731c0919e8", 
+      "id": 60076, 
+      "name": "Thad Luckinbill", 
+      "order": 1, 
+      "profile_path": "/slnwMyaoNK6IY4LYjdNUHIEdm5Y.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5a19c295731c091a22", 
+      "id": 85143, 
+      "name": "Angela Sarafyan", 
+      "order": 2, 
+      "profile_path": "/wJoJLYaSpRF9Ihca1reca1uR9he.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5a19c295731c091a70", 
+      "id": 149829, 
+      "name": "Brandon Keener", 
+      "order": 4, 
+      "profile_path": "/1FeIVSTtrUjMRC0aFpKU6Q4y7M9.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f23", 
+      "id": 126502, 
+      "name": "Charisma Carpenter", 
+      "order": 14, 
+      "profile_path": "/yEYxnALL9ToIJFvAAC8jl3JBSvm.jpg"
+    }
+  ], 
+  "id": 949540, 
+  "name": "Him", 
+  "overview": "Dawn's simple crush on Sunnydale High's star quarterback RJ Brooks, goes far enough to make Buffy try and steer her attention elsewhere, especially when she falls for the boy herself.   With the women all desperately trying to win RJ's affections, Spike and Xander, now quasi-roommates, team up to discover why the teen seems to have the ability to make all women infatuated with him.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/fZi7MKZjiLbggD5vlQQ8G0KcKRy.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

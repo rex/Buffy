@@ -1,0 +1,64 @@
+{
+  "air_date": "1997-10-13", 
+  "crew": [
+    {
+      "credit_id": "5253387219c2957940053fdf", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2819c295731c08b39a", 
+      "department": "Directing", 
+      "id": 87590, 
+      "job": "Director", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2719c295731c08b2c6", 
+      "id": 102775, 
+      "name": "Coby Bell", 
+      "order": 0, 
+      "profile_path": "/pdXnmZkrLiHVybdEpwKiCNrGMo8.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2719c295731c08b2fc", 
+      "id": 39481, 
+      "name": "Jordana Spiro", 
+      "order": 1, 
+      "profile_path": "/5gpdURb63EivWf2alZawyd9PfNo.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2719c295731c08b32c", 
+      "id": 102729, 
+      "name": "Greg Vaughan", 
+      "order": 2, 
+      "profile_path": "/obClcoGaAsIjQscrNTHdKOUnGjn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2819c295731c08b356", 
+      "id": 1224067, 
+      "name": "Todd Babcock", 
+      "order": 3, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949429, 
+  "name": "Reptile Boy", 
+  "overview": "Becoming fed up with Giles' rules and guidelines, Buffy makes an unusual friendship with Cordelia when she accompanies her to a fraternity party where they are both drugged and used in the ritual feeding of a demon.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/3cc7XAh3LCcb4V5IpxuLwvccOih.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,96 @@
+{
+  "air_date": "2000-04-04", 
+  "crew": [
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 17, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4119c295731c08e928", 
+      "id": 88034, 
+      "name": "Julie Costello", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4119c295731c08e952", 
+      "id": 1217865, 
+      "name": "Erica Luttrell", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e16f", 
+      "id": 104195, 
+      "name": "Bailey Chase", 
+      "order": 2, 
+      "profile_path": "/1Lmy7WGlthUPwjUDbj1ODTdWUZA.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4119c295731c08e9ee", 
+      "id": 1214048, 
+      "name": "John Saint Ryan", 
+      "order": 6, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4219c295731c08ea24", 
+      "id": 52937, 
+      "name": "Rob Benedict", 
+      "order": 7, 
+      "profile_path": "/iVsPXfFqK6pQPtIFaTYsyO5f9ui.jpg"
+    }
+  ], 
+  "id": 949484, 
+  "name": "Superstar", 
+  "overview": "Buffy, Willow, Xander and Anya are out hunting vampires and kill one of a pair. They track the other to a nest and decide to call in the big guns and visit... Jonathan.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/phxAPcEOyNiVEeMthv5AWZxK0d8.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

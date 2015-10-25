@@ -1,0 +1,64 @@
+{
+  "air_date": "1998-12-15", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 149448, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b7d0", 
+      "id": 56691, 
+      "name": "Saverio Guerra", 
+      "order": 5, 
+      "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949456, 
+  "name": "Amends", 
+  "overview": "While the gang prepares for their Christmas vacation, Angel is haunted by visions of his violent past. A mysterious force called the First Evil takes the form of Jenny Calendar and tries to convince him to lose his soul in Buffy and become evil again. Believing that he isn't strong enough to fight the demon within, Angel waits on the top of a hill for the sun to rise.   Buffy finds him and tells him to fight back, that he can do real good in this world, but just as she is giving up it begins to snow, preventing Angel from being killed by the sunlight.   Meanwhile, Willow goes to great seductive lengths to win Oz back.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/oucquPaGEq8Ec83Ql9eYM1wpmbE.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

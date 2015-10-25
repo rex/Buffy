@@ -1,0 +1,96 @@
+{
+  "air_date": "2000-09-26", 
+  "crew": [
+    {
+      "credit_id": "5257383b760ee3668d00791a", 
+      "department": "Directing", 
+      "id": 1213371, 
+      "job": "Director", 
+      "name": "Michael Lange", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573833760ee3668d0071c1", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 1, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d0078b4", 
+      "id": 95517, 
+      "name": "Justina Machado", 
+      "order": 1, 
+      "profile_path": "/rklLmYPB4fKFP3mKZw2C3oWNaQJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d0078d6", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 2, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }, 
+    {
+      "character": "Club Manager", 
+      "credit_id": "53b9507d0e0a2676b8009619", 
+      "id": 15318, 
+      "name": "Keith Campbell", 
+      "order": 246, 
+      "profile_path": "/1PQSshXQ2AgifwYbykqXEyQYmDg.jpg"
+    }
+  ], 
+  "id": 182951, 
+  "name": "Judgment", 
+  "overview": "Angel protects a pregnant woman being hunted down demons after he inadvertently slays her guardian.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/oMseu3HVAVo9UsnW35zB0FsyPMP.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

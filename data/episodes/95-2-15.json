@@ -1,0 +1,64 @@
+{
+  "air_date": "1998-01-27", 
+  "crew": [
+    {
+      "credit_id": "5253387419c2957940054001", 
+      "department": "Writing", 
+      "id": 1212428, 
+      "job": "Writer", 
+      "name": "Dean Batali", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2119c295731c08a6b9", 
+      "department": "Directing", 
+      "id": 1214718, 
+      "job": "Director", 
+      "name": "Bruce Seth Green", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387419c295794005400b", 
+      "department": "Writing", 
+      "id": 1212432, 
+      "job": "Writer", 
+      "name": "Rob Des Hotel", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 15, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2c19c295731c08bf39", 
+      "id": 21675, 
+      "name": "Jack Conley", 
+      "order": 1, 
+      "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }, 
+    {
+      "character": "Werewolf", 
+      "credit_id": "53b9501e0e0a2676cf0098ab", 
+      "id": 15318, 
+      "name": "Keith Campbell", 
+      "order": 225, 
+      "profile_path": "/1PQSshXQ2AgifwYbykqXEyQYmDg.jpg"
+    }
+  ], 
+  "id": 949439, 
+  "name": "Phases", 
+  "overview": "Buffy and the gang track down a suspected werewolf roaming in the woods and also try to stay out of the way of a maniacal werewolf hunter, while Willow tries to get closer to Oz, unknown to her that he is the same killer they are after.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/2xZzAHHvoMqFfAHsii5FAj8mLFq.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

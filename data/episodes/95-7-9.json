@@ -1,0 +1,80 @@
+{
+  "air_date": "2002-11-26", 
+  "crew": [
+    {
+      "credit_id": "5253386e19c2957940053f5f", 
+      "department": "Writing", 
+      "id": 47506, 
+      "job": "Writer", 
+      "name": "Drew Goddard", 
+      "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 9, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d2d6", 
+      "id": 1166, 
+      "name": "Harris Yulin", 
+      "order": 2, 
+      "profile_path": "/MCW4IR3mEB6oeRbX9bfeHkZ3qm.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5b19c295731c091d15", 
+      "id": 93035, 
+      "name": "Oliver Muirhead", 
+      "order": 3, 
+      "profile_path": "/vyWab6wD6r3yP56FA87hwInmdPZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949543, 
+  "name": "Never Leave Me", 
+  "overview": "Spike is held captive in the Summers home while the Scoobies ponder their options in the aftermath of his murder spree. Willow finds Andrew buying blood and decides to take him prisoner also. After much questioning, the gang are interrupted by mysterious hooded figures called Bringers. They take Spike to Sunnydale High, where they use his blood to raise an old, mysterious vampire.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/tLB2MfrSLBxQMtEhr4BJZ81o3VZ.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

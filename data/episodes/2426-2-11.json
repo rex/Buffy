@@ -1,0 +1,80 @@
+{
+  "air_date": "2001-01-16", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006cff", 
+      "department": "Writing", 
+      "id": 1227656, 
+      "job": "Writer", 
+      "name": "Mere Smith", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383a760ee3668d00771d", 
+      "department": "Directing", 
+      "id": 43222, 
+      "job": "Director", 
+      "name": "Michael Grossman", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 11, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573831760ee3668d007106", 
+      "id": 135409, 
+      "name": "Brigid Brannagh", 
+      "order": 0, 
+      "profile_path": "/xZODXYeYE4ii57HFJlcCde6SwHT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b8f", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 4, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }
+  ], 
+  "id": 182948, 
+  "name": "Redefinition", 
+  "overview": "Angel takes on Darla and Drusilla as they hold try-outs for people who want to wreak havoc.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/eThbvsyPcK7THQhOVpqGBbZXEXT.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

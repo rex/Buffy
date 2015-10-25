@@ -1,0 +1,56 @@
+{
+  "air_date": "2001-01-09", 
+  "crew": [
+    {
+      "credit_id": "52599e4919c295731c08f939", 
+      "department": "Directing", 
+      "id": 101771, 
+      "job": "Director", 
+      "name": "Christopher Hibler", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 11, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4819c295731c08f8b7", 
+      "id": 21132, 
+      "name": "Abraham Benrubi", 
+      "order": 0, 
+      "profile_path": "/yfW6bAm2jTtt80guxhyNbaaUSV3.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949501, 
+  "name": "Triangle", 
+  "overview": "Giles goes off to England to talk to the council about Glory. Meanwhile, Anya and the gang tend to the magic shop. While attempting a new spell to assist Buffy with her slaying, Willow is distracted by her and Anya's constant bickering and accidentally conjures a troll. Actually Anya turned the guy into a troll 1000 years ago when he dumped her and she was then offered the chance to become a vengeance demon. The big, dumb guy goes around smashing things with his hammer until the gang is able to stop him and send him off to troll land.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/hpSpIOsXIG1lMTcVkrgXqWcrEty.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

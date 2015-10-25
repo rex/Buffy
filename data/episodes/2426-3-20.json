@@ -1,0 +1,88 @@
+{
+  "air_date": "2002-05-06", 
+  "crew": [
+    {
+      "credit_id": "52573831760ee3668d006f4d", 
+      "department": "Directing", 
+      "id": 1224034, 
+      "job": "Director", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }
+  ], 
+  "episode_number": 20, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009030", 
+      "id": 52646, 
+      "name": "Vincent Kartheiser", 
+      "order": 1, 
+      "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006d83", 
+      "id": 55568, 
+      "name": "Mark Lutz", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385f760ee3668d00a7c8", 
+      "id": 10682, 
+      "name": "Anthony Starke", 
+      "order": 5, 
+      "profile_path": "/f2zbCJ2hWkxn5TGvNVi6b9RVWWj.jpg"
+    }, 
+    {
+      "character": "Sunny", 
+      "credit_id": "5257385f760ee3668d00a7ea", 
+      "id": 1226571, 
+      "name": "Erika Thormahlen", 
+      "order": 6, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183068, 
+  "name": "A New World", 
+  "overview": "Angel pursues Connor, who makes a new friend on the streets; something else comes through the portal from Quor-toth; Lilah approaches Wesley.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/wzXzqjY4JgwLTmTM7MwyJ7QLcb7.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

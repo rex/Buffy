@@ -1,0 +1,40 @@
+{
+  "air_date": "2003-11-05", 
+  "crew": [
+    {
+      "credit_id": "5257384a760ee3668d0088b1", 
+      "department": "Directing", 
+      "id": 1236075, 
+      "job": "Director", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573849760ee3668d008866", 
+      "id": 1086222, 
+      "name": "Bruno Gunn", 
+      "order": 0, 
+      "profile_path": "/gvjIPGaYREusDXwGIgK4H2aMFyM.jpg"
+    }
+  ], 
+  "id": 182986, 
+  "name": "The Cautionary Tale of Numero Cinco", 
+  "overview": "While losing heart for his own career as a hero, Angel befriends a disheartened, elderly hero, and battles an Aztec warrior who literally eats the hearts of heroes.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/5RJaaAwrUuoMGFMjyDIfNkAwuDk.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

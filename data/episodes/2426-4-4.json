@@ -1,0 +1,48 @@
+{
+  "air_date": "2002-10-27", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008b05", 
+      "department": "Directing", 
+      "id": 68841, 
+      "job": "Director", 
+      "name": "Skip Schoolnik", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183016, 
+  "name": "Slouching Toward Bethlehem", 
+  "overview": "After Cordelia returns, she doesn't remember her friends and Lorne senses a major evil brewing. Scared by the world of demons and vampires, Cordelia takes refuge with Connor, who saves her from a demon attack.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/sBJYwsZXfHiLHQNLBFoJraTVfkF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

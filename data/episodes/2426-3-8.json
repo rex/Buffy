@@ -1,0 +1,112 @@
+{
+  "air_date": "2001-11-12", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008b05", 
+      "department": "Directing", 
+      "id": 68841, 
+      "job": "Director", 
+      "name": "Skip Schoolnik", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009444", 
+      "id": 44261, 
+      "name": "John Rubinstein", 
+      "order": 2, 
+      "profile_path": "/jyHEmKDxlCCxWnsM8hPoCpj0Bn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006cb6", 
+      "id": 18307, 
+      "name": "Daniel Dae Kim", 
+      "order": 3, 
+      "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009074", 
+      "id": 21675, 
+      "name": "Jack Conley", 
+      "order": 3, 
+      "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573857760ee3668d009f73", 
+      "id": 103478, 
+      "name": "John Durbin", 
+      "order": 5, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573857760ee3668d009f9b", 
+      "id": 83353, 
+      "name": "Michael Robert Brandon", 
+      "order": 7, 
+      "profile_path": "/q96KeG1KdqI8usL01UhOHyGKFq2.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573859760ee3668d009fc0", 
+      "id": 1231391, 
+      "name": "Angelo Surmelis", 
+      "order": 8, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573859760ee3668d009fe2", 
+      "id": 23855, 
+      "name": "Kasha Kropinski", 
+      "order": 9, 
+      "profile_path": "/5KVy0oXVdjSXW3WOLA23G52Ld0a.jpg"
+    }
+  ], 
+  "id": 183047, 
+  "name": "Quickening", 
+  "overview": "As Angel and his friends try to determine what kind of baby Darla will have, Holtz starts his search for Angel... while Lilah and Nathan send out a SWAT team to find Darla.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/ztMQ5qu7GaTUU2FtJzAoherBzXz.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

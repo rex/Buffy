@@ -1,0 +1,72 @@
+{
+  "air_date": "2002-05-21", 
+  "crew": [
+    {
+      "credit_id": "52599e5019c295731c090690", 
+      "department": "Directing", 
+      "id": 58075, 
+      "job": "Director", 
+      "name": "Bill L. Norton", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 21, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d31c", 
+      "id": 54865, 
+      "name": "Jeff Kober", 
+      "order": 3, 
+      "profile_path": "/eMp9ZsC77yddwW4SMiuZ7xOd0GS.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5019c295731c09064a", 
+      "id": 77824, 
+      "name": "Tanoai Reed", 
+      "order": 4, 
+      "profile_path": "/5CCVaidtpFOEcFUoQWQZjbEwwBd.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949519, 
+  "name": "Two to Go", 
+  "overview": "After exacting revenge on Warren for Tara's death, an extremely powerful and vengeful Willow now vows to go after the other two members of the trio, Jonathan and Andrew, forcing Buffy into the unlikely role of nerd-villain protector. After freeing the Duo from jail and escaping from Willow, the expanded group runs to the Magic Box to find a protection spell.   While all this is going on in Sunnydale, Spike undergoes a fierce challenge given by an African demon in order to become what he once was.   Willow, drained of her power, finds Rack and draws his energy into her, killing him in the process. At the Magic Box, Willow catches up to them all and takes on Buffy and Anya, who is doing her best to keep a magical barrier up around Willow. Buffy is no match for Willow's power, but eventually she is drained again and they escape while she is down.    Willow regains her strength and brings down Anya's barrier, tossing both her and Buffy aside. Willow heads out of the shop intent on completi", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/xdIotK5t8DDYsgbC3xZ2iAx2fFG.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

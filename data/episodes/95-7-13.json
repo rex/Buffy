@@ -1,0 +1,96 @@
+{
+  "air_date": "2003-02-04", 
+  "crew": [
+    {
+      "credit_id": "5253387419c2957940053ff7", 
+      "department": "Writing", 
+      "id": 1213073, 
+      "job": "Writer", 
+      "name": "Drew Greenberg", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091d8c", 
+      "id": 1261623, 
+      "name": "Iyari Limon", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a580", 
+      "id": 1226827, 
+      "name": "Elizabeth Anne Allen", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5f19c295731c092099", 
+      "id": 25382, 
+      "name": "Megalyn Echikunwoke", 
+      "order": 3, 
+      "profile_path": "/8orS1eGrZ9RMN7HlXtX2hYHWtIl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5f19c295731c0920dd", 
+      "id": 28419, 
+      "name": "Terence Bernie Hines", 
+      "order": 6, 
+      "profile_path": "/uMC8ILPk0h2fN6ZM8N7kHq8Uxym.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5f19c295731c092117", 
+      "id": 15373, 
+      "name": "Rif Hutton", 
+      "order": 7, 
+      "profile_path": "/7bfADzIlo4ShEFK0dGBWkJbUXTz.jpg"
+    }
+  ], 
+  "id": 949547, 
+  "name": "The Killer in Me", 
+  "overview": "After sharing a lingering kiss with would-be Slayer Kennedy, Willow bafflingly transforms into Warren and must confront the loss of Tara. When Spike's chip begins to malfunction, he and Buffy take a trip to the Initiative stomping grounds, where they meet up with a few remaining soldiers who give her a choice of how to deal with the problem. Meanwhile, when Giles takes the Potentials on a self discovery retreat, the rest of the gang are stunned when they discover clues that lead them to believe Giles may be The First Evil.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/39QRJHgnQ0gBM9ZUu4c0232WKS.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,88 @@
+{
+  "air_date": "2000-12-19", 
+  "crew": [
+    {
+      "credit_id": "5257382e760ee3668d006bd5", 
+      "department": "Writing", 
+      "id": 1216733, 
+      "job": "Writer", 
+      "name": "Shawn Ryan", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b6d", 
+      "id": 36221, 
+      "name": "Sam Anderson", 
+      "order": 3, 
+      "profile_path": "/2zcmQEBeArztSQJ317nZCHwCVtF.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b8f", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 4, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }
+  ], 
+  "id": 182925, 
+  "name": "Reunion", 
+  "overview": "The newly revamped deadly duo of Drusilla and Darla hit the streets of L.A. Angel is frantic, searching for the terrible twosome.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/uNgdisZqyXASmOyttMQEbLoCHyW.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

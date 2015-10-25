@@ -1,0 +1,64 @@
+{
+  "air_date": "2001-02-27", 
+  "crew": [
+    {
+      "credit_id": "52573831760ee3668d00703f", 
+      "department": "Directing", 
+      "id": 8573, 
+      "job": "Director", 
+      "name": "Thomas J. Wright", 
+      "profile_path": "/9mAgimzp4CbzPRGPBfPirM87seb.jpg"
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 16, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }
+  ], 
+  "id": 182933, 
+  "name": "Epiphany", 
+  "overview": "After an empty night of passion with Darla, Angel wakes up with his soul still intact and has an epiphany. Angel tries to reunite with his former employees,but Cordelia, Wesley and Gunn are reluctant to forgive him, even when their lives are at stake.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/uDVgUBE5pI6QQNTDq27ib6J7Zls.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

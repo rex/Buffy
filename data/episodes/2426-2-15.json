@@ -1,0 +1,112 @@
+{
+  "air_date": "2001-02-20", 
+  "crew": [
+    {
+      "credit_id": "5257383a760ee3668d0076bd", 
+      "department": "Directing", 
+      "id": 87472, 
+      "job": "Director", 
+      "name": "James Whitmore Jr.", 
+      "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 15, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573831760ee3668d007106", 
+      "id": 135409, 
+      "name": "Brigid Brannagh", 
+      "order": 0, 
+      "profile_path": "/xZODXYeYE4ii57HFJlcCde6SwHT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b6d", 
+      "id": 36221, 
+      "name": "Sam Anderson", 
+      "order": 3, 
+      "profile_path": "/2zcmQEBeArztSQJ317nZCHwCVtF.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573831760ee3668d006fdb", 
+      "id": 19468, 
+      "name": "Gerry Becker", 
+      "order": 4, 
+      "profile_path": "/4oXmbOtBU18w0eB5Jaj7OACvEpG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383a760ee3668d00765d", 
+      "id": 1213069, 
+      "name": "David Fury", 
+      "order": 5, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383a760ee3668d007685", 
+      "id": 9284, 
+      "name": "Thomas Kopache", 
+      "order": 7, 
+      "profile_path": "/x7ef1rpmCE6rjeuJq30rw0zSQE0.jpg"
+    }
+  ], 
+  "id": 182947, 
+  "name": "Reprise", 
+  "overview": "Wolfram and Hart's senior partner is coming to visit. When Angel learns that the \"senior partner\" is actually an evil and merciless demon from hell, he must sacrifice his own life to destroy the powerful beast.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/iip131Yd3SHbjfDelrpDi9JiaxF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

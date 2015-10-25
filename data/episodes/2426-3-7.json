@@ -1,0 +1,88 @@
+{
+  "air_date": "2001-11-05", 
+  "crew": [
+    {
+      "credit_id": "52573831760ee3668d0070d1", 
+      "department": "Directing", 
+      "id": 72445, 
+      "job": "Director", 
+      "name": "Turi Meyer", 
+      "profile_path": "/3TRekhDcZsF3PhH2hLZZcv4ebE2.jpg"
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385b760ee3668d00a115", 
+      "id": 58512, 
+      "name": "Steve Tom", 
+      "order": 3, 
+      "profile_path": "/ptnGjngOH5rbGDDewk5OESqxs3A.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009074", 
+      "id": 21675, 
+      "name": "Jack Conley", 
+      "order": 3, 
+      "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385b760ee3668d00a137", 
+      "id": 158782, 
+      "name": "Van Epperson", 
+      "order": 4, 
+      "profile_path": "/2l4N2WTYen9cz5HJKeDvIEtzsB1.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385b760ee3668d00a159", 
+      "id": 1217939, 
+      "name": "Robert Peters", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183053, 
+  "name": "Offspring", 
+  "overview": "Darla returns and reveals that she is pregnant with Angel's child.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/aUlc1JJxp9CyFc2vYPhXC9txLrQ.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

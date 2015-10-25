@@ -1,0 +1,72 @@
+{
+  "air_date": "2002-04-30", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387419c2957940053ff7", 
+      "department": "Writing", 
+      "id": 1213073, 
+      "job": "Writer", 
+      "name": "Drew Greenberg", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5319c295731c090cbd", 
+      "id": 149665, 
+      "name": "Kali Rocha", 
+      "order": 1, 
+      "profile_path": "/uhigi00Mz43MpzXFYk06N5vApqj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949532, 
+  "name": "Entropy", 
+  "overview": "Having accepted the offer to become a vengeance demon again, Anya attempts to curse Xander for the pain he caused her... but she can't do it herself. Instead, she enlists the help of some old friends but it doesn't go how she expected.   Buffy spends some quality time with Dawn to make up for her violent actions in \"Normal Again,\" but Dawn's idea of time well spent is the dangerous world of patrolling; while Willow and Tara go on a coffee date and begin to mend their troubled relationship.   The gang discover that the Troika have been watching their every move with hidden cameras. The cameras are traced to the trio's lair and what is seen on video proves to be devastating for all of them.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/cF2WDNPrXjGrrjNvTnlw3mqrlXR.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

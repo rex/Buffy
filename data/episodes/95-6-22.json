@@ -1,0 +1,56 @@
+{
+  "air_date": "2002-05-21", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 22, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949518, 
+  "name": "Grave", 
+  "overview": "Giles's new-found power brings Willow down momentarily and Giles magically binds her and leaves to catch up with Buffy. Willow telepathically controls Anya and gets her to break the binding spell. Willow draws Giles's energy into her and is hit by a sudden burst of emotion. Willow feels so much pain and hurt in the world and she decides to end it all.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/uY7QBRuh9Cb7EKgyWYm2jdlr8yV.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

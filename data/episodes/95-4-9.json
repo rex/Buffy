@@ -1,0 +1,48 @@
+{
+  "air_date": "1999-11-30", 
+  "crew": [
+    {
+      "credit_id": "5253387619c2957940054023", 
+      "department": "Writing", 
+      "id": 1213075, 
+      "job": "Writer", 
+      "name": "Tracey Forbes", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e4419c295731c08efd8", 
+      "department": "Directing", 
+      "id": 1214210, 
+      "job": "Director", 
+      "name": "Nick Marck", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 9, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053ee5", 
+      "id": 46772, 
+      "name": "Marc Blucas", 
+      "order": 11, 
+      "profile_path": "/5OdBu0DFKca1mxjeqNruz00DSRF.jpg"
+    }
+  ], 
+  "id": 949490, 
+  "name": "Something Blue", 
+  "overview": "Willow, in her attempt to get over Oz, casts a spell that ends up causing all sorts of chaos for the gang. Giles goes blind, Xander becomes a demon magnet, and Buffy and Spike fall in love and get engaged.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/3mulureR4SIHM9uuNY86yYgd7kl.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

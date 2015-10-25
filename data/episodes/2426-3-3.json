@@ -1,0 +1,56 @@
+{
+  "air_date": "2001-10-08", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006d23", 
+      "department": "Directing", 
+      "id": 1223968, 
+      "job": "Director", 
+      "name": "Frederick King Keller", 
+      "profile_path": "/5frIHmIElwmWcOnqRRhAhkpPlW3.jpg"
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d11", 
+      "id": 79538, 
+      "name": "Khalil Kain", 
+      "order": 0, 
+      "profile_path": "/cg21H1qo8VvLpABRbdVrQZpFArc.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d39", 
+      "id": 1217941, 
+      "name": "Sam Ayers", 
+      "order": 2, 
+      "profile_path": "/cPQGYpXiUkrQ9NT0gLWAzbBaz2m.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 159320, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+    }
+  ], 
+  "id": 183039, 
+  "name": "That Old Gang of Mine", 
+  "overview": "Gunn's loyalties are torn between his current demon-hunting associates and the gang he used to hang out with, which has taken to killing demons for fun instead of defence.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/A5gz9AqxFVcN4fXyeYrgVNXT3kL.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

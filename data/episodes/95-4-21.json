@@ -1,0 +1,80 @@
+{
+  "air_date": "2000-05-16", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 21, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4319c295731c08ed10", 
+      "id": 114052, 
+      "name": "Jordi Vilasuso", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e16f", 
+      "id": 104195, 
+      "name": "Bailey Chase", 
+      "order": 2, 
+      "profile_path": "/1Lmy7WGlthUPwjUDbj1ODTdWUZA.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e1a5", 
+      "id": 83859, 
+      "name": "Leonard Roberts", 
+      "order": 3, 
+      "profile_path": "/stLgqI31p8ULs3lDZg57KWpYL68.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3b19c295731c08dcfd", 
+      "id": 32225, 
+      "name": "Lindsay Crouse", 
+      "order": 3, 
+      "profile_path": "/mAZTWVbtfmC0R4R6TZ3rjhJSW0b.jpg"
+    }
+  ], 
+  "id": 949488, 
+  "name": "Primeval (2)", 
+  "overview": "Adam tells Riley that he has a behavior modification chip wired to his central nervous system behind his heart. Through the chip Adam has control over Riley. When Buffy find Spike in Adam's cave she figures out that he intentionally tried to split up the gang. Buffy tells the rest of them and the find that Adam wants Buffy to go to the Initiative as part of his plan. Xander suggests that they need the power of all the gang members combined to defeat Adam and Giles agrees. The gang all break into the Initiative.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/aXC4B4rO2HhZOekz0zRfRhuNQwD.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

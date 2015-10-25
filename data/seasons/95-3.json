@@ -1,0 +1,1530 @@
+{
+  "air_date": "1998-09-29", 
+  "episodes": [
+    {
+      "air_date": "1998-09-29", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 1, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3119c295731c08cab7", 
+          "id": 51931, 
+          "name": "Harrison Young", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3119c295731c08cae1", 
+          "id": 1216156, 
+          "name": "Chad Todhunter", 
+          "order": 1, 
+          "profile_path": "/zFHBwnGHAfyj3naHz6NbPaZNAuT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08cb13", 
+          "id": 1213088, 
+          "name": "Mary-Pat Green", 
+          "order": 3, 
+          "profile_path": "/6yNnVUrXe9jLRQm7qvkIacg7YVc.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949447, 
+      "name": "Anne", 
+      "overview": "Willow, Xander and Oz are attempting to keep the Sunnydale vampire population in check during Buffy's absence with only moderate success. As the gang restarts school we learn that Buffy is working as a waitress in L.A. using the name Anne and trying to forget her old life. Buffy runs into Lily (formerly known as Chanterelle) and her boyfriend Rickie who quickly turns up missing. Buffy discovers Rickie dead but mysteriously aged to an old man. Continuing her investigation Buffy tracks down Ken (a social worker) and Lily and all three fall through a portal in the floor. They are in a demonic factory where the humans are slave labor.   Back in Sunnydale the gang succeeds in staking a vampire though it's not exactly pretty. Meanwhile Buffy and Lily wake up in a cell and Ken explains they are in an alternate dimension where a hundred years passes before a day on Earth goes by. Buffy overcomes the guards with some help from Lily and leads her and the other slaves back to Earth. After handing", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/lbFhRII9UgiN8QBo7puUKDUBn5x.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-10-06", 
+      "crew": [
+        {
+          "credit_id": "52599e2f19c295731c08c4ab", 
+          "department": "Directing", 
+          "id": 87472, 
+          "job": "Director", 
+          "name": "James Whitmore Jr.", 
+          "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 2, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08cbf6", 
+          "id": 9279, 
+          "name": "Nancy Lenehan", 
+          "order": 2, 
+          "profile_path": "/d53TslGYUtkXfHHEjCGMCQOOdlM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949448, 
+      "name": "Dead Man's Party", 
+      "overview": "When Buffy returns home she finds that the life she left behind may not be as easy to slip back into as she has to battle not only the rising dead, but also the distrust of her mother and the silent resentment of her friends.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/henMKX30w8Fe7wZBZVY2TEt1W9t.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-10-13", 
+      "crew": [
+        {
+          "credit_id": "5253387219c2957940053fdf", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 3, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08cc51", 
+          "id": 75946, 
+          "name": "Fab Filippo", 
+          "order": 0, 
+          "profile_path": "/34Wj12QrzinSnwe0Wjq1XiPGvre.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08cd0b", 
+          "id": 15372, 
+          "name": "Jeremy Roberts", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949449, 
+      "name": "Faith, Hope & Trick", 
+      "overview": "The new Slayer Faith arrives in town and seems like a fun-loving wacky teenager who integrates herself into the gang. While Buffy is getting 'Single White Female-d' she notices that Faith is becoming more mysterious and discovers that she has been followed by an ancient vampire who murdered her watcher.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/x6H6KpzW5BwPOvICIbjCiEYJEeR.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-10-20", 
+      "crew": [
+        {
+          "credit_id": "52599e2f19c295731c08c4ab", 
+          "department": "Directing", 
+          "id": 87472, 
+          "job": "Director", 
+          "name": "James Whitmore Jr.", 
+          "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 4, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08cc51", 
+          "id": 75946, 
+          "name": "Fab Filippo", 
+          "order": 0, 
+          "profile_path": "/34Wj12QrzinSnwe0Wjq1XiPGvre.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08cda4", 
+          "id": 33490, 
+          "name": "Phill Lewis", 
+          "order": 1, 
+          "profile_path": "/dhS3Er0m1cF9HgmcEXe2lmmlIG7.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }
+      ], 
+      "id": 949450, 
+      "name": "Beauty and the Beasts", 
+      "overview": "When a student is found savagely mauled in the woods the Oz-werewolf is suspected, but when Buffy discovers that Angel is back on Earth after hundreds of years of torture and has been reduced to nothing more than a wild animal, she fears that he may be the killer.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/uZa8En7S6C5AzfFuOTZ8iA1bP1T.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-11-03", 
+      "crew": [
+        {
+          "credit_id": "5253387219c2957940053fdf", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2819c295731c08b39a", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 5, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2b19c295731c08ba93", 
+          "id": 44205, 
+          "name": "Jeremy Ratchford", 
+          "order": 0, 
+          "profile_path": "/xaRo0XqN8oTlQFufgvPJRWWTj3x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08cc51", 
+          "id": 75946, 
+          "name": "Fab Filippo", 
+          "order": 0, 
+          "profile_path": "/34Wj12QrzinSnwe0Wjq1XiPGvre.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce6d", 
+          "id": 11764, 
+          "name": "Ian Abercrombie", 
+          "order": 2, 
+          "profile_path": "/qci9vBTZJXQNLIFpCtIpXU881g8.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }
+      ], 
+      "id": 949451, 
+      "name": "Homecoming", 
+      "overview": "When Cordelia flaunts her sure win for Homecoming Queen it awakens the prom queen within Buffy and they become rivals for the title. Meanwhile the new vampire in town, Mr. Trick, rallies a group of tough vampires, demons and mercenaries together to set up a surprise for the two slayers.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/h4SyuE5S0POuTljblXDfJc0cGKu.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-11-10", 
+      "crew": [
+        {
+          "credit_id": "52599e2b19c295731c08bc78", 
+          "department": "Directing", 
+          "id": 1213371, 
+          "job": "Director", 
+          "name": "Michael Lange", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }
+      ], 
+      "episode_number": 6, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2819c295731c08b3f7", 
+          "id": 15030, 
+          "name": "Robin Sachs", 
+          "order": 1, 
+          "profile_path": "/rSMeopDC1loyjUVhxK0XjFfSlAC.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949452, 
+      "name": "Band Candy", 
+      "overview": "Mr Trick enlists Giles' old buddy Ethan Rayne to manufacture and distribute boxes of candy which turn the adult population into uninhibited, irresponsible teenagers to keep them out of the way while the mysterious Mayor Wilkins pays a tribute to a demon.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/FODyvPgOcRnTZSQkx9nPE9eP0D.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-11-17", 
+      "crew": [
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 7, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3419c295731c08cf83", 
+          "id": 10780, 
+          "name": "Serena Scott Thomas", 
+          "order": 0, 
+          "profile_path": "/dvTjb6V46wOo9JGgcViU54UoZNN.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }
+      ], 
+      "id": 949453, 
+      "name": "Revelations", 
+      "overview": "Xander finds out about Angel's return to Sunnydale and promptly informs the gang who confront Buffy with the fear that he may turn evil again, while Faith finds herself under the wing of a new Watcher, Gwendolyn Post, an outwardly prim and proper Englishwoman who was expelled from the Watcher's Council for practicing evil magic.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/e2D4WVbrSw3OvN22nfKPGY07yN6.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-11-24", 
+      "crew": [
+        {
+          "credit_id": "52599e2219c295731c08a798", 
+          "department": "Directing", 
+          "id": 17272, 
+          "job": "Director", 
+          "name": "David Semel", 
+          "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+        }, 
+        {
+          "credit_id": "5253387d19c295794005406b", 
+          "department": "Writing", 
+          "id": 1213081, 
+          "job": "Writer", 
+          "name": "Dan Vebber", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 8, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3419c295731c08d00c", 
+          "id": 19307, 
+          "name": "Suzanne Krull", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949454, 
+      "name": "Lovers Walk", 
+      "overview": "Spike returns to Sunnydale a shadow of his bad-ass vampire self and kidnaps Willow so she can put a love spell on Drusilla. While he is out collecting magic spell ingredients and convincing Buffy why she shouldn't kill him, Willow and Xander lose their inhibitions in the heat of the moment only to be caught in the act by a rescue party in the form of Oz and Cordelia.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/tDaZSEG2gCQfffg0tys2zzFgcbR.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-12-08", 
+      "crew": [
+        {
+          "credit_id": "52599e2819c295731c08b39a", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 9, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3519c295731c08d0c7", 
+          "id": 66745, 
+          "name": "Emma Caulfield", 
+          "order": 2, 
+          "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1e19c295731c08a056", 
+          "id": 55194, 
+          "name": "Mark Metcalf", 
+          "order": 5, 
+          "profile_path": "/qjxCggGQH99OkXjDxm33QPIJZcl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }
+      ], 
+      "id": 949455, 
+      "name": "The Wish", 
+      "overview": "Wanting to be rid of Xander for good, Cordelia comes to the conclusion that Buffy is the cause of all her problems and makes a wish that Buffy had never come to Sunnydale. A demon grants the wish and Cordelia's world suddenly changes.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/aVaMNGfOBI3UX02Ph1TDyLjVCfv.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-12-15", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 10, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b7d0", 
+          "id": 56691, 
+          "name": "Saverio Guerra", 
+          "order": 5, 
+          "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949456, 
+      "name": "Amends", 
+      "overview": "While the gang prepares for their Christmas vacation, Angel is haunted by visions of his violent past. A mysterious force called the First Evil takes the form of Jenny Calendar and tries to convince him to lose his soul in Buffy and become evil again. Believing that he isn't strong enough to fight the demon within, Angel waits on the top of a hill for the sun to rise.   Buffy finds him and tells him to fight back, that he can do real good in this world, but just as she is giving up it begins to snow, preventing Angel from being killed by the sunlight.   Meanwhile, Willow goes to great seductive lengths to win Oz back.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/oucquPaGEq8Ec83Ql9eYM1wpmbE.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-01-12", 
+      "crew": [
+        {
+          "credit_id": "52599e2f19c295731c08c4ab", 
+          "department": "Directing", 
+          "id": 87472, 
+          "job": "Director", 
+          "name": "James Whitmore Jr.", 
+          "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }
+      ], 
+      "episode_number": 11, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949457, 
+      "name": "Gingerbread", 
+      "overview": "Picking the wrong night for mother-daughter bonding, Joyce discovers the bodies of two children apparently sacrificed in an occult ritual and she rallies the adults of Sunnydale convincing them to rid the town of evil, including Buffy, Willow and Amy. Giles soon realises that the children are actually demons that do not kill people themselves but invoke fear and panic and gain their power by watching normally calm and sane people persecute each other.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/xUVzreUcNrvnALbXnMlCiZz7Eo9.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-01-19", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 12, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3519c295731c08d264", 
+          "id": 23790, 
+          "name": "Dominic Keating", 
+          "order": 0, 
+          "profile_path": "/20lcxmytSdnm0skx63oYKdW3bFN.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d2d6", 
+          "id": 1166, 
+          "name": "Harris Yulin", 
+          "order": 2, 
+          "profile_path": "/MCW4IR3mEB6oeRbX9bfeHkZ3qm.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d31c", 
+          "id": 54865, 
+          "name": "Jeff Kober", 
+          "order": 3, 
+          "profile_path": "/eMp9ZsC77yddwW4SMiuZ7xOd0GS.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949458, 
+      "name": "Helpless", 
+      "overview": "For her upcoming 18th birthday, Buffy declines the scooby gang's offer of a big party, hoping to celebrate with quiet reflection and a traditional trip to the ice show with her father. But unbeknownst to Buffy, preparations are being made for a life-threatening rite of passage that drains the slayer of her powers and then entraps her with a powerful vampire foe that she must defeat in a defenseless state in order to pass the test.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/3kAeZWjdmSJktza2AMqRutTdQmk.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-01-26", 
+      "crew": [
+        {
+          "credit_id": "52599e2f19c295731c08c4ab", 
+          "department": "Directing", 
+          "id": 87472, 
+          "job": "Director", 
+          "name": "James Whitmore Jr.", 
+          "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+        }, 
+        {
+          "credit_id": "5253387d19c295794005406b", 
+          "department": "Writing", 
+          "id": 1213081, 
+          "job": "Writer", 
+          "name": "Dan Vebber", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 13, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d37b", 
+          "id": 76314, 
+          "name": "Channon Roe", 
+          "order": 0, 
+          "profile_path": "/uUrtHAIC010Oelsx8MO6Z1mMbaV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d3f1", 
+          "id": 52415, 
+          "name": "Michael Cudlitz", 
+          "order": 2, 
+          "profile_path": "/BMed7j9hfFNPO7yocDjtQnVgdl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b7d0", 
+          "id": 56691, 
+          "name": "Saverio Guerra", 
+          "order": 5, 
+          "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+        }
+      ], 
+      "id": 949459, 
+      "name": "The Zeppo", 
+      "overview": "When Xander realises that he isn't needed by the gang as much as he'd like to believe, his quest to prove he's cool leads him to an unforgettable night that finds him consorting with fast women, raising the dead and rolling with a dangerous crowd that could put Sunnydale in a world of hurt. Meanwhile, Buffy, Giles and the rest of the crew engage in a furious battle with the Sisterhood of Jhe, an all-female demon apocalypse cult that intends to reopen the Hellmouth and bring about the end of the world. Also, Faith and Xander grow somewhat closer when they have sex after he saves her from an apocalypse demon.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/8WVmQUDI9AkvURa3vOHlldLA0Ld.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-02-09", 
+      "crew": [
+        {
+          "credit_id": "52599e2b19c295731c08bc78", 
+          "department": "Directing", 
+          "id": 1213371, 
+          "job": "Director", 
+          "name": "Michael Lange", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 14, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d45c", 
+          "id": 94149, 
+          "name": "Ron Rogg\u00e9", 
+          "order": 0, 
+          "profile_path": "/2QtQvpwYKpQIaepbgtdwCUPNePg.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4ac", 
+          "id": 41517, 
+          "name": "Christian Clemenson", 
+          "order": 3, 
+          "profile_path": "/kOBGt4dTtOSHoR2QzRTIOlGpO0V.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d54e", 
+          "id": 29795, 
+          "name": "Jack Plotnick", 
+          "order": 6, 
+          "profile_path": "/oFGLmsfLkVwMtCocgKbnCPj0gYq.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949460, 
+      "name": "Bad Girls", 
+      "overview": "While on a mission to retrieve an amulet before a powerful demon can restore his strength with it, Faith introduces Buffy to her reckless method of slaying which leaves Buffy wanting more of the wild life; while Giles is trying to keep his cool in front of the stuffy new watcher, Wesley Wyndam-Pryce.   When Faith accidentally kills the deputy mayor Allan Finch, she tries to clean up the crime but when Buffy confronts her about her actions, she simply replies \"I don't care.\"", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/ngqbIe5X7xrSXTinWV5XsEQvAxc.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-02-16", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2d19c295731c08c126", 
+          "department": "Directing", 
+          "id": 1231299, 
+          "job": "Director", 
+          "name": "Michael Gershman", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 15, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d54e", 
+          "id": 29795, 
+          "name": "Jack Plotnick", 
+          "order": 6, 
+          "profile_path": "/oFGLmsfLkVwMtCocgKbnCPj0gYq.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949461, 
+      "name": "Consequences", 
+      "overview": "Buffy tries to face up to the consequences of her wild actions with Faith but Faith seems to think herself above the law. Buffy confides in Giles about the murder and he oversteps his bounds by not involving the new Watcher, Wesley.    Angel captures Faith and tries to connect with her but Wesley and the Watcher's Council intervene and take Faith to be transported to England. Faith escapes and prepares to leave Sunnydale on a cargo ship but Buffy finds her. Mr Trick and several vampires attack them and Faith saves Buffy from almost being bitten by Trick.   Buffy and the gang think that Faith can be saved but while they discuss it, she is offering her services to the Mayor.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/vC3posEbpHZyDtwd0ESr5zx7bh1.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-02-23", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 16, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3519c295731c08d0c7", 
+          "id": 66745, 
+          "name": "Emma Caulfield", 
+          "order": 2, 
+          "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d68a", 
+          "id": 149563, 
+          "name": "Ethan Erickson", 
+          "order": 4, 
+          "profile_path": "/rFf9TFofNCARgpj1xTW0CynidAe.jpg"
+        }
+      ], 
+      "id": 949462, 
+      "name": "Doppelgangland", 
+      "overview": "While unknowingly participating in a spell with the wish-granting demon Anyanka in order for her to get her powers back, Willow accidentally brings forth the vampire Willow from Cordelia's alternate universe.    The vampire Willow sets her sights on turning Sunnydale into the vampire-ruled world she knows but when she learns of her counterpart, she decides to make Willow send her back. After trying to seduce Willow and freaking her out a bit, the vampire Willow is captured. The real Willow, dressed in her doppelganger's outfit, attempts to stop the ensuing slaughter at the Bronze and is almost killed by the vampire Willow before Buffy saves her.   Giles and Anya successfully send the vampire back to her world but she arrives at the exact same moment she left, right before she is staked by Oz.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/nAU9ZrSNc5CNRtsqTfA5PXTHxZH.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-03-16", 
+      "crew": [
+        {
+          "credit_id": "52599e3819c295731c08d7e9", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 17, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d75d", 
+          "id": 79492, 
+          "name": "Michael Manasseri", 
+          "order": 0, 
+          "profile_path": "/h8SlPbZ3rAKjLjJh1WPAWzdRz6c.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949463, 
+      "name": "Enemies", 
+      "overview": "Faith's new alliance with the Mayor goes as far as them conspiring to rob Angel of his soul. Faith tries to seduce him but he is thinking Buffy Summers in a big, one-track way. When the old-fashioned way doesn't work, the Mayor summons a powerful sorcerer who does the job for them.   Faith and Angelus team up and capture Buffy but while they are preparing to torture her, Faith lets loose some details about the Mayor and his upcoming Ascension; at which point Angelus reveals that his being evil was all an act for them to get information. Faith escapes after she and Buffy battle and Buffy tells Angel that she needs some time alone after having to watch him and Faith kiss.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/ivtG8SnWBbirKOsMa5XGfee4CQ3.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-04-21", 
+      "crew": [
+        {
+          "credit_id": "52599e3919c295731c08d8a6", 
+          "department": "Directing", 
+          "id": 1231379, 
+          "job": "Director", 
+          "name": "Regis Kimble", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }
+      ], 
+      "episode_number": 18, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d822", 
+          "id": 4134, 
+          "name": "Keram Malicki-S\u00e1nchez", 
+          "order": 0, 
+          "profile_path": "/jTrVwWLpoUme2xezQHrRU1M5T0M.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d68a", 
+          "id": 149563, 
+          "name": "Ethan Erickson", 
+          "order": 4, 
+          "profile_path": "/rFf9TFofNCARgpj1xTW0CynidAe.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949464, 
+      "name": "Earshot", 
+      "overview": "After a close encounter with a mouthless demon Buffy is infected with the demon's blood and she gains the ability to hear people's thoughts. Her new found ability at first is good for cheating on schoolwork, but when the voices continue to flood her mind, she realises that she cannot control the power.    While the gang tries to track down a would-be killer at the school, Buffy is slowly going crazy from the inability to block the noise from the minds of the people around her.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/rSbcbQrWDJx1OKzezrlQhBXBLbv.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-05-04", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 19, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949465, 
+      "name": "Choices", 
+      "overview": "Buffy's acceptance to college leaves her with even more doubts about her life outside of Sunnydale with Faith and the Mayor still around. Buffy decides to take the fight to the Mayor and discovers a secret delivery for him, the Box of Gavrok which contains a mystical energy vital to the Ascension. Buffy and Angel successfully break into Town Hall and snatch the box but unfortunately, Willow is captured by Faith. Are they willing to give up their best chance at avoiding the Ascension to save Willow's life? Is there any doubt?", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/LTMV4gDlLZWU9umUbuZ2G30lMa.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-05-11", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 20, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3519c295731c08d0c7", 
+          "id": 66745, 
+          "name": "Emma Caulfield", 
+          "order": 2, 
+          "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949466, 
+      "name": "The Prom", 
+      "overview": "As the all time night-of-nights for the senior students peeks around the halls, Buffy must save her friends and the rest of the school from a scorned student who has trained a pack of hellhounds to attack formalwear.   Meanwhile, Angel reveals his feelings that he and Buffy could never have a normal life together and has decided to do the right thing and break up with her and plans to leave town after the Ascension.   Of course Buffy saves the day and her night doesn't turn out so bad when she receives a special Class Protector award from her fellow students and Angel shows up looking very dapper in a tux and asks for one last dance.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/sei1RUj7LHZZxnlWBLW3Sd3y2VG.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-05-18", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 21, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3519c295731c08d0c7", 
+          "id": 66745, 
+          "name": "Emma Caulfield", 
+          "order": 2, 
+          "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d68a", 
+          "id": 149563, 
+          "name": "Ethan Erickson", 
+          "order": 4, 
+          "profile_path": "/rFf9TFofNCARgpj1xTW0CynidAe.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3a19c295731c08da8f", 
+          "id": 426, 
+          "name": "Larry Bagby", 
+          "order": 8, 
+          "profile_path": "/zBXOdQkskwkYCK34RnVKTVaI8DR.jpg"
+        }
+      ], 
+      "id": 949467, 
+      "name": "Graduation Day, Part One", 
+      "overview": "The gang receive some valuable information from old enemy Anya who has actually witnessed an Ascension. She reveals that the Mayor plans to transform himself into pure demon, something that has not been seen for thousands of years. When Angel is poisoned by Faith to distract Buffy, Buffy faces Faith for the final time in order to get the only cure to the poison: Faith's blood.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/8IhK39xdoa4XEwPtnozH6Aq5rxE.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1999-07-13", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 22, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3319c295731c08ce23", 
+          "id": 35518, 
+          "name": "Harry Groener", 
+          "order": 1, 
+          "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3219c295731c08ccd9", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 3, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d4d6", 
+          "id": 1214673, 
+          "name": "Alexis Denisof", 
+          "order": 4, 
+          "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3719c295731c08d68a", 
+          "id": 149563, 
+          "name": "Ethan Erickson", 
+          "order": 4, 
+          "profile_path": "/rFf9TFofNCARgpj1xTW0CynidAe.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }
+      ], 
+      "id": 949468, 
+      "name": "Graduation Day, Part Two", 
+      "overview": "After their ultimate 'Fight-to-the-Death' Faith escapes from Buffy, albeit in a coma, so Buffy offers her own blood to Angel to rid his body of the poison. When she recovers the gang finally devise a plan to defeat the Mayor, rallying the students and asking for their help in fighting the resulting serpent demon before Buffy leads him into the library which has been rigged with explosives.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/ilm1Gq4l94PHNiEfaz1LEattz9I.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }
+  ], 
+  "id": 59467, 
+  "name": "Season 3", 
+  "overview": "The third season of the television series Buffy the Vampire Slayer premiered on September 29, 1998 on The WB Television Network and concluded its 22-episode season on July 13, 1999. It maintained its previous timeslot, airing Tuesdays at 8:00 pm ET. Two episodes, \"Earshot\" and \"Graduation Day, Part Two\", were delayed in the wake of the Columbine High School massacre because of their content.", 
+  "poster_path": "/mN5dBK732b2Bk3oxF8IQgDet1Os.jpg", 
+  "season_number": 3
+}

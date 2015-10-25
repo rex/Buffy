@@ -1,0 +1,80 @@
+{
+  "air_date": "2000-05-02", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e16f", 
+      "id": 104195, 
+      "name": "Bailey Chase", 
+      "order": 2, 
+      "profile_path": "/1Lmy7WGlthUPwjUDbj1ODTdWUZA.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e1a5", 
+      "id": 83859, 
+      "name": "Leonard Roberts", 
+      "order": 3, 
+      "profile_path": "/stLgqI31p8ULs3lDZg57KWpYL68.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4219c295731c08ea24", 
+      "id": 52937, 
+      "name": "Rob Benedict", 
+      "order": 7, 
+      "profile_path": "/iVsPXfFqK6pQPtIFaTYsyO5f9ui.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }
+  ], 
+  "id": 949486, 
+  "name": "New Moon Rising", 
+  "overview": "Tara and Willow's relationship seems to be progressing when Oz returns to town. Through his travels Oz has found a combination of charms, potions and meditation that allows him to avoid turning into a werewolf. When Oz discovers that Willow and Tara are more than friends he loses control and as a werewolf chases Tara.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/vVs3JyogABQ3vhYESsr4qfLvjVo.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

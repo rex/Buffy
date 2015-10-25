@@ -1,0 +1,80 @@
+{
+  "air_date": "2003-01-21", 
+  "crew": [
+    {
+      "credit_id": "52599e4519c295731c08f32a", 
+      "department": "Writing", 
+      "id": 1231186, 
+      "job": "Writer", 
+      "name": "Rebecca Rand Kirshner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091d8c", 
+      "id": 642250, 
+      "name": "Iyari Limon", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c09176a", 
+      "id": 168339, 
+      "name": "Sarah Hagan", 
+      "order": 1, 
+      "profile_path": "/p31CwP968p1QOyG3HPFUL2O2w2f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091dea", 
+      "id": 155212, 
+      "name": "Clara Bryant", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091f06", 
+      "id": 1213577, 
+      "name": "Indigo", 
+      "order": 5, 
+      "profile_path": "/oZT8eVQOJkmUkbLjzbGbyo5DWQw.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091f3e", 
+      "id": 76527, 
+      "name": "Felicia Day", 
+      "order": 6, 
+      "profile_path": "/mlTqR0XorYqvPvgu1mLVT8Fso6s.jpg"
+    }
+  ], 
+  "id": 949546, 
+  "name": "Potential", 
+  "overview": "Buffy and Spike begin to train the potential Slayers, while Willow performs a locator spell and discovers another potential at Sunnydale High. At first, it seems as though Dawn has been chosen, but she soon discovers that her friend Amanda is the one. Dawn helps Amanda fight off a vampire trapped in the school and then goes back to being a 'normal' person. Xander gives her an inspiring speech, which helps her deal with her missed opportunity.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/gug8dvb3LD2nriEz6j1gbXQ5wBt.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

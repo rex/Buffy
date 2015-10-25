@@ -1,0 +1,1578 @@
+{
+  "air_date": "2003-10-01", 
+  "episodes": [
+    {
+      "air_date": "2003-10-01", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f6f", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 1, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086c9", 
+          "id": 87073, 
+          "name": "Rodney Rowland", 
+          "order": 0, 
+          "profile_path": "/4vXGbrbv9r50KAEoFPISfraR824.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008713", 
+          "id": 1217551, 
+          "name": "Jonathan M. Woodward", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008735", 
+          "id": 159456, 
+          "name": "Marc Vann", 
+          "order": 4, 
+          "profile_path": "/7gxd1d21gEPKGPaAuN4Pasp9Fwo.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008757", 
+          "id": 151263, 
+          "name": "T. J. Thyne", 
+          "order": 5, 
+          "profile_path": "/giBl5eCVMhitbZ89iLRqoBDCbN7.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d00877f", 
+          "id": 35456, 
+          "name": "Marissa Tait", 
+          "order": 6, 
+          "profile_path": "/xDvxLVDgeSKrkQxK2x27umLbid4.jpg"
+        }
+      ], 
+      "id": 182983, 
+      "name": "Conviction", 
+      "overview": "Some old acquaintances come back into Angel's life as he and his friends begin running Wolfram and Hart and try to figure out why they've been selected to do so.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/9VQsHLwmfZmdXNtaplC4uS1W0SK.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-10-08", 
+      "crew": [
+        {
+          "credit_id": "5257384a760ee3668d008922", 
+          "department": "Writing", 
+          "id": 1215761, 
+          "job": "Writer", 
+          "name": "Ben Edlund", 
+          "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg"
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 2, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383e760ee3668d007e48", 
+          "id": 11863, 
+          "name": "Sarah Michelle Gellar", 
+          "order": 0, 
+          "profile_path": "/rweJ98bNan86oIliWZYT552oRra.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384b760ee3668d008962", 
+          "id": 1212758, 
+          "name": "Victor Raider-Wexler", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384b760ee3668d008984", 
+          "id": 102580, 
+          "name": "William Utay", 
+          "order": 2, 
+          "profile_path": "/cr90I955NflXd4bbKhDyfaONGGh.jpg"
+        }
+      ], 
+      "id": 182990, 
+      "name": "Just Rewards", 
+      "overview": "Angel and Spike challenge a necromancer who is unhappy with Wolfram and Hart's new leadership.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/AcKt8lKtFD3wmiEI8rQos0gev2B.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-10-15", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a83", 
+          "department": "Directing", 
+          "id": 1215026, 
+          "job": "Director", 
+          "name": "Marita Grabiak", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a5f", 
+          "department": "Writing", 
+          "id": 1224044, 
+          "job": "Writer", 
+          "name": "Sarah Fain", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 3, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257384b760ee3668d0089d2", 
+          "id": 21722, 
+          "name": "John Billingsley", 
+          "order": 0, 
+          "profile_path": "/fHQ6ecMufxLwUAbN3dX3yxFAn5d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384b760ee3668d0089f4", 
+          "id": 63661, 
+          "name": "Jenny Mollen", 
+          "order": 1, 
+          "profile_path": "/17eWISaAGuTWYbYxICVwV4Wwrf5.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384b760ee3668d008a16", 
+          "id": 77340, 
+          "name": "Heidi Dippold", 
+          "order": 2, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182991, 
+      "name": "Unleashed", 
+      "overview": "Angel tries to help a young woman who has been turned into a werewolf and is being pursued by a group of truly rarified gourmets.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/lFJPu1ySJjL2j7HkwmAcKfINgK3.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-10-22", 
+      "crew": [
+        {
+          "credit_id": "52573849760ee3668d008834", 
+          "department": "Directing", 
+          "id": 1213074, 
+          "job": "Director", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 4, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0087c7", 
+          "id": 95001, 
+          "name": "Simon Templeman", 
+          "order": 1, 
+          "profile_path": "/7h0lCiggaZgg67QVB0lI1EDa74g.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573849760ee3668d0087ec", 
+          "id": 1231382, 
+          "name": "Willow Geer", 
+          "order": 2, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182985, 
+      "name": "Hell Bound", 
+      "overview": "After being menaced by a series of gruesome ghosts no one else can see, Spike finally comes face to face with the spectral being who's been trying to drag him into hell.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/5rI74JZk5vN0vW6NDuUNjXrXGED.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-10-29", 
+      "crew": [
+        {
+          "credit_id": "5257384a760ee3668d008922", 
+          "department": "Writing", 
+          "id": 1215761, 
+          "job": "Writer", 
+          "name": "Ben Edlund", 
+          "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg"
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071e5", 
+          "department": "Directing", 
+          "id": 58075, 
+          "job": "Director", 
+          "name": "Bill L. Norton", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 5, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008713", 
+          "id": 1217551, 
+          "name": "Jonathan M. Woodward", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384a760ee3668d0088fe", 
+          "id": 1218790, 
+          "name": "Michael Maize", 
+          "order": 4, 
+          "profile_path": "/f90oVjGHa5XyxziPzlK2yvVvJFm.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008757", 
+          "id": 151263, 
+          "name": "T. J. Thyne", 
+          "order": 5, 
+          "profile_path": "/giBl5eCVMhitbZ89iLRqoBDCbN7.jpg"
+        }
+      ], 
+      "id": 182989, 
+      "name": "Life of the Party", 
+      "overview": "Strange things happen when Lorne has his sleep removed right before Wolfram and Hart's big Halloween party.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/mPQ7FWXaYXElzIme6YLMtSjz7VZ.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-11-05", 
+      "crew": [
+        {
+          "credit_id": "5257384a760ee3668d0088b1", 
+          "department": "Directing", 
+          "id": 1236075, 
+          "job": "Director", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 6, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573849760ee3668d008866", 
+          "id": 1086222, 
+          "name": "Bruno Gunn", 
+          "order": 0, 
+          "profile_path": "/gvjIPGaYREusDXwGIgK4H2aMFyM.jpg"
+        }
+      ], 
+      "id": 182986, 
+      "name": "The Cautionary Tale of Numero Cinco", 
+      "overview": "While losing heart for his own career as a hero, Angel befriends a disheartened, elderly hero, and battles an Aztec warrior who literally eats the hearts of heroes.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/5RJaaAwrUuoMGFMjyDIfNkAwuDk.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-11-12", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b89", 
+          "department": "Writing", 
+          "id": 47506, 
+          "job": "Writer", 
+          "name": "Drew Goddard", 
+          "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+        }, 
+        {
+          "credit_id": "5257384d760ee3668d008bad", 
+          "department": "Directing", 
+          "id": 1216553, 
+          "job": "Director", 
+          "name": "Jefferson Kibbee", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 7, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257384c760ee3668d008b37", 
+          "id": 4002, 
+          "name": "Roy Dotrice", 
+          "order": 0, 
+          "profile_path": "/5lEq1zJbdKO9KmhNiYxqEeiHgqT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384c760ee3668d008b65", 
+          "id": 12802, 
+          "name": "Treva Etienne", 
+          "order": 3, 
+          "profile_path": "/wIHXwmb2aFBNIT9aJHahtlHMrto.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008713", 
+          "id": 1217551, 
+          "name": "Jonathan M. Woodward", 
+          "order": 3, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182994, 
+      "name": "Lineage", 
+      "overview": "When Wesley's father visits Wolfram and Hart, the firm is attacked by a troop of spooky Ninja cyborgs.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/tQoQEcXrdLHzKA5yzI2QfpUdlA2.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-11-19", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b05", 
+          "department": "Directing", 
+          "id": 68841, 
+          "job": "Director", 
+          "name": "Skip Schoolnik", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 8, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b8f", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 4, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384c760ee3668d008acd", 
+          "id": 1224331, 
+          "name": "Mark Kelly", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182992, 
+      "name": "Destiny", 
+      "overview": "After Spike receives a strange package, Wolfram and Hart employees are possessed by evil... while Angel and Spike are set against each other in a quest that brings their 100-year-old rivalry to a head.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/eYLs7ZUnv0TeqkUPzkadEXCenKu.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-01-14", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383d760ee3668d007c7e", 
+          "department": "Directing", 
+          "id": 1216750, 
+          "job": "Director", 
+          "name": "Vern Gillum", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a5f", 
+          "department": "Writing", 
+          "id": 1224044, 
+          "job": "Writer", 
+          "name": "Sarah Fain", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 9, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384e760ee3668d008df5", 
+          "id": 101060, 
+          "name": "Danielle Nicolet", 
+          "order": 0, 
+          "profile_path": "/ra7gFHofp77ffDvy69SkbWs1H5S.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384e760ee3668d008e1d", 
+          "id": 88466, 
+          "name": "Brendan Hines", 
+          "order": 2, 
+          "profile_path": "/aV1y3XO96RztqsL8wZYBDsH8lBI.jpg"
+        }
+      ], 
+      "id": 183000, 
+      "name": "Harm's Way", 
+      "overview": "When Harmony wakes up next to a dead man with vampire bites in his neck, she's afraid she lost her head and killed him... but she can't remember doing it.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/ub04zvzMITpYsbNjexiCeGLpk2b.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-01-21", 
+      "crew": [
+        {
+          "credit_id": "5257384f760ee3668d008e82", 
+          "department": "Writing", 
+          "id": 1231387, 
+          "job": "Writer", 
+          "name": "Brent Fletcher", 
+          "profile_path": "/wf9HlIrEbtSOlenL1bGMJXaqQUk.jpg"
+        }, 
+        {
+          "credit_id": "5257384f760ee3668d008ea6", 
+          "department": "Directing", 
+          "id": 25934, 
+          "job": "Director", 
+          "name": "David Boreanaz", 
+          "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 10, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+        }
+      ], 
+      "id": 183001, 
+      "name": "Soul Purpose", 
+      "overview": "When Spike is talked into taking up the good-deeds business, Eve lets loose a soul sucking parasite on Angel, who then suffers disturbing feverish hallucinations as he sleeps.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/1BAo32JmNu8A3Lk0tVEZmJXEet4.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-01-28", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b89", 
+          "department": "Writing", 
+          "id": 47506, 
+          "job": "Writer", 
+          "name": "Drew Goddard", 
+          "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+        }, 
+        {
+          "credit_id": "5257384d760ee3668d008bad", 
+          "department": "Directing", 
+          "id": 1216553, 
+          "job": "Director", 
+          "name": "Jefferson Kibbee", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 11, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008bdf", 
+          "id": 43778, 
+          "name": "Navi Rawat", 
+          "order": 0, 
+          "profile_path": "/neAo8dukxSDh5Hn1Gjqi8nkz1aD.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008c07", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 2, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008c29", 
+          "id": 62035, 
+          "name": "Michael Krawic", 
+          "order": 3, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182995, 
+      "name": "Damage", 
+      "overview": "A deranged vampire slayer is convinced that spike is the man who kidnapped and tortured her when she was a child.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/qioIWlC9Ne97vCnnouHLKKX0TaS.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-02-04", 
+      "crew": [
+        {
+          "credit_id": "5257384e760ee3668d008dc3", 
+          "department": "Directing", 
+          "id": 1213069, 
+          "job": "Director", 
+          "name": "David Fury", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 12, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008d85", 
+          "id": 126502, 
+          "name": "Charisma Carpenter", 
+          "order": 1, 
+          "profile_path": "/yEYxnALL9ToIJFvAAC8jl3JBSvm.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/bnzdKYFges5RCGDDAQqNftyAiku.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008757", 
+          "id": 151263, 
+          "name": "T. J. Thyne", 
+          "order": 5, 
+          "profile_path": "/giBl5eCVMhitbZ89iLRqoBDCbN7.jpg"
+        }
+      ], 
+      "id": 182998, 
+      "name": "You're Welcome", 
+      "overview": "When Lindsey returns and tries to defeat Angel using a secret \"failsafe\" entity created by the Powers That Be, Cordelia emerges from her coma to help save Angel.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/3xpB6jb3QhyLgEViR3Pw91sGk6R.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-02-11", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b89", 
+          "department": "Writing", 
+          "id": 47506, 
+          "job": "Writer", 
+          "name": "Drew Goddard", 
+          "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+        }, 
+        {
+          "credit_id": "5257384d760ee3668d008d4d", 
+          "department": "Directing", 
+          "id": 102638, 
+          "job": "Director", 
+          "name": "Terrence O'Hara", 
+          "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 13, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008c71", 
+          "id": 1215395, 
+          "name": "Scott Klace", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008c93", 
+          "id": 61855, 
+          "name": "Eyal Podell", 
+          "order": 1, 
+          "profile_path": "/c5HBvjC98ex55qTR8eOomQ93srd.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008cb5", 
+          "id": 1217810, 
+          "name": "Nick Spano", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008cd7", 
+          "id": 1227482, 
+          "name": "Mikey Day", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008cf9", 
+          "id": 15418, 
+          "name": "Joel Polis", 
+          "order": 4, 
+          "profile_path": "/bwDOMBwBxL2cyXHBa4sLO00ifQg.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008d1b", 
+          "id": 1222962, 
+          "name": "Camden Toy", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 182996, 
+      "name": "Why We Fight", 
+      "overview": "A World War II submarine sailor - the only man Angel ever turned into a vampire since regaining his soul - returns to seek his revenge.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/ova4WYluazKYYEPDr5zUb8k8NgG.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-02-18", 
+      "crew": [
+        {
+          "credit_id": "52573850760ee3668d008f4a", 
+          "department": "Directing", 
+          "id": 1215761, 
+          "job": "Director", 
+          "name": "Ben Edlund", 
+          "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg"
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d008922", 
+          "department": "Writing", 
+          "id": 1215761, 
+          "job": "Writer", 
+          "name": "Ben Edlund", 
+          "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg"
+        }
+      ], 
+      "episode_number": 14, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384b760ee3668d0089f4", 
+          "id": 63661, 
+          "name": "Jenny Mollen", 
+          "order": 1, 
+          "profile_path": "/17eWISaAGuTWYbYxICVwV4Wwrf5.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008713", 
+          "id": 1217551, 
+          "name": "Jonathan M. Woodward", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d008eea", 
+          "id": 1228802, 
+          "name": "Abigail Mavity", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008735", 
+          "id": 159456, 
+          "name": "Marc Vann", 
+          "order": 4, 
+          "profile_path": "/7gxd1d21gEPKGPaAuN4Pasp9Fwo.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383a760ee3668d00765d", 
+          "id": 1213069, 
+          "name": "David Fury", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d008f12", 
+          "id": 77332, 
+          "name": "Ridge Canipe", 
+          "order": 5, 
+          "profile_path": "/lzsfyuIOnI5evRvT872Ra7DYIMS.jpg"
+        }
+      ], 
+      "id": 183003, 
+      "name": "Smile Time", 
+      "overview": "While Nina the werewolf show romantic interest in Angel, he investigates a demon-infested children's television program and gets turned into a puppet; Gunn makes a deal to keep his newly implanted mental powers; and Wes and Fred's relationship heats up.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/vzEGaj8tz5dBEOlvBY5GABhlSrp.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-02-25", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f6f", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 15, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d008f88", 
+          "id": 68180, 
+          "name": "Gary Grubbs", 
+          "order": 2, 
+          "profile_path": "/zbSSBFW8oRl4M1u2vyr1PUnWqCw.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008713", 
+          "id": 1217551, 
+          "name": "Jonathan M. Woodward", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d008faa", 
+          "id": 13362, 
+          "name": "Alec Newman", 
+          "order": 3, 
+          "profile_path": "/wVB3PgY21ooNuWzEdKazCw3GrBC.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d008fcc", 
+          "id": 77777, 
+          "name": "Jeremy Glazer", 
+          "order": 4, 
+          "profile_path": "/51RIv5OGXQDcHzVoMljDoVYRITH.jpg"
+        }
+      ], 
+      "id": 183005, 
+      "name": "A Hole in the World", 
+      "overview": "After being breathed on by an ancient sarcophagus, Fred contracts a mystery illness and lies near death while Angel and his friends try to figure out what's wrong with her.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/gbwy6W3fSlwwJnokBEec8VNLWP.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-03-03", 
+      "crew": [
+        {
+          "credit_id": "52573849760ee3668d008834", 
+          "department": "Directing", 
+          "id": 1213074, 
+          "job": "Director", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 16, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d00794c", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 0, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008713", 
+          "id": 1217551, 
+          "name": "Jonathan M. Woodward", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008735", 
+          "id": 159456, 
+          "name": "Marc Vann", 
+          "order": 4, 
+          "profile_path": "/7gxd1d21gEPKGPaAuN4Pasp9Fwo.jpg"
+        }
+      ], 
+      "id": 183008, 
+      "name": "Shells", 
+      "overview": "Mourning Fred's death, Angel and his friends vow to find a way to bring her back, which leads to a confrontation with the ancient god Illyria, who now occupies Fred's body.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/bqCZDxPTHSpC0TaSHgCvbllaCPT.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-04-14", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008b05", 
+          "department": "Directing", 
+          "id": 68841, 
+          "job": "Director", 
+          "name": "Skip Schoolnik", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a5f", 
+          "department": "Writing", 
+          "id": 1224044, 
+          "job": "Writer", 
+          "name": "Sarah Fain", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 17, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/bnzdKYFges5RCGDDAQqNftyAiku.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009052", 
+          "id": 2059, 
+          "name": "Adam Baldwin", 
+          "order": 2, 
+          "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+        }
+      ], 
+      "id": 183007, 
+      "name": "Underneath", 
+      "overview": "Angel, Gunn and Spike rescue Lindsey from a suburban hell dimension; Lorne and Eve are pursued by a representative of the senior partners; and Wesley consoles Illyria, who hates her new world.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/rLe2E6xtePDnbA8gVkPLfhUQl2m.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-04-21", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b89", 
+          "department": "Writing", 
+          "id": 47506, 
+          "job": "Writer", 
+          "name": "Drew Goddard", 
+          "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+        }, 
+        {
+          "credit_id": "5257384d760ee3668d008d4d", 
+          "department": "Directing", 
+          "id": 102638, 
+          "job": "Director", 
+          "name": "Terrence O'Hara", 
+          "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+        }
+      ], 
+      "episode_number": 18, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d00900e", 
+          "id": 27770, 
+          "name": "Dennis Christopher", 
+          "order": 0, 
+          "profile_path": "/sNFwlPHBAVn2fQIMVBTXMfx5E69.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009030", 
+          "id": 52646, 
+          "name": "Vincent Kartheiser", 
+          "order": 1, 
+          "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009052", 
+          "id": 2059, 
+          "name": "Adam Baldwin", 
+          "order": 2, 
+          "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009074", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 3, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }
+      ], 
+      "id": 183006, 
+      "name": "Origin", 
+      "overview": "When a warlock brings Connor back into Angel's life, Wesley finds out that Angel has tinkered with the memories of his friends.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/uNBDTOymMBgwPOMSKghIkkBziAx.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-04-28", 
+      "crew": [
+        {
+          "credit_id": "5257384a760ee3668d008922", 
+          "department": "Writing", 
+          "id": 1215761, 
+          "job": "Writer", 
+          "name": "Ben Edlund", 
+          "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg"
+        }, 
+        {
+          "credit_id": "5257383d760ee3668d007c7e", 
+          "department": "Directing", 
+          "id": 1216750, 
+          "job": "Director", 
+          "name": "Vern Gillum", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 19, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009120", 
+          "id": 47878, 
+          "name": "Jeff Yagher", 
+          "order": 0, 
+          "profile_path": "/1va4bxUIT8GY3iPhklg5JnUuw1A.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009052", 
+          "id": 2059, 
+          "name": "Adam Baldwin", 
+          "order": 2, 
+          "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573851760ee3668d009148", 
+          "id": 39173, 
+          "name": "Jaime Bergman", 
+          "order": 2, 
+          "profile_path": "/kNOgpqF1eDgFz8PBdiiAHuBglYU.jpg"
+        }
+      ], 
+      "id": 183009, 
+      "name": "Time Bomb", 
+      "overview": "As Angel and Hamilton urge Wesley to get rid of Illyria, she suffers a cataclysmic physical breakdown; and Gunn clashes with Angel over the enforcement of an evil demon contract.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/xv2ku8t9GGkgqvDdarUKIIFSeAF.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-05-05", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b89", 
+          "department": "Writing", 
+          "id": 47506, 
+          "job": "Writer", 
+          "name": "Drew Goddard", 
+          "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006ebf", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 20, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384d760ee3668d008c07", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 2, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d008f88", 
+          "id": 68180, 
+          "name": "Gary Grubbs", 
+          "order": 2, 
+          "profile_path": "/zbSSBFW8oRl4M1u2vyr1PUnWqCw.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b8f", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 4, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573851760ee3668d0091b0", 
+          "id": 62042, 
+          "name": "Carole Davis", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573851760ee3668d0091d2", 
+          "id": 1215981, 
+          "name": "Dominic Pace", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183010, 
+      "name": "The Girl in Question", 
+      "overview": "While Angel and Spike to go Italy to retrieve the head of a demon mobster (and save Buffy from a new suitor), Fred's parents arrive at Wolfram and Hart, looking for their daughter.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/u8Uikw75STVo5Ljp9bYhVuzo9yQ.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-05-12", 
+      "crew": [
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 21, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d00900e", 
+          "id": 27770, 
+          "name": "Dennis Christopher", 
+          "order": 0, 
+          "profile_path": "/sNFwlPHBAVn2fQIMVBTXMfx5E69.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257384b760ee3668d0089f4", 
+          "id": 63661, 
+          "name": "Jenny Mollen", 
+          "order": 1, 
+          "profile_path": "/17eWISaAGuTWYbYxICVwV4Wwrf5.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009052", 
+          "id": 2059, 
+          "name": "Adam Baldwin", 
+          "order": 2, 
+          "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d008faa", 
+          "id": 13362, 
+          "name": "Alec Newman", 
+          "order": 3, 
+          "profile_path": "/wVB3PgY21ooNuWzEdKazCw3GrBC.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573851760ee3668d009232", 
+          "id": 31714, 
+          "name": "Stacey Travis", 
+          "order": 4, 
+          "profile_path": "/9a9RvQ8311piSh5sUVaypN9TNDT.jpg"
+        }
+      ], 
+      "id": 183011, 
+      "name": "Power Play", 
+      "overview": "As Angel's behaviour grows increasingly hostile, his friends learn he's associating with members of an evil secret society, and may have deliberately engineered Fred's death.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/xJdwGKwtgFJvCQTlRNqCxNDUVy1.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2004-05-19", 
+      "crew": [
+        {
+          "credit_id": "5257384a760ee3668d0088b1", 
+          "department": "Directing", 
+          "id": 1236075, 
+          "job": "Director", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 22, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d00900e", 
+          "id": 27770, 
+          "name": "Dennis Christopher", 
+          "order": 0, 
+          "profile_path": "/sNFwlPHBAVn2fQIMVBTXMfx5E69.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009030", 
+          "id": 52646, 
+          "name": "Vincent Kartheiser", 
+          "order": 1, 
+          "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573835760ee3668d007274", 
+          "id": 1231372, 
+          "name": "Julia Lee", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b4b", 
+          "id": 71198, 
+          "name": "Christian Kane", 
+          "order": 2, 
+          "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d0086f1", 
+          "id": 43427, 
+          "name": "Sarah Thompson", 
+          "order": 2, 
+          "profile_path": "/bnzdKYFges5RCGDDAQqNftyAiku.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009052", 
+          "id": 2059, 
+          "name": "Adam Baldwin", 
+          "order": 2, 
+          "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573851760ee3668d009232", 
+          "id": 31714, 
+          "name": "Stacey Travis", 
+          "order": 4, 
+          "profile_path": "/9a9RvQ8311piSh5sUVaypN9TNDT.jpg"
+        }
+      ], 
+      "id": 183012, 
+      "name": "Not Fade Away", 
+      "overview": "Angel and his friend's prepare for their \"suicide\" attack on the circle of the Black Thorn.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/zrMeWGz0oaG3Zu5fZS4SxE0fVek.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }
+  ], 
+  "id": 7626, 
+  "name": "Season 5", 
+  "overview": "The fifth and final season of the television series Angel, the spin-off of Buffy the Vampire Slayer, premiered on October 1, 2003 on The WB and concluded its 22-episode season and its television run on May 19, 2004. The season aired on Wednesdays at 9:00 pm ET. This was the first and only season of Angel to air following the finale of Buffy the Vampire Slayer.", 
+  "poster_path": "/gXE6DgsZ73ho0XkJDJCxSgf46wR.jpg", 
+  "season_number": 5
+}

@@ -1,0 +1,88 @@
+{
+  "air_date": "2001-01-23", 
+  "crew": [
+    {
+      "credit_id": "52599e4419c295731c08efd8", 
+      "department": "Directing", 
+      "id": 1214210, 
+      "job": "Director", 
+      "name": "Nick Marck", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4719c295731c08f656", 
+      "id": 149670, 
+      "name": "Kevin Weisman", 
+      "order": 0, 
+      "profile_path": "/dISGU7Xf0O25wbRn2tGtg7XoJyp.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d2d6", 
+      "id": 1166, 
+      "name": "Harris Yulin", 
+      "order": 2, 
+      "profile_path": "/MCW4IR3mEB6oeRbX9bfeHkZ3qm.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949502, 
+  "name": "Checkpoint", 
+  "overview": "A team from the Watchers Council show up in Sunnydale with some info on who or what Glory is. Before they allow Buffy the details however, they want her to pass a series of psychological and physical tests. They even interview her very nervous gang of friends.   Glory shows up at Buffy's house and has a chat with her about the Key and Buffy freaks and takes Dawn and Joyce to Spike so that he can protect them. After being attacked by a group of human Knights who claim they will send an army to defeat her if she continues to protect the Key, Buffy decides she's had enough and the Watchers will have to play her way.   Buffy lays down the law and the Watchers agree and reveal to her what Glory is. Not a demon but a god.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/ex2QBnTXs1NdMdJ2wPpn3Pu9lPg.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

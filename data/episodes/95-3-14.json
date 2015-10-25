@@ -1,0 +1,88 @@
+{
+  "air_date": "1999-02-09", 
+  "crew": [
+    {
+      "credit_id": "52599e2b19c295731c08bc78", 
+      "department": "Directing", 
+      "id": 1213371, 
+      "job": "Director", 
+      "name": "Michael Lange", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 14, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d45c", 
+      "id": 94149, 
+      "name": "Ron Rogg\u00e9", 
+      "order": 0, 
+      "profile_path": "/2QtQvpwYKpQIaepbgtdwCUPNePg.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce23", 
+      "id": 35518, 
+      "name": "Harry Groener", 
+      "order": 1, 
+      "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4ac", 
+      "id": 41517, 
+      "name": "Christian Clemenson", 
+      "order": 3, 
+      "profile_path": "/kOBGt4dTtOSHoR2QzRTIOlGpO0V.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4d6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 4, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d54e", 
+      "id": 29795, 
+      "name": "Jack Plotnick", 
+      "order": 6, 
+      "profile_path": "/oFGLmsfLkVwMtCocgKbnCPj0gYq.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949460, 
+  "name": "Bad Girls", 
+  "overview": "While on a mission to retrieve an amulet before a powerful demon can restore his strength with it, Faith introduces Buffy to her reckless method of slaying which leaves Buffy wanting more of the wild life; while Giles is trying to keep his cool in front of the stuffy new watcher, Wesley Wyndam-Pryce.   When Faith accidentally kills the deputy mayor Allan Finch, she tries to clean up the crime but when Buffy confronts her about her actions, she simply replies \"I don't care.\"", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/ngqbIe5X7xrSXTinWV5XsEQvAxc.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

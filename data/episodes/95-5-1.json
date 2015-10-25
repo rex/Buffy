@@ -1,0 +1,40 @@
+{
+  "air_date": "2000-09-26", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 1, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4419c295731c08f0bd", 
+      "id": 25848, 
+      "name": "Rudolf Martin", 
+      "order": 3, 
+      "profile_path": "/4dnohkcSh06YhtvUf3NT4DBtgs9.jpg"
+    }
+  ], 
+  "id": 949491, 
+  "name": "Buffy vs. Dracula", 
+  "overview": "Giles tells Willow that he's planning to move back to England since he's feeling less then vital to the work in Sunnydale. Meanwhile on patrol, Buffy runs into a vampire who claims to be Dracula. Dracula turns out to have powers above and beyond the vampire norm such as the ability to turn into a mist and then re-appear, and the ability to turn into a bat.   The gang sets about researching Dracula. Dracula visits Buffy during the night and drinks some of her blood but leaves her alive and under his seductive spell. Xander runs into Dracula and also falls under his power and brings Buffy to him. Dracula claims Buffy's power derives from evil and invites her to feed on him. She does but overcomes his mind control. She is able to slay him as he re-appears from a mist but he keeps re-appearing and Buffy keeps slaying. Eventually he gives up.   Buffy tells Giles of Dracula's comments about her power deriving from evil and her own feelings of hunting vampires rather than slaying as a duty. G", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/ypCxjsrGxcAZwyOXM5iAJuM4rDb.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

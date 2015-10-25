@@ -1,0 +1,48 @@
+{
+  "air_date": "2000-01-18", 
+  "crew": [
+    {
+      "credit_id": "5257383f760ee3668d00809a", 
+      "department": "Directing", 
+      "id": 1214043, 
+      "job": "Director", 
+      "name": "Winrich Kolbe", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 11, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d00806e", 
+      "id": 17604, 
+      "name": "Jeremy Renner", 
+      "order": 1, 
+      "profile_path": "/g8gheNEdPSXWH5SnjfjTYWj5ziU.jpg"
+    }
+  ], 
+  "id": 182968, 
+  "name": "Somnambulist", 
+  "overview": "When a killer stalks the L.A. streets using a mark that Angelus once used, Angel must face the possibility that he is committing the murders in his sleep.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/qQm9Jy9WViGZa1tprRRvm1pTv4t.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,48 @@
+{
+  "air_date": "2002-02-12", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c126", 
+      "department": "Directing", 
+      "id": 1231299, 
+      "job": "Director", 
+      "name": "Michael Gershman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387419c2957940053ff7", 
+      "department": "Writing", 
+      "id": 1213073, 
+      "job": "Writer", 
+      "name": "Drew Greenberg", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 14, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5319c295731c090cbd", 
+      "id": 149665, 
+      "name": "Kali Rocha", 
+      "order": 1, 
+      "profile_path": "/uhigi00Mz43MpzXFYk06N5vApqj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }
+  ], 
+  "id": 949527, 
+  "name": "Older and Far Away", 
+  "overview": "Old and new friends gather at the Summers home for Buffy's 21st birthday party and it goes off without a hitch - mostly.   Feeling neglected by Buffy and the Scoobys, Dawn's wish to keep people from leaving her is answered by Anya's demon friend Halfrek, who binds the attendees of the party to the house. When Tara tries a spell to free them, she only makes the situation worse by accidentally releasing a demon trapped inside a sword.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/kCy2mXwYWhTFZnIFIXHkhPPRK6I.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

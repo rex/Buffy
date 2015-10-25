@@ -1,0 +1,64 @@
+{
+  "air_date": "1999-01-19", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d264", 
+      "id": 23790, 
+      "name": "Dominic Keating", 
+      "order": 0, 
+      "profile_path": "/20lcxmytSdnm0skx63oYKdW3bFN.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d2d6", 
+      "id": 1166, 
+      "name": "Harris Yulin", 
+      "order": 2, 
+      "profile_path": "/MCW4IR3mEB6oeRbX9bfeHkZ3qm.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d31c", 
+      "id": 54865, 
+      "name": "Jeff Kober", 
+      "order": 3, 
+      "profile_path": "/eMp9ZsC77yddwW4SMiuZ7xOd0GS.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949458, 
+  "name": "Helpless", 
+  "overview": "For her upcoming 18th birthday, Buffy declines the scooby gang's offer of a big party, hoping to celebrate with quiet reflection and a traditional trip to the ice show with her father. But unbeknownst to Buffy, preparations are being made for a life-threatening rite of passage that drains the slayer of her powers and then entraps her with a powerful vampire foe that she must defeat in a defenseless state in order to pass the test.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/3kAeZWjdmSJktza2AMqRutTdQmk.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

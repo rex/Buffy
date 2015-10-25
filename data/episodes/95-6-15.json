@@ -1,0 +1,48 @@
+{
+  "air_date": "2002-02-26", 
+  "crew": [
+    {
+      "credit_id": "52599e4e19c295731c09043e", 
+      "department": "Directing", 
+      "id": 1213071, 
+      "job": "Director", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 15, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5419c295731c090e96", 
+      "id": 29930, 
+      "name": "Ivana Mili\u010devi\u0107", 
+      "order": 1, 
+      "profile_path": "/uWQTBSaZEo5iVIlATgEynocQQsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053ee5", 
+      "id": 46772, 
+      "name": "Marc Blucas", 
+      "order": 11, 
+      "profile_path": "/5OdBu0DFKca1mxjeqNruz00DSRF.jpg"
+    }
+  ], 
+  "id": 949530, 
+  "name": "As You Were", 
+  "overview": "Riley pursues a demon to Sunnydale and seeks Buffy's help in killing it. He also comes with a surprise... he is married. His wife, fellow demon hunter Sam, befriends the entire Scooby Gang and gets along quite well with all of them, but Buffy's own \"relationship\" with Spike comes into question when her ex's perfect romance shows her just what she doesn't have.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/A731txaQtHEv5QQhMNy6yb8fXcX.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

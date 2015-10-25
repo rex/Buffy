@@ -1,0 +1,40 @@
+{
+  "air_date": "2002-10-08", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "52599e2d19c295731c08c098", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 3, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c0916d9", 
+      "id": 1222962, 
+      "name": "Camden Toy", 
+      "order": 0, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949537, 
+  "name": "Same Time, Same Place", 
+  "overview": "Buffy, Xander and Dawn are unable to find Willow who, shortly after returning to Sunnydale, is captured by a demon who enjoys eating the skin of his victims. Meanwhile, Anya pays the price for undoing the curse on Ronnie (the giant worm demon) and is restricted to only being able to teleport for vengeance jobs.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/wACFlhHX8Ig28jyddpKXR4XjHm7.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

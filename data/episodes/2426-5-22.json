@@ -1,0 +1,96 @@
+{
+  "air_date": "2004-05-19", 
+  "crew": [
+    {
+      "credit_id": "5257384a760ee3668d0088b1", 
+      "department": "Directing", 
+      "id": 1236075, 
+      "job": "Director", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }, 
+    {
+      "credit_id": "52573833760ee3668d0071c1", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }
+  ], 
+  "episode_number": 22, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d00900e", 
+      "id": 27770, 
+      "name": "Dennis Christopher", 
+      "order": 0, 
+      "profile_path": "/sNFwlPHBAVn2fQIMVBTXMfx5E69.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009030", 
+      "id": 52646, 
+      "name": "Vincent Kartheiser", 
+      "order": 1, 
+      "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573835760ee3668d007274", 
+      "id": 1231372, 
+      "name": "Julia Lee", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573847760ee3668d0086f1", 
+      "id": 43427, 
+      "name": "Sarah Thompson", 
+      "order": 2, 
+      "profile_path": "/bnzdKYFges5RCGDDAQqNftyAiku.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009052", 
+      "id": 2059, 
+      "name": "Adam Baldwin", 
+      "order": 2, 
+      "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573851760ee3668d009232", 
+      "id": 31714, 
+      "name": "Stacey Travis", 
+      "order": 4, 
+      "profile_path": "/9a9RvQ8311piSh5sUVaypN9TNDT.jpg"
+    }
+  ], 
+  "id": 183012, 
+  "name": "Not Fade Away", 
+  "overview": "Angel and his friend's prepare for their \"suicide\" attack on the circle of the Black Thorn.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/zrMeWGz0oaG3Zu5fZS4SxE0fVek.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,80 @@
+{
+  "air_date": "2001-10-29", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008a83", 
+      "department": "Directing", 
+      "id": 1215026, 
+      "job": "Director", 
+      "name": "Marita Grabiak", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384a760ee3668d00888d", 
+      "department": "Writing", 
+      "id": 1236075, 
+      "job": "Writer", 
+      "name": "Jeffrey Bell", 
+      "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+    }, 
+    {
+      "credit_id": "52573837760ee3668d007566", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "Dylan", 
+      "credit_id": "52573857760ee3668d009ecf", 
+      "id": 159386, 
+      "name": "Kristoffer Polaha", 
+      "order": 2, 
+      "profile_path": "/nueTVEveCbD3JiAv2HM2MXx5mPp.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006cb6", 
+      "id": 18307, 
+      "name": "Daniel Dae Kim", 
+      "order": 3, 
+      "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573857760ee3668d009e7b", 
+      "id": 17417, 
+      "name": "Justin Shilton", 
+      "order": 6, 
+      "profile_path": "/c4xVKtbbkgsFSTsaVROoOHwnhlL.jpg"
+    }
+  ], 
+  "id": 183045, 
+  "name": "Billy", 
+  "overview": "Angel's friends are affected by a man with the power to make other men brutalise women.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/8NPd1BIE6MJ4AyH9zT1XszZ2IeD.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

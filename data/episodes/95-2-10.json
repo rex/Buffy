@@ -1,0 +1,80 @@
+{
+  "air_date": "1997-11-24", 
+  "crew": [
+    {
+      "credit_id": "52599e2219c295731c08a798", 
+      "department": "Directing", 
+      "id": 17272, 
+      "job": "Director", 
+      "name": "David Semel", 
+      "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b6c2", 
+      "id": 36068, 
+      "name": "Bianca Lawson", 
+      "order": 0, 
+      "profile_path": "/wc8Oezs3BRgQeUIDFlRrHA84lVL.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2a19c295731c08b8e1", 
+      "id": 77740, 
+      "name": "Spice Williams-Crosby", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b7d0", 
+      "id": 56691, 
+      "name": "Saverio Guerra", 
+      "order": 5, 
+      "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }
+  ], 
+  "id": 949434, 
+  "name": "What's My Line, Part Two", 
+  "overview": "After getting in a fight with the mysterious woman, Kendra, Buffy learns that her temporary death in the hands of the Master had activated the choice for the next Slayer, and she is fighting her. After calling a truce and convinced by Giles to work together, Buffy and Kendra team up to save Angel from Spike and Drusilla. Meanwhile, trapped in Buffy's basement, Xander and Cordelia start their relationship and Willow and her computer-mate, Oz start an intiguing friendship, until Oz is shot by another assassin who targets Buffy.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/Aar8V93HnIpIAnMIr9grXjqG35a.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

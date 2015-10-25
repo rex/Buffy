@@ -1,0 +1,72 @@
+{
+  "air_date": "2000-11-21", 
+  "crew": [
+    {
+      "credit_id": "52599e4719c295731c08f6ea", 
+      "department": "Directing", 
+      "id": 1223735, 
+      "job": "Director", 
+      "name": "Daniel Attias", 
+      "profile_path": "/nfJz25IjcMZ971lsBDZb17la4Qc.jpg"
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4719c295731c08f656", 
+      "id": 149670, 
+      "name": "Kevin Weisman", 
+      "order": 0, 
+      "profile_path": "/dISGU7Xf0O25wbRn2tGtg7XoJyp.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949498, 
+  "name": "Shadow", 
+  "overview": "Riley is looking for Buffy at her house, but all he finds is Spike in her room smelling her sweater. Spike informs Riley of Buffy's mom's illness and rubs it in his face that Buffy told the vampire about it before her own boyfriend. Riley goes to the hospital, and Buffy gives him plenty to do, like taking care of Dawn and patrolling, but what Riley really wants is to take care of Buffy. He ends up taking Dawn to an amusement park where they talk about a few things. Despite her good intentions, Dawn makes Riley feel like he's not good enough for Buffy and that he can't compare to Angel. Later on in the episode he feels even further away from being close to Buffy, and he goes and gets himself bitten by a vamp whore.    Meanwhile, at the magic shop Giles accidentally sells two very bad, powerful ingredients for a spell to a \"young woman,\" who turns out to be the all powerful lady who creamed Buffy the last time they fought. Buffy tries to stop her again, but she's no match for the lady in", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/3kWSjMb86SNqztlIs82d5jbWVpj.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

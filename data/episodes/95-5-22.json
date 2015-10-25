@@ -1,0 +1,64 @@
+{
+  "air_date": "2001-05-22", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 22, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4b19c295731c08fdb2", 
+      "id": 6748, 
+      "name": "Joel Grey", 
+      "order": 0, 
+      "profile_path": "/yCLwC64GVp96bNi7eTPT0VPmjON.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949512, 
+  "name": "The Gift", 
+  "overview": "Another imminent apocalypse is at hand in Sunnydale. Buffy must square off against a true God when Glory prepares to use Dawn to break down the walls between the dimensions and unleash all Hell on Earth but she needs Dawn's blood before her home dimension portal can be opened. Buffy, Xander, Willow, Giles, Anya, Tara and Spike go to battle with the knowledge that they may not all survive.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/4Jv7TVuk2ftFjyoCwMgkaJwQryA.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

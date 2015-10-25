@@ -1,0 +1,72 @@
+{
+  "air_date": "1997-05-19", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2419c295731c08aca5", 
+      "department": "Directing", 
+      "id": 79317, 
+      "job": "Director", 
+      "name": "Reza Badiyi", 
+      "profile_path": "/1GNPaOZNtst6rm9tTwK07EpN4ta.jpg"
+    }, 
+    {
+      "credit_id": "5253387819c295794005403b", 
+      "department": "Writing", 
+      "id": 1213077, 
+      "job": "Writer", 
+      "name": "Ashley Gable", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387c19c295794005405f", 
+      "department": "Writing", 
+      "id": 1213080, 
+      "job": "Writer", 
+      "name": "Thomas A. Swyden", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 11, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2419c295731c08ac03", 
+      "id": 20387, 
+      "name": "Clea DuVall", 
+      "order": 1, 
+      "profile_path": "/hfdAP90y3oqLVp4r8wTEHLAW6Y5.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949422, 
+  "name": "Out of Mind, Out of Sight", 
+  "overview": "When a seemingly evil invisible force centers around Cordelia, Buffy investigates and discovers that a student who was ignored by all her classmates, including Willow and Xander; became invisible by their perception of her and she plans revenge on Cordelia because of her popularity.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/wKz6JohBStSMv2PJtRQHS8fpbFb.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

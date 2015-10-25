@@ -1,0 +1,96 @@
+{
+  "air_date": "1998-01-20", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 14, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2c19c295731c08bcce", 
+      "id": 77993, 
+      "name": "Parry Shen", 
+      "order": 0, 
+      "profile_path": "/eFuN9NvWDCXAbsjx9eTiAqN5DP1.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a918", 
+      "id": 149448, 
+      "name": "Robia LaMorte", 
+      "order": 1, 
+      "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1e19c295731c08a0b6", 
+      "id": 2719, 
+      "name": "Brian Thompson", 
+      "order": 6, 
+      "profile_path": "/bjBHdq7uPEzrjDk96nNlbDBNKo6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2c19c295731c08bdf6", 
+      "id": 1226119, 
+      "name": "Ryan Francis", 
+      "order": 7, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }
+  ], 
+  "id": 949438, 
+  "name": "Innocence", 
+  "overview": "Angel is still in the street in pain but suddenly the pain stops and his first act is to kill a human. Angelus has returned as a result of he and Buffy making love.   Meanwhile The Judge is returning to full power and Spike is impatient to get on with the killing when Angelus walks in and declares that he is back. The three reunited once again prepare to unleash The Judge on Sunnydale and Angelus persuades them to let him kill Buffy before they begin.   Willow discovers Xander and Cordelia kissing and runs from the library only to be met by Angelus. Buffy comes in and fights him off and they ponder what could have happened to turn him evil. Buffy realises that she was the cause and runs off. Angel appears to her in a dream to warn her about Ms Calendar and Buffy confronts Jenny demanding answers. She reveals her heritage and says that the curse can only be lifted if Angel experienced a moment of true human happiness and he is no longer plagued by guilt and remorse.   Distraught, Buffy", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/p0rCJVJ77q6PbQDFc0A81EU6JJM.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

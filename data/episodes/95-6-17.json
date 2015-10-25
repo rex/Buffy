@@ -1,0 +1,96 @@
+{
+  "air_date": "2002-03-12", 
+  "crew": [
+    {
+      "credit_id": "52599e5619c295731c091221", 
+      "department": "Writing", 
+      "id": 1215764, 
+      "job": "Writer", 
+      "name": "Diego Gutierrez", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e5619c295731c09126b", 
+      "department": "Directing", 
+      "id": 33341, 
+      "job": "Director", 
+      "name": "Rick Rosenthal", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 17, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5419c295731c090dd1", 
+      "id": 1219500, 
+      "name": "Kirsten Nelson", 
+      "order": 1, 
+      "profile_path": "/xygcmhw8nTpz68C8cuha5f6ivas.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08aeee", 
+      "id": 149463, 
+      "name": "Dean Butler", 
+      "order": 3, 
+      "profile_path": "/iOdPV4ksc2hO3HmWx854Uq5gUVB.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5619c295731c0911e5", 
+      "id": 1212812, 
+      "name": "Michael Warren", 
+      "order": 6, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949533, 
+  "name": "Normal Again", 
+  "overview": "After being poisoned by a demon, Buffy comes to believe that she is confined to a mental hospital, her mother is alive and her parents are still together and that her life as a Slayer was all an hallucination for the past six years.   Deciding that she prefers this 'normal' life with her parents a whole lot more, Buffy attempts to kill the things that tether her to the 'fantasy' life of the Slayer: the Scoobies.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/fRgVR3kBdXn9sPTbUdXi7zdzeR4.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

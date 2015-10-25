@@ -1,0 +1,48 @@
+{
+  "air_date": "2002-10-01", 
+  "crew": [
+    {
+      "credit_id": "52599e4419c295731c08efd8", 
+      "department": "Directing", 
+      "id": 1214210, 
+      "job": "Director", 
+      "name": "Nick Marck", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 2, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }
+  ], 
+  "id": 949536, 
+  "name": "Beneath You", 
+  "overview": "Soon after Buffy's first day as Sunnydale High Guidance Counselor, the gang meets a young woman, Nancy, who's dog was eaten by a large creature living in the sewer. Spike offers his assistance in tracking down the monster, but the gang and Buffy are still a little uneasy with him being around.   The gang soon discover the cause behind the monster is an old, estranged friend; who is relishing in her return to form.   Meanwhile, Willow has mixed emotions as she prepares to leave England and return to Sunnydale.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/8CRrlZlxnlcvX50Eq7Bpb1CTvXH.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

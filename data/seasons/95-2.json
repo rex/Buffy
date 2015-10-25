@@ -1,0 +1,1754 @@
+{
+  "air_date": "1997-09-15", 
+  "episodes": [
+    {
+      "air_date": "1997-09-15", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 1, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08aeee", 
+          "id": 149463, 
+          "name": "Dean Butler", 
+          "order": 3, 
+          "profile_path": "/iOdPV4ksc2hO3HmWx854Uq5gUVB.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2419c295731c08ab1f", 
+          "id": 1228811, 
+          "name": "Andrew J. Ferchland", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949425, 
+      "name": "When She Was Bad", 
+      "overview": "Buffy returns from her summer vacation after defeating the Master and is not the same fun-loving slayer she used to be. Her cold, distant behaviour escalates when she discovers that the remaining vampire population are planning to resurrect The Master.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/5mIxbqmnquudYQ4XA6XBc9ysQgm.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-09-22", 
+      "crew": [
+        {
+          "credit_id": "52599e2119c295731c08a6b9", 
+          "department": "Directing", 
+          "id": 1214718, 
+          "job": "Director", 
+          "name": "Bruce Seth Green", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387719c295794005402f", 
+          "department": "Writing", 
+          "id": 1213076, 
+          "job": "Writer", 
+          "name": "David Tyron King", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 2, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 1222896, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": null
+        }
+      ], 
+      "id": 949426, 
+      "name": "Some Assembly Required", 
+      "overview": "When the bodies of several teenage girls are dug out of their graves and some of their parts are found soon afterwards, the gang discover that two students are trying to create the perfect woman; with the final touch being Cordelia's head.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/7FTMd5upbk1h0iothB4DpiFsFy9.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-09-29", 
+      "crew": [
+        {
+          "credit_id": "5253387219c2957940053fdf", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a4b1", 
+          "department": "Directing", 
+          "id": 1214626, 
+          "job": "Director", 
+          "name": "John T. Kretchmer", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 3, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2419c295731c08ab1f", 
+          "id": 1228811, 
+          "name": "Andrew J. Ferchland", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b0b4", 
+          "id": 1469, 
+          "name": "Brian Reddy", 
+          "order": 6, 
+          "profile_path": "/6AOxOUfyU3iDQabWL6EipPZ5DAM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b0f6", 
+          "id": 44178, 
+          "name": "Gregory Scott Cummins", 
+          "order": 7, 
+          "profile_path": "/jXJlgaYDCPK8lEyA1mC8mD2hjpG.jpg"
+        }
+      ], 
+      "id": 949427, 
+      "name": "School Hard", 
+      "overview": "When a cool, badass vampire named Spike comes to Sunnydale intent to use the Hellmouth's power to save his lover, Drusilla, he attacks Sunnydale High on Parent-Teacher Night to destroy the Slayer to prove his worth to the Anointed One. With all her friends' and families' lives at stake, Buffy needs to find a way to stop Spike and his vampire gang, while also having to lead her friends and her mom to the path of survival.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/mhj7a7hncDlfSNou4G2RLtfO3B5.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-10-06", 
+      "crew": [
+        {
+          "credit_id": "5253387919c2957940054047", 
+          "department": "Writing", 
+          "id": 1213078, 
+          "job": "Writer", 
+          "name": "Matt Kiene", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387a19c2957940054053", 
+          "department": "Writing", 
+          "id": 1213079, 
+          "job": "Writer", 
+          "name": "Joe Reinkemeyer", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2319c295731c08aa7c", 
+          "department": "Directing", 
+          "id": 1213615, 
+          "job": "Director", 
+          "name": "Ellen S. Pressman", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 4, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2719c295731c08b19b", 
+          "id": 59671, 
+          "name": "Clayne Crawford", 
+          "order": 0, 
+          "profile_path": "/6JCfyUTPMxwcfZMauVRHBCu0EWh.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2719c295731c08b1c5", 
+          "id": 156739, 
+          "name": "Bernard White", 
+          "order": 1, 
+          "profile_path": "/1DEmHQyjfMLQssEE8PeFOtTYGn3.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2719c295731c08b275", 
+          "id": 64189, 
+          "name": "Ara Celi", 
+          "order": 4, 
+          "profile_path": "/v5ejFjsfIX4gBeBzoEo5LCejCgq.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }
+      ], 
+      "id": 949428, 
+      "name": "Inca Mummy Girl", 
+      "overview": "While on a visit to the local museum one of the students accidentally breaks an ancient seal buried with an Inca Mummy. Without the seal to hold her, the mummy rises and must consume the life force of the living in order to stay alive. When she consumes the identity of Ampada, an exchange student, Buffy have to stop her from seducing Xander into her death list.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/4pIQKVqbNXnt80ZnYaQqevE6S0U.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-10-13", 
+      "crew": [
+        {
+          "credit_id": "5253387219c2957940053fdf", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2819c295731c08b39a", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 5, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2719c295731c08b2c6", 
+          "id": 102775, 
+          "name": "Coby Bell", 
+          "order": 0, 
+          "profile_path": "/pdXnmZkrLiHVybdEpwKiCNrGMo8.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2719c295731c08b2fc", 
+          "id": 39481, 
+          "name": "Jordana Spiro", 
+          "order": 1, 
+          "profile_path": "/5gpdURb63EivWf2alZawyd9PfNo.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2719c295731c08b32c", 
+          "id": 102729, 
+          "name": "Greg Vaughan", 
+          "order": 2, 
+          "profile_path": "/obClcoGaAsIjQscrNTHdKOUnGjn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2819c295731c08b356", 
+          "id": 1224067, 
+          "name": "Todd Babcock", 
+          "order": 3, 
+          "profile_path": null
+        }
+      ], 
+      "id": 949429, 
+      "name": "Reptile Boy", 
+      "overview": "Becoming fed up with Giles' rules and guidelines, Buffy makes an unusual friendship with Cordelia when she accompanies her to a fraternity party where they are both drugged and used in the ritual feeding of a demon.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/3cc7XAh3LCcb4V5IpxuLwvccOih.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-10-27", 
+      "crew": [
+        {
+          "credit_id": "52599e2819c295731c08b4e5", 
+          "department": "Writing", 
+          "id": 20977, 
+          "job": "Writer", 
+          "name": "Carl Ellsworth", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2119c295731c08a6b9", 
+          "department": "Directing", 
+          "id": 1214718, 
+          "job": "Director", 
+          "name": "Bruce Seth Green", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 6, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2819c295731c08b3f7", 
+          "id": 15030, 
+          "name": "Robin Sachs", 
+          "order": 1, 
+          "profile_path": "/rSMeopDC1loyjUVhxK0XjFfSlAC.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }
+      ], 
+      "id": 949430, 
+      "name": "Halloween", 
+      "overview": "On Halloween, Buffy, Willow and Xander are 'volunteered' by Principal Snyder to take groups of kids trick-or-treating. They get their costumes from a new store run by an Englishman, Ethan Rayne. Xander chooses a soldier outfit, Buffy buys an 18th century noblewomans dress to impress Angel; and Willow, despite Buffy's attempts to get her to dress in a sexy skirt and halter, dresses as a ghost. Unfortunately Ethan turns out to be a bad guy and casts a spell to transform everyone into their costumes, and causing Buffy and Xander to have amnesia. When Spike and his vampire gang attacks them, Willow, Giles, Angel and Cordelia team up to save Buffy and the rest from being dinner, while they also need to put a stop on Ethan's curse spell.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/cubRjpgyNzFAiGf6CIhNzr5XLcm.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-11-03", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 7, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2819c295731c08b550", 
+          "id": 149484, 
+          "name": "Will Rothhaar", 
+          "order": 1, 
+          "profile_path": "/oigxlX2GoRu50q0u6CNwNhfjvyB.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2819c295731c08b586", 
+          "id": 62763, 
+          "name": "Jarrad Paul", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "Billy 'Ford' Fordham", 
+          "credit_id": "52599e2919c295731c08b5d8", 
+          "id": 20386, 
+          "name": "Jason Behr", 
+          "order": 5, 
+          "profile_path": "/ctlMa2J04dLLkicqJqm9LCywSXB.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }
+      ], 
+      "id": 949431, 
+      "name": "Lie to Me", 
+      "overview": "Ford, an old boyfriend of Buffy's comes to Sunnydale and, unknown to her, is part of a secret sect which worships vampires. While the others in the sect are misguided teens who believe that vampires are a higher order of life, Ford has a more sinister reason for his deciet. Because he is going to die soon of cancer, he makes a deal with Spike to hand over Buffy in return for eternal life.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/gnhLYcF6goSfOqHQSatdCDWmO5N.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-11-10", 
+      "crew": [
+        {
+          "credit_id": "5253387419c2957940054001", 
+          "department": "Writing", 
+          "id": 1212428, 
+          "job": "Writer", 
+          "name": "Dean Batali", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2119c295731c08a6b9", 
+          "department": "Directing", 
+          "id": 1214718, 
+          "job": "Director", 
+          "name": "Bruce Seth Green", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387419c295794005400b", 
+          "department": "Writing", 
+          "id": 1212432, 
+          "job": "Writer", 
+          "name": "Rob Des Hotel", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 8, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 1222896, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2819c295731c08b3f7", 
+          "id": 15030, 
+          "name": "Robin Sachs", 
+          "order": 1, 
+          "profile_path": "/rSMeopDC1loyjUVhxK0XjFfSlAC.jpg"
+        }
+      ], 
+      "id": 949432, 
+      "name": "The Dark Age", 
+      "overview": "The secrets of Giles' unnatural past as a wild teenager are revealed when an old friend of his comes to warn him that a demon that they both summoned has returned.    As a young man, Giles turned in his Watcher studies in favour of dabbling in witchcraft and the occult with his old buddy Ethan Rayne and several others. They discovered Eyghon The Sleepwalker and summoned him while one went into a deep sleep. Unfortunately, Eyghon gained power by this and killed them all one by one over the years by possessing a dead or unconscious person and is now after the last two members, Giles and Ethan.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/3zOtwKUee1iFKoPvwqMOvohZb0j.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-11-17", 
+      "crew": [
+        {
+          "credit_id": "52599e2a19c295731c08b856", 
+          "department": "Writing", 
+          "id": 1221664, 
+          "job": "Writer", 
+          "name": "Howard Gordon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2219c295731c08a798", 
+          "department": "Directing", 
+          "id": 17272, 
+          "job": "Director", 
+          "name": "David Semel", 
+          "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 9, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b6c2", 
+          "id": 36068, 
+          "name": "Bianca Lawson", 
+          "order": 0, 
+          "profile_path": "/wc8Oezs3BRgQeUIDFlRrHA84lVL.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b7d0", 
+          "id": 56691, 
+          "name": "Saverio Guerra", 
+          "order": 5, 
+          "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b7fa", 
+          "id": 1228791, 
+          "name": "Eric Saiet", 
+          "order": 6, 
+          "profile_path": "/b3abFUbsJwmAduTRPPfEN5GALVy.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b824", 
+          "id": 1214542, 
+          "name": "Kelly Connell", 
+          "order": 7, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }
+      ], 
+      "id": 949433, 
+      "name": "What's My Line, Part One", 
+      "overview": "Its Career Week at Sunnydale High and Buffy is faced with the reality that she has no future apart from that of a Slayer. Meanwhile, in order to stop the Slayer from ending his plan to restore Drusilla's strength, Spike sends four deadly assassins to ensure the Slayer has no future. Also, a mysterious girl is following Buffy and Angel around and Xander and Cordelia are trapped in Buffy's house after being attacked by one of the assassins.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/9gFCbB7H1PvbKCQV1M8ueaIVWLq.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-11-24", 
+      "crew": [
+        {
+          "credit_id": "52599e2219c295731c08a798", 
+          "department": "Directing", 
+          "id": 17272, 
+          "job": "Director", 
+          "name": "David Semel", 
+          "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 10, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b6c2", 
+          "id": 36068, 
+          "name": "Bianca Lawson", 
+          "order": 0, 
+          "profile_path": "/wc8Oezs3BRgQeUIDFlRrHA84lVL.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2a19c295731c08b8e1", 
+          "id": 77740, 
+          "name": "Spice Williams-Crosby", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b7d0", 
+          "id": 56691, 
+          "name": "Saverio Guerra", 
+          "order": 5, 
+          "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }
+      ], 
+      "id": 949434, 
+      "name": "What's My Line, Part Two", 
+      "overview": "After getting in a fight with the mysterious woman, Kendra, Buffy learns that her temporary death in the hands of the Master had activated the choice for the next Slayer, and she is fighting her. After calling a truce and convinced by Giles to work together, Buffy and Kendra team up to save Angel from Spike and Drusilla. Meanwhile, trapped in Buffy's basement, Xander and Cordelia start their relationship and Willow and her computer-mate, Oz start an intiguing friendship, until Oz is shot by another assassin who targets Buffy.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/Aar8V93HnIpIAnMIr9grXjqG35a.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1997-12-08", 
+      "crew": [
+        {
+          "credit_id": "52599e2119c295731c08a6b9", 
+          "department": "Directing", 
+          "id": 1214718, 
+          "job": "Director", 
+          "name": "Bruce Seth Green", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387219c2957940053fdf", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 11, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2a19c295731c08ba00", 
+          "id": 84626, 
+          "name": "Ken Thorley", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949435, 
+      "name": "Ted", 
+      "overview": "Buffy has parental issues when Joyce comes home with a boyfriend, the computer expert and master chef Ted; whose charming personality impresses everyone. Everyone except Buffy that is, who is not at all willing to give her mother up to someone else.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/8U2fCkhWd74kCsd4VCruxHj5S7t.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-01-12", 
+      "crew": [
+        {
+          "credit_id": "52599e2819c295731c08b39a", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 12, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2b19c295731c08ba93", 
+          "id": 44205, 
+          "name": "Jeremy Ratchford", 
+          "order": 0, 
+          "profile_path": "/xaRo0XqN8oTlQFufgvPJRWWTj3x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2b19c295731c08bac5", 
+          "id": 1213542, 
+          "name": "Rick Zieff", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949436, 
+      "name": "Bad Eggs", 
+      "overview": "The students are given eggs to look after to teach them about parenthood but they aren't what they seem. Soon the eggs hatch and the creatures inside take over their owners and lead them to the school basement to dig up the mother creature.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/3fQvV7AgGPTNpOVulk1BEKahNSU.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-01-19", 
+      "crew": [
+        {
+          "credit_id": "52599e2b19c295731c08bc78", 
+          "department": "Directing", 
+          "id": 1213371, 
+          "job": "Director", 
+          "name": "Michael Lange", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 13, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2b19c295731c08bb46", 
+          "id": 3418, 
+          "name": "Vincent Schiavelli", 
+          "order": 0, 
+          "profile_path": "/9VAmZfthJ8pbDsJE8cJxIpnFcQy.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1e19c295731c08a0b6", 
+          "id": 2719, 
+          "name": "Brian Thompson", 
+          "order": 6, 
+          "profile_path": "/bjBHdq7uPEzrjDk96nNlbDBNKo6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }
+      ], 
+      "id": 949437, 
+      "name": "Surprise", 
+      "overview": "On Buffy's 17th birthday, Drusilla prepares to awaken a powerful demon named The Judge who was brought forth a thousand years ago to rid the Earth of the plague of humanity. His body was dismembered by an army and the parts were buried in every corner of the Earth but somehow all the parts have made their way to Sunnydale. Buffy intercepts one of his arms and Ms Calendar convinces Angel to take it to the most remote region possible.   Unknown to everyone else, Jenny Calendar is actually Janna, a descendant of the Romany clan who cursed Angel and has been sent to Sunnydale to ensure that the curse isn't lifted.   Buffy and Angel say their goodbyes at the docks when they are ambushed by Spike's gang who retrieve the arm and Drusilla is able to reassemble the demon. Buffy and Angel just manage to escape from The Judge and while recuperating in Angel's apartment, they consummate their relationship.   Some powerful, dark magic is released by this and Angel runs into the street, screaming Bu", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/jfd6biMdi77glmfVb17M4RrXO8Q.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-01-20", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 14, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2c19c295731c08bcce", 
+          "id": 77993, 
+          "name": "Parry Shen", 
+          "order": 0, 
+          "profile_path": "/eFuN9NvWDCXAbsjx9eTiAqN5DP1.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1e19c295731c08a0b6", 
+          "id": 2719, 
+          "name": "Brian Thompson", 
+          "order": 6, 
+          "profile_path": "/bjBHdq7uPEzrjDk96nNlbDBNKo6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2c19c295731c08bdf6", 
+          "id": 1226119, 
+          "name": "Ryan Francis", 
+          "order": 7, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }
+      ], 
+      "id": 949438, 
+      "name": "Innocence", 
+      "overview": "Angel is still in the street in pain but suddenly the pain stops and his first act is to kill a human. Angelus has returned as a result of he and Buffy making love.   Meanwhile The Judge is returning to full power and Spike is impatient to get on with the killing when Angelus walks in and declares that he is back. The three reunited once again prepare to unleash The Judge on Sunnydale and Angelus persuades them to let him kill Buffy before they begin.   Willow discovers Xander and Cordelia kissing and runs from the library only to be met by Angelus. Buffy comes in and fights him off and they ponder what could have happened to turn him evil. Buffy realises that she was the cause and runs off. Angel appears to her in a dream to warn her about Ms Calendar and Buffy confronts Jenny demanding answers. She reveals her heritage and says that the curse can only be lifted if Angel experienced a moment of true human happiness and he is no longer plagued by guilt and remorse.   Distraught, Buffy", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/p0rCJVJ77q6PbQDFc0A81EU6JJM.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-01-27", 
+      "crew": [
+        {
+          "credit_id": "5253387419c2957940054001", 
+          "department": "Writing", 
+          "id": 1212428, 
+          "job": "Writer", 
+          "name": "Dean Batali", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2119c295731c08a6b9", 
+          "department": "Directing", 
+          "id": 1214718, 
+          "job": "Director", 
+          "name": "Bruce Seth Green", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387419c295794005400b", 
+          "department": "Writing", 
+          "id": 1212432, 
+          "job": "Writer", 
+          "name": "Rob Des Hotel", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 15, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2c19c295731c08bf39", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 1, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }, 
+        {
+          "character": "Werewolf", 
+          "credit_id": "53b9501e0e0a2676cf0098ab", 
+          "id": 15318, 
+          "name": "Keith Campbell", 
+          "order": 225, 
+          "profile_path": "/1PQSshXQ2AgifwYbykqXEyQYmDg.jpg"
+        }
+      ], 
+      "id": 949439, 
+      "name": "Phases", 
+      "overview": "Buffy and the gang track down a suspected werewolf roaming in the woods and also try to stay out of the way of a maniacal werewolf hunter, while Willow tries to get closer to Oz, unknown to her that he is the same killer they are after.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/2xZzAHHvoMqFfAHsii5FAj8mLFq.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-02-10", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 16, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }
+      ], 
+      "id": 949440, 
+      "name": "Bewitched, Bothered and Bewildered", 
+      "overview": "Xander tries to use Valentines Day to further his relationship with Cordelia but she succumbs to peer pressure and breaks up with him. With the help of Amy (who is exploring her mother's witch powers), he puts a love spell on her which goes horribly wrong, turning him into every woman's desire; except Cordelia's.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/yUOicCqVSkeAPG2lWiVu4hM0hyp.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-02-24", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c126", 
+          "department": "Directing", 
+          "id": 1231299, 
+          "job": "Director", 
+          "name": "Michael Gershman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387719c295794005402f", 
+          "department": "Writing", 
+          "id": 1213076, 
+          "job": "Writer", 
+          "name": "David Tyron King", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 17, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949441, 
+      "name": "Passion", 
+      "overview": "Angelus continues his obsessive torment of Buffy by visiting her during the night and leaving presents in her bed. Meanwhile Ms Calendar tries to make amends for her deceit of Buffy and Giles by attempting to translate the Gypsy curse to restore Angel's human soul, with dire consequences.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/89rFyKC2tn90pMiELoKC212vN4F.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-03-03", 
+      "crew": [
+        {
+          "credit_id": "5253387419c2957940054001", 
+          "department": "Writing", 
+          "id": 1212428, 
+          "job": "Writer", 
+          "name": "Dean Batali", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387419c295794005400b", 
+          "department": "Writing", 
+          "id": 1212432, 
+          "job": "Writer", 
+          "name": "Rob Des Hotel", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2e19c295731c08c222", 
+          "department": "Directing", 
+          "id": 1237501, 
+          "job": "Director", 
+          "name": "Deran Serafian", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2e19c295731c08c262", 
+          "department": "Directing", 
+          "id": 45645, 
+          "job": "Director", 
+          "name": "Deran Sarafian", 
+          "profile_path": "/1EQbGieH0GYE3adw9UvwEKw5Ipd.jpg"
+        }
+      ], 
+      "episode_number": 18, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2e19c295731c08c162", 
+          "id": 1219652, 
+          "name": "Mimi Paley", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2e19c295731c08c1ae", 
+          "id": 13732, 
+          "name": "Richard Herd", 
+          "order": 1, 
+          "profile_path": "/1wsn9V7kkrvD2Qr3bD1vSH2OjpK.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2e19c295731c08c1e8", 
+          "id": 80615, 
+          "name": "Juanita Jennings", 
+          "order": 3, 
+          "profile_path": "/epxlAax85oVnIEuDfaGeJYp4SxT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949442, 
+      "name": "Killed by Death", 
+      "overview": "When Buffy is admitted to hospital with a raging fever she meets a young boy, Ryan, who has the same flu virus and claims that the sick children in the hospital are being persecuted by a monster that may be death himself.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/4HonNAqTxjXU4sRd9BDbP0ifFeV.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-04-28", 
+      "crew": [
+        {
+          "credit_id": "52599e2f19c295731c08c4ab", 
+          "department": "Directing", 
+          "id": 87472, 
+          "job": "Director", 
+          "name": "James Whitmore Jr.", 
+          "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 19, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2e19c295731c08c29b", 
+          "id": 1224584, 
+          "name": "Angie Hart", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2e19c295731c08c305", 
+          "id": 16861, 
+          "name": "John Hawkes", 
+          "order": 1, 
+          "profile_path": "/bz4usMR7NWEgVgWTxVBLEjCo3Dv.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2e19c295731c08c351", 
+          "id": 18706, 
+          "name": "Meredith Salenger", 
+          "order": 2, 
+          "profile_path": "/tSViHUajIO0k49bFwIy42OqfbGq.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2f19c295731c08c39b", 
+          "id": 1215877, 
+          "name": "Brian Poth", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "James Stanley", 
+          "credit_id": "52599e2f19c295731c08c3d3", 
+          "id": 53761, 
+          "name": "Christopher Gorham", 
+          "order": 5, 
+          "profile_path": "/1fAcWAtGeTluNjbGVGxaShQD090.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b0b4", 
+          "id": 1469, 
+          "name": "Brian Reddy", 
+          "order": 6, 
+          "profile_path": "/6AOxOUfyU3iDQabWL6EipPZ5DAM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2f19c295731c08c45b", 
+          "id": 35109, 
+          "name": "Miriam Flynn", 
+          "order": 8, 
+          "profile_path": "/6VKACA883vyve6uuviO4I6QpluL.jpg"
+        }
+      ], 
+      "id": 949443, 
+      "name": "I Only Have Eyes for You", 
+      "overview": "As the Sadie Hawkins Dance nears, Buffy faces inner demons as she feels responsible for Angel's epiphany, meanwhile Sunnydale High is even more dangerous than usual as the ghost of a former student who killed his sweetheart and then committed suicide haunts the halls forcing people to relive the moments that killed them over and over.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/vDKYjNhzasv1MCJb68IjyOXCnTE.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-05-05", 
+      "crew": [
+        {
+          "credit_id": "52599e2219c295731c08a798", 
+          "department": "Directing", 
+          "id": 17272, 
+          "job": "Director", 
+          "name": "David Semel", 
+          "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+        }, 
+        {
+          "credit_id": "52599e3019c295731c08c61c", 
+          "department": "Writing", 
+          "id": 1217277, 
+          "job": "Writer", 
+          "name": "Elin Hampton", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 20, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2f19c295731c08c4fe", 
+          "id": 81295, 
+          "name": "Shane West", 
+          "order": 0, 
+          "profile_path": "/1TiKpPiFwdUbs24yrNZLSzAjsnk.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2f19c295731c08c546", 
+          "id": 11786, 
+          "name": "Charles Cyphers", 
+          "order": 1, 
+          "profile_path": "/pglMfoHMVEcziDlnl33DrZjRSM3.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3019c295731c08c582", 
+          "id": 3972, 
+          "name": "Wentworth Miller", 
+          "order": 2, 
+          "profile_path": "/z5qjqYgWfZsBrLWWm9jMRSJOtQ2.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3019c295731c08c5c8", 
+          "id": 1909, 
+          "name": "Conchata Ferrell", 
+          "order": 3, 
+          "profile_path": "/p7KiBF2blE5KOXKrXMrVpMgCYZX.jpg"
+        }
+      ], 
+      "id": 949444, 
+      "name": "Go Fish", 
+      "overview": "When several members of the Sunnydale High swim team are mysteriously skinned alive, Buffy and the gang take it upon themselves to protect the remaining members which results in Xander revealing a side of himself rarely seen.", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/l4zv676G9pPG2JWvsVKewiKJsYF.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-05-12", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 21, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2919c295731c08b6c2", 
+          "id": 36068, 
+          "name": "Bianca Lawson", 
+          "order": 0, 
+          "profile_path": "/wc8Oezs3BRgQeUIDFlRrHA84lVL.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3019c295731c08c70f", 
+          "id": 7268, 
+          "name": "Max Perlich", 
+          "order": 1, 
+          "profile_path": "/aITtjR6iSepDooSvVjB1zY5ehYx.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a188", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 9, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3119c295731c08c817", 
+          "id": 10489, 
+          "name": "Jack McGee", 
+          "order": 9, 
+          "profile_path": "/jSl2RKRaJvtRoS3T5HSw4xeNdwy.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3119c295731c08c89b", 
+          "id": 18262, 
+          "name": "Richard Riehle", 
+          "order": 10, 
+          "profile_path": "/fFFjfOX7BUsfBQQP54K8QEkkEC2.jpg"
+        }
+      ], 
+      "id": 949445, 
+      "name": "Becoming, Part One", 
+      "overview": "Angelus' origins from being vamped by Darla in 1753, vamping Drusilla in 1860, being cursed by the Gypsies in 1898, and meeting a demon named Whistler in New York in 1996 who shows him a better way of life are revealed while Angelus prepares to awaken Acathla, an ancient demon that will suck the Earth into the Demon Dimension.   Buffy and Willow find the spell to restore Angel's soul and Willow declares that she knows enough about magic to perform it. The gang almost come to blows when Xander tells Buffy outright that she doesn't care what happened to Ms Calendar, she only cares that she can get her boyfriend back. Kendra returns to Sunnydale because a dark power is rising and comes bearing a sword blessed by the knight who first slew Acathla.    Angelus tries to awaken the demon but fails. Needing someone to help him with the ritual, he distracts Buffy while Drusilla goes to collect Giles. Drusilla and her friends attack the rest of the gang but only Kendra is there to defend them, an", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/95VmryqipUHNJSkkhPg8tQHvkai.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "1998-05-19", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 22, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08b024", 
+          "id": 47297, 
+          "name": "James Marsters", 
+          "order": 0, 
+          "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2219c295731c08a918", 
+          "id": 149448, 
+          "name": "Robia LaMorte", 
+          "order": 1, 
+          "profile_path": "/khsyrVvmO1DAZJfyxTHNVtF0YVT.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2319c295731c08aa42", 
+          "id": 29446, 
+          "name": "Armin Shimerman", 
+          "order": 2, 
+          "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e5f", 
+          "id": 13922, 
+          "name": "Seth Green", 
+          "order": 8, 
+          "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+        }
+      ], 
+      "id": 949446, 
+      "name": "Becoming, Part Two", 
+      "overview": "After Drusilla's attack on her friends which resulted in the death of Kendra and Giles' abduction, Buffy is arrested for the murder but escapes from the police. She heads to the hospital where she learns that Xander has a broken arm and Willow is left in a coma. They all realize that Giles was taken by Drusilla and Buffy prepares herself to face Angelus. After being stopped by another cop, Spike comes to her aid and convinces her that he wants to be rid of Angelus too and they form an unusual alliance.   Buffy is forced to slay a vampire in front of her mother and tells her the truth but she does not want to accept it. When Buffy tries to leave to fight Angelus, Joyce tells her that if she goes she better not bother coming back. After retrieving Kendra's sword from the library she heads toward Angelus' mansion.   Meanwhile, Willow wakes up and decides to try the spell again and Xander runs to Buffy's aid. Drusilla uses her psychic powers to make Giles reveal the secret of the ritual to", 
+      "production_code": null, 
+      "season_number": 2, 
+      "still_path": "/kLEmMHEJDNjo7KTMtxUmBDxYYg5.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }
+  ], 
+  "id": 59466, 
+  "name": "Season 2", 
+  "overview": "The second season of the television series Buffy the Vampire Slayer premiered on September 15, 1997 on The WB Television Network and concluded its 22-episode season on May 19, 1998. The first 13 episodes aired on Mondays at 9:00 pm ET, beginning with episode 14 the series moved to Tuesdays at 8:00 pm ET, a timeslot the series would occupy for the rest of its run.\n\nThe emotional stakes are raised in season two. New vampires Spike and Drusilla come to town along with the new slayer, Kendra Young, who was activated as a result of Buffy's brief death in the season one finale. Xander becomes involved with Cordelia, while Willow becomes involved with witchcraft and Daniel \"Oz\" Osbourne becomes a werewolf after being bitten by a young cousin who just happens to be a werewolf. Buffy and the vampire Angel develop a relationship over the course of the season, but Angel's dark past as the evil and sadistic Angelus threatens to destroy Buffy and the world.", 
+  "poster_path": "/2SE6XEqZ5Zyj4mhRGg2n9UaeGnY.jpg", 
+  "season_number": 2
+}

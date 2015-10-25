@@ -1,0 +1,64 @@
+{
+  "air_date": "2002-05-07", 
+  "crew": [
+    {
+      "credit_id": "52599e2d19c295731c08c126", 
+      "department": "Directing", 
+      "id": 1231299, 
+      "job": "Director", 
+      "name": "Michael Gershman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387519c2957940054017", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4e19c295731c0902df", 
+      "id": 59090, 
+      "name": "Nichole Hiltz", 
+      "order": 0, 
+      "profile_path": "/6MWOvsODHSwHSbAnEmKODRZqR49.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4a19c295731c08fb61", 
+      "id": 136183, 
+      "name": "Adam Busch", 
+      "order": 0, 
+      "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }
+  ], 
+  "id": 949514, 
+  "name": "Seeing Red", 
+  "overview": "Willow and Tara are well on the road to recovery but love lives are not as good for Xander and Anya or Buffy and Spike.   The Troika move full swing into their biggest plan ever: stealing a pair of mystical orbs which imbue the bearer with super strength and invulnerability. They attempt to rob an armoured van but Buffy crashes the party resulting in a battle between her and SuperWarren. Buffy is all but finished until Jonathan reveals the secret to Warren's power. Buffy manages to defeat him but he escapes by use of a rocket pack and Jonathan and Andrew are arrested.\n\nBuffy heads home to await the next encounter but it comes all too soon. A crazed Warren proves he is evil enough on his own and shoots at Buffy. She takes a bullet in the shoulder but a wild shot fatally hits a Scooby...", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/9bE9Ua48pjLdpKLt05mGXzkXD8n.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

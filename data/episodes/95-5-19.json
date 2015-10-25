@@ -1,0 +1,56 @@
+{
+  "air_date": "2001-05-01", 
+  "crew": [
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "52599e4519c295731c08f32a", 
+      "department": "Writing", 
+      "id": 1231186, 
+      "job": "Writer", 
+      "name": "Rebecca Rand Kirshner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4619c295731c08f383", 
+      "id": 17774, 
+      "name": "Clare Kramer", 
+      "order": 0, 
+      "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949509, 
+  "name": "Tough Love", 
+  "overview": "While Buffy tries to control a motherless Dawn and bring their lives back to some sort of normalcy, Tara is captured by Glory who is desperately trying to find the Key.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/iTDAyeQcueH64VhspnWx6aVd1Hk.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

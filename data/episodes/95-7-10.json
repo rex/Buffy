@@ -1,0 +1,104 @@
+{
+  "air_date": "2002-12-17", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091d8c", 
+      "id": 642250, 
+      "name": "Iyari Limon", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091dea", 
+      "id": 155212, 
+      "name": "Clara Bryant", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091e34", 
+      "id": 1212402, 
+      "name": "Courtnee Draper", 
+      "order": 6, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949544, 
+  "name": "Bring on the Night", 
+  "overview": "With Spike missing, the gang try to cope and clear the damage done to the Summer's home. Giles arrives with three potential slayers and he reveals that the 'First Evil' is killing off the line of slayers in an attempt to rid the world of good, leaving The Hellmouth free to open. He tells Buffy that there are more potential slayers on their way to Sunnydale. Buffy and Giles search the christmas tree lot where they last discovered the Bringers, Buffy goes underground and is challenged by a very strong vampire who is luckily scared off by the sunrise. Giles confirms that he was a Turok-Han, a vampire which vampires fear. After one of the other slayers gets killed trying to escape, Buffy comes across the Turok-Han once again, it beats Buffy within an inch of her life and remains unharmed.   Later on at the Summer's home, Buffy declares that she isn't going down without a fight, and neither is anyone else.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/A0STNgs7CGK1EhS7wSid9rQnRvM.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

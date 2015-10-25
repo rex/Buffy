@@ -1,0 +1,56 @@
+{
+  "air_date": "2004-04-28", 
+  "crew": [
+    {
+      "credit_id": "5257384a760ee3668d008922", 
+      "department": "Writing", 
+      "id": 1215761, 
+      "job": "Writer", 
+      "name": "Ben Edlund", 
+      "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg"
+    }, 
+    {
+      "credit_id": "5257383d760ee3668d007c7e", 
+      "department": "Directing", 
+      "id": 1216750, 
+      "job": "Director", 
+      "name": "Vern Gillum", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009120", 
+      "id": 47878, 
+      "name": "Jeff Yagher", 
+      "order": 0, 
+      "profile_path": "/1va4bxUIT8GY3iPhklg5JnUuw1A.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009052", 
+      "id": 2059, 
+      "name": "Adam Baldwin", 
+      "order": 2, 
+      "profile_path": "/vhZ8AD36h09mBLuyIXboglRLgIu.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573851760ee3668d009148", 
+      "id": 39173, 
+      "name": "Jaime Bergman", 
+      "order": 2, 
+      "profile_path": "/kNOgpqF1eDgFz8PBdiiAHuBglYU.jpg"
+    }
+  ], 
+  "id": 183009, 
+  "name": "Time Bomb", 
+  "overview": "As Angel and Hamilton urge Wesley to get rid of Illyria, she suffers a cataclysmic physical breakdown; and Gunn clashes with Angel over the enforcement of an evil demon contract.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/xv2ku8t9GGkgqvDdarUKIIFSeAF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

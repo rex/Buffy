@@ -1,0 +1,64 @@
+{
+  "air_date": "2002-01-29", 
+  "crew": [
+    {
+      "credit_id": "52599e4419c295731c08efd8", 
+      "department": "Directing", 
+      "id": 1214210, 
+      "job": "Director", 
+      "name": "Nick Marck", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }
+  ], 
+  "episode_number": 12, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5319c295731c090da7", 
+      "id": 58928, 
+      "name": "Pat Crawford Brown", 
+      "order": 0, 
+      "profile_path": "/1aZTnQDtH0rXwA7ox0mCUsJj9z0.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5419c295731c090dd1", 
+      "id": 1219500, 
+      "name": "Kirsten Nelson", 
+      "order": 1, 
+      "profile_path": "/xygcmhw8nTpz68C8cuha5f6ivas.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5319c295731c090cbd", 
+      "id": 149665, 
+      "name": "Kali Rocha", 
+      "order": 1, 
+      "profile_path": "/uhigi00Mz43MpzXFYk06N5vApqj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a580", 
+      "id": 1226827, 
+      "name": "Elizabeth Anne Allen", 
+      "order": 2, 
+      "profile_path": null
+    }
+  ], 
+  "id": 949529, 
+  "name": "Doublemeat Palace", 
+  "overview": "Starved for cash, Buffy gets a job in a fast food restaurant where the weird manager and high turnover of employees has her more than a little suspicious. When co-workers start ending up in pieces, the mystery behind the \"secret ingredient\" comes into question. Willow works on staying clear of magic, but Amy gives her an unwanted gift and Willow is forced to make a big decision. A vengeance demon friend of Anya's visits and questions her relationship with Xander, leaving Anya doubtful about their soon-to-be-married life together.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/kPqMmjIyzzYrQEmjAcCPgwY3MyT.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

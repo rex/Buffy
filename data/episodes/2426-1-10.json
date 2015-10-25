@@ -1,0 +1,72 @@
+{
+  "air_date": "1999-12-14", 
+  "crew": [
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383e760ee3668d007e8e", 
+      "department": "Writing", 
+      "id": 1212542, 
+      "job": "Writer", 
+      "name": "Jeannine Renshaw", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d00797c", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d007fd6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 0, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d007ff8", 
+      "id": 95200, 
+      "name": "Dominique Jennings", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007e6a", 
+      "id": 95825, 
+      "name": "Randall Slavin", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383f760ee3668d00801a", 
+      "id": 65726, 
+      "name": "Maury Sterling", 
+      "order": 2, 
+      "profile_path": "/4Kj5xu4cREwmBxGOnWM0XoypFM4.jpg"
+    }
+  ], 
+  "id": 182967, 
+  "name": "Parting Gifts", 
+  "overview": "Angel and Cordelia, still coping with the death of their friend, are aided by an old friend in the pursuit of a demon bounty.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/cfnLb8QFYaO2AMpIwS43BsD8qnf.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,72 @@
+{
+  "air_date": "1997-03-31", 
+  "crew": [
+    {
+      "credit_id": "5253387419c2957940054001", 
+      "department": "Writing", 
+      "id": 1212428, 
+      "job": "Writer", 
+      "name": "Dean Batali", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2219c295731c08a798", 
+      "department": "Directing", 
+      "id": 17272, 
+      "job": "Director", 
+      "name": "David Semel", 
+      "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+    }, 
+    {
+      "credit_id": "5253387419c295794005400b", 
+      "department": "Writing", 
+      "id": 1212432, 
+      "job": "Writer", 
+      "name": "Rob Des Hotel", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a75a", 
+      "id": 86204, 
+      "name": "Geoff Meed", 
+      "order": 3, 
+      "profile_path": "/rv3ClSULRuvxuQvvXpC6Ki8BAKD.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1e19c295731c08a056", 
+      "id": 55194, 
+      "name": "Mark Metcalf", 
+      "order": 5, 
+      "profile_path": "/qjxCggGQH99OkXjDxm33QPIJZcl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949417, 
+  "name": "Never Kill a Boy on the First Date", 
+  "overview": "Buffy sets her sights on the mysterious and brooding Owen and she opts to go on a date rather than help Giles prevent a prophecy about an unstoppable vampire rising to help the Master.   Giles decides to face the prophecy alone and gets himself trapped and when Buffy is forced to save him she learns that Owen is a little too enticed by her dangerous lifestyle.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/1FwlR3DUlgXrULImnnZlRkl2PTK.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,40 @@
+{
+  "air_date": "2001-10-02", 
+  "crew": [
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 2, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }
+  ], 
+  "id": 949516, 
+  "name": "Bargaining, Part Two", 
+  "overview": "The Scooby Gang run from Buffy's grave site and her resurrection goes unnoticed. When she does get back above ground, she is confused and disoriented and wanders around looking at the carnage caused by the demon gang.   The demons damage the Buffybot badly and notice the real Buffy wandering around. They chase her and she eventually runs into the Slayerettes, who realize that she has been traumatize by having to dig out of her own grave.   When the demons arrive for a final fight, Buffy, still very confused, returns to her Slayer ways and defeats them all; but runs away from her friends after.   The Buffybot stays \"alive\" long enough to tell Dawn of the real Buffy's return. Dawn finds Buffy at Glory's tower, and she wants to jump off again. As the tower begins to collapse Dawn manages to coax Buffy down and they land just as the tower crumbles around them.   Buffy and Dawn hug, but the Slayer is still not herself.", 
+  "production_code": null, 
+  "season_number": 6, 
+  "still_path": "/j9QhPDDh64ybc5uMKQPuUanTiHF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

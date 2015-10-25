@@ -1,0 +1,72 @@
+{
+  "air_date": "1997-04-14", 
+  "crew": [
+    {
+      "credit_id": "5253387219c2957940053fdf", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2219c295731c08a885", 
+      "department": "Directing", 
+      "id": 1216736, 
+      "job": "Director", 
+      "name": "Scott Brazil", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2219c295731c08a7e1", 
+      "id": 33712, 
+      "name": "Carlos Carrasco", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1e19c295731c08a056", 
+      "id": 55194, 
+      "name": "Mark Metcalf", 
+      "order": 5, 
+      "profile_path": "/qjxCggGQH99OkXjDxm33QPIJZcl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a188", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 9, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949418, 
+  "name": "Angel", 
+  "overview": "After saving her from a gang of vampire warriors, Angel and Buffy's \"relationship\" grows until he reveals his true self to her. Angel is really 'Angelus', a 240-year-old vampire who has a reputation for being the most violent creature to ever walk the Earth. Faced with the reality that her possible true love is an enemy, Buffy must ask herself - can a vampire really be a good person or must she do her sworn duty and destroy him?", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/y9FHUBedXutAInVTh7S1iLD601u.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

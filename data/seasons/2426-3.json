@@ -1,0 +1,1858 @@
+{
+  "air_date": "2001-09-24", 
+  "episodes": [
+    {
+      "air_date": "2001-09-24", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006ebf", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 1, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009daf", 
+          "id": 37026, 
+          "name": "Kate Norby", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009dd1", 
+          "id": 149660, 
+          "name": "Bob Morrisey", 
+          "order": 4, 
+          "profile_path": "/4hHQkGkKJxYuuVNG01JkGIoOD2v.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009df3", 
+          "id": 154548, 
+          "name": "Robert Madrid", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183040, 
+      "name": "Heartthrob", 
+      "overview": "As Angel mourns Buffy's death, he battles a lovelorn vampire seeking revenge for the death of his beloved, who was killed by Angel.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/ekmFaZoWmrUGphByM9Ca2SYsx1k.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-01", 
+      "crew": [
+        {
+          "credit_id": "52573833760ee3668d0071e5", 
+          "department": "Directing", 
+          "id": 58075, 
+          "job": "Director", 
+          "name": "Bill L. Norton", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 2, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d00997f", 
+          "id": 62562, 
+          "name": "David Denman", 
+          "order": 2, 
+          "profile_path": "/rT1dvSLZjlfiZm7VvD1qEbvZ34O.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573857760ee3668d009e53", 
+          "id": 53493, 
+          "name": "Kal Penn", 
+          "order": 4, 
+          "profile_path": "/yxXuL1HVWaBMvrbwdDY1id3JwRZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573857760ee3668d009e7b", 
+          "id": 17417, 
+          "name": "Justin Shilton", 
+          "order": 6, 
+          "profile_path": "/c4xVKtbbkgsFSTsaVROoOHwnhlL.jpg"
+        }
+      ], 
+      "id": 183043, 
+      "name": "That Vision Thing", 
+      "overview": "Lilah coerces Angel to help in securing the release of a prisoner the powers that be have locked in a fiery prison.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/dnK7tY2E2TcaciEGJ3jyQekXFsD.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-08", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006d23", 
+          "department": "Directing", 
+          "id": 1223968, 
+          "job": "Director", 
+          "name": "Frederick King Keller", 
+          "profile_path": "/5frIHmIElwmWcOnqRRhAhkpPlW3.jpg"
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 3, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d11", 
+          "id": 79538, 
+          "name": "Khalil Kain", 
+          "order": 0, 
+          "profile_path": "/cg21H1qo8VvLpABRbdVrQZpFArc.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d39", 
+          "id": 1217941, 
+          "name": "Sam Ayers", 
+          "order": 2, 
+          "profile_path": "/cPQGYpXiUkrQ9NT0gLWAzbBaz2m.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }
+      ], 
+      "id": 183039, 
+      "name": "That Old Gang of Mine", 
+      "overview": "Gunn's loyalties are torn between his current demon-hunting associates and the gang he used to hang out with, which has taken to killing demons for fun instead of defence.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/A5gz9AqxFVcN4fXyeYrgVNXT3kL.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-15", 
+      "crew": [
+        {
+          "credit_id": "5257385b760ee3668d00a0bd", 
+          "department": "Writing", 
+          "id": 1231393, 
+          "job": "Writer", 
+          "name": "Two Guys from Andromeda", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 4, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573859760ee3668d00a030", 
+          "id": 22250, 
+          "name": "Rance Howard", 
+          "order": 2, 
+          "profile_path": "/i7tkpb7GLJXjwUNyrpOy63FiStt.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573859760ee3668d00a052", 
+          "id": 15534, 
+          "name": "Paul Benjamin", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573859760ee3668d00a074", 
+          "id": 1224063, 
+          "name": "Steven W. Bailey", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573859760ee3668d00a096", 
+          "id": 98157, 
+          "name": "Paul Logan", 
+          "order": 5, 
+          "profile_path": "/lx2bemjfnJpHqLREnvUOC0YFRZh.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }
+      ], 
+      "id": 183052, 
+      "name": "Carpe Noctem", 
+      "overview": "An old man uses an ancient incantation to switch bodies with Angel.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/fss30j05I52w9tT2G7RGfCn0gd2.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-22", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006cff", 
+          "department": "Writing", 
+          "id": 1227656, 
+          "job": "Writer", 
+          "name": "Mere Smith", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a83", 
+          "department": "Directing", 
+          "id": 1215026, 
+          "job": "Director", 
+          "name": "Marita Grabiak", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 5, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d008f88", 
+          "id": 68180, 
+          "name": "Gary Grubbs", 
+          "order": 2, 
+          "profile_path": "/zbSSBFW8oRl4M1u2vyr1PUnWqCw.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183046, 
+      "name": "Fredless", 
+      "overview": "When Fred's parents come to take her home, she feels she should go with them...until she earns a place in the group by figuring out the key to an attack of larger bug demons.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/wF1CG6kofHLH1och39g6hKj2LcA.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-29", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a83", 
+          "department": "Directing", 
+          "id": 1215026, 
+          "job": "Director", 
+          "name": "Marita Grabiak", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }, 
+        {
+          "credit_id": "52573837760ee3668d007566", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 6, 
+      "guest_stars": [
+        {
+          "character": "Dylan", 
+          "credit_id": "52573857760ee3668d009ecf", 
+          "id": 159386, 
+          "name": "Kristoffer Polaha", 
+          "order": 2, 
+          "profile_path": "/nueTVEveCbD3JiAv2HM2MXx5mPp.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573857760ee3668d009e7b", 
+          "id": 17417, 
+          "name": "Justin Shilton", 
+          "order": 6, 
+          "profile_path": "/c4xVKtbbkgsFSTsaVROoOHwnhlL.jpg"
+        }
+      ], 
+      "id": 183045, 
+      "name": "Billy", 
+      "overview": "Angel's friends are affected by a man with the power to make other men brutalise women.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/8NPd1BIE6MJ4AyH9zT1XszZ2IeD.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-11-05", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d0070d1", 
+          "department": "Directing", 
+          "id": 72445, 
+          "job": "Director", 
+          "name": "Turi Meyer", 
+          "profile_path": "/3TRekhDcZsF3PhH2hLZZcv4ebE2.jpg"
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 7, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385b760ee3668d00a115", 
+          "id": 58512, 
+          "name": "Steve Tom", 
+          "order": 3, 
+          "profile_path": "/ptnGjngOH5rbGDDewk5OESqxs3A.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009074", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 3, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385b760ee3668d00a137", 
+          "id": 158782, 
+          "name": "Van Epperson", 
+          "order": 4, 
+          "profile_path": "/2l4N2WTYen9cz5HJKeDvIEtzsB1.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385b760ee3668d00a159", 
+          "id": 1217939, 
+          "name": "Robert Peters", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183053, 
+      "name": "Offspring", 
+      "overview": "Darla returns and reveals that she is pregnant with Angel's child.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/aUlc1JJxp9CyFc2vYPhXC9txLrQ.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-11-12", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b05", 
+          "department": "Directing", 
+          "id": 68841, 
+          "job": "Director", 
+          "name": "Skip Schoolnik", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 8, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009444", 
+          "id": 44261, 
+          "name": "John Rubinstein", 
+          "order": 2, 
+          "profile_path": "/jyHEmKDxlCCxWnsM8hPoCpj0Bn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009074", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 3, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573857760ee3668d009f73", 
+          "id": 103478, 
+          "name": "John Durbin", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573857760ee3668d009f9b", 
+          "id": 83353, 
+          "name": "Michael Robert Brandon", 
+          "order": 7, 
+          "profile_path": "/q96KeG1KdqI8usL01UhOHyGKFq2.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573859760ee3668d009fc0", 
+          "id": 1231391, 
+          "name": "Angelo Surmelis", 
+          "order": 8, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573859760ee3668d009fe2", 
+          "id": 23855, 
+          "name": "Kasha Kropinski", 
+          "order": 9, 
+          "profile_path": "/5KVy0oXVdjSXW3WOLA23G52Ld0a.jpg"
+        }
+      ], 
+      "id": 183047, 
+      "name": "Quickening", 
+      "overview": "As Angel and his friends try to determine what kind of baby Darla will have, Holtz starts his search for Angel... while Lilah and Nathan send out a SWAT team to find Darla.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/ztMQ5qu7GaTUU2FtJzAoherBzXz.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-11-19", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f4d", 
+          "department": "Directing", 
+          "id": 1224034, 
+          "job": "Director", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 9, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009444", 
+          "id": 44261, 
+          "name": "John Rubinstein", 
+          "order": 2, 
+          "profile_path": "/jyHEmKDxlCCxWnsM8hPoCpj0Bn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009074", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 3, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385b760ee3668d00a159", 
+          "id": 1217939, 
+          "name": "Robert Peters", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573859760ee3668d009fe2", 
+          "id": 23855, 
+          "name": "Kasha Kropinski", 
+          "order": 9, 
+          "profile_path": "/5KVy0oXVdjSXW3WOLA23G52Ld0a.jpg"
+        }
+      ], 
+      "id": 183055, 
+      "name": "Lullaby", 
+      "overview": "As Darla goes through a difficult labour, Holtz pursues Angel.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/4PObPOmrcuXZ5mru7RHvZ96kYbs.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-12-10", 
+      "crew": [
+        {
+          "credit_id": "5257385c760ee3668d00a348", 
+          "department": "Writing", 
+          "id": 1226598, 
+          "job": "Writer", 
+          "name": "David H. Goodman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257385c760ee3668d00a36a", 
+          "department": "Writing", 
+          "id": 96342, 
+          "job": "Writer", 
+          "name": "David A. Goodman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006d23", 
+          "department": "Directing", 
+          "id": 1223968, 
+          "job": "Director", 
+          "name": "Frederick King Keller", 
+          "profile_path": "/5frIHmIElwmWcOnqRRhAhkpPlW3.jpg"
+        }
+      ], 
+      "episode_number": 10, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009422", 
+          "id": 18657, 
+          "name": "Laurel Holloman", 
+          "order": 1, 
+          "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009444", 
+          "id": 44261, 
+          "name": "John Rubinstein", 
+          "order": 2, 
+          "profile_path": "/jyHEmKDxlCCxWnsM8hPoCpj0Bn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009074", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 3, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a2da", 
+          "id": 159396, 
+          "name": "Stephanie Courtney", 
+          "order": 6, 
+          "profile_path": "/r5pxOlIdCMJArRsRluIrQFM12nW.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a2fc", 
+          "id": 11768, 
+          "name": "Patricia Tallman", 
+          "order": 7, 
+          "profile_path": "/jl8F0Nv4dQJqg1014baS5eiHWaR.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a324", 
+          "id": 1213582, 
+          "name": "Kira Tirimacco", 
+          "order": 9, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183057, 
+      "name": "Dad", 
+      "overview": "Angel tries to keep his son safe from the many demons, vampires and humans who would like to harm the baby; Holtz joins forces with another vampire slayer.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/pcoGX86EdRKtgCVnpCMi8B66JPW.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-01-14", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006cff", 
+          "department": "Writing", 
+          "id": 1227656, 
+          "job": "Writer", 
+          "name": "Mere Smith", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383a760ee3668d00771d", 
+          "department": "Directing", 
+          "id": 43222, 
+          "job": "Director", 
+          "name": "Michael Grossman", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 11, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a206", 
+          "id": 1213070, 
+          "name": "Marti Noxon", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d00997f", 
+          "id": 62562, 
+          "name": "David Denman", 
+          "order": 2, 
+          "profile_path": "/rT1dvSLZjlfiZm7VvD1qEbvZ34O.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a228", 
+          "id": 56457, 
+          "name": "Aimee Garcia", 
+          "order": 3, 
+          "profile_path": "/lkXrwXShVpGhSTxGunNwJkkO84l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a24a", 
+          "id": 15031, 
+          "name": "Patrick Breen", 
+          "order": 4, 
+          "profile_path": "/jMChbEq3GODrIoz1Jl4rlPGonY6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a274", 
+          "id": 80292, 
+          "name": "Glenn Quinn", 
+          "order": 5, 
+          "profile_path": "/645pwOOjHTd3m3kWjCFFcwU9tIf.jpg"
+        }
+      ], 
+      "id": 183056, 
+      "name": "Birthday", 
+      "overview": "On her birthday, Cordelia learns her visions will kill her unless she goes back in time and chooses a different path in life - which doesn't include Angel.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/dtfYoLm8iSaY5pZ9P2sVawUEmzv.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-01-21", 
+      "crew": [
+        {
+          "credit_id": "52573833760ee3668d0071e5", 
+          "department": "Directing", 
+          "id": 58075, 
+          "job": "Director", 
+          "name": "Bill L. Norton", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257385b760ee3668d00a0bd", 
+          "department": "Writing", 
+          "id": 1231393, 
+          "job": "Writer", 
+          "name": "Two Guys from Andromeda", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383a760ee3668d00771d", 
+          "department": "Directing", 
+          "id": 43222, 
+          "job": "Director", 
+          "name": "Michael Grossman", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 12, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009422", 
+          "id": 18657, 
+          "name": "Laurel Holloman", 
+          "order": 1, 
+          "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a3bc", 
+          "id": 47296, 
+          "name": "Jeffrey Dean Morgan", 
+          "order": 3, 
+          "profile_path": "/6ors2HGy8UdXm8kBx6on0HwRHB5.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a3de", 
+          "id": 132729, 
+          "name": "Eric Bruskotter", 
+          "order": 4, 
+          "profile_path": "/2N2W06SctE3BXExo3EmaPyjPNPO.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a400", 
+          "id": 58707, 
+          "name": "Sunny Mabrey", 
+          "order": 5, 
+          "profile_path": "/fKPc0yMFKIMJmvXH8yJcse22BmV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a422", 
+          "id": 1225944, 
+          "name": "Benjam\u00edn Ben\u00edtez", 
+          "order": 6, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183058, 
+      "name": "Provider", 
+      "overview": "Fred solves a puzzle for a group of demons who literally want to buy her brain; Angel is hired to clean out a vampire nest by a man who can't afford to pay for Angel's services; Wes and Gunn help a woman whose dead boyfriend is stalking her.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/OWtvB2vlhFrZVJXHtgakWXVhm.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-02-04", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f6f", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 13, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257385e760ee3668d00a571", 
+          "id": 54881, 
+          "name": "Summer Glau", 
+          "order": 2, 
+          "profile_path": "/7AlW3QVQUAfGwWrnDwb0iP3J1Wx.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385e760ee3668d00a593", 
+          "id": 88949, 
+          "name": "Mark Harelik", 
+          "order": 3, 
+          "profile_path": "/iiWjqkiQc9StJjC0KTSjg5AZFSa.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006d83", 
+          "id": 55568, 
+          "name": "Mark Lutz", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }
+      ], 
+      "id": 183063, 
+      "name": "Waiting in the Wings", 
+      "overview": "Angel and his friends attend a ballet,where Angel realises he saw the exact same dancers on stage 110 years ago.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/5d94Yxox6C9uAiC8LH2bc1hfoI0.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-02-18", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f4d", 
+          "department": "Directing", 
+          "id": 1224034, 
+          "job": "Director", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 14, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257385d760ee3668d00a51d", 
+          "id": 1231395, 
+          "name": "Sharon Bruneau", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006d83", 
+          "id": 55568, 
+          "name": "Mark Lutz", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183060, 
+      "name": "Couplet", 
+      "overview": "Angel struggles with his jealousy of the Groosalugg and Cordelia's attraction to him; Gunn and Fred get captured by a tree monster.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/2IjxCWnz4Bhd9GrNi6zVp3370N2.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-02-25", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006cff", 
+          "department": "Writing", 
+          "id": 1227656, 
+          "job": "Writer", 
+          "name": "Mere Smith", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 15, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009422", 
+          "id": 18657, 
+          "name": "Laurel Holloman", 
+          "order": 1, 
+          "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a47c", 
+          "id": 1214140, 
+          "name": "Wendy Davis", 
+          "order": 3, 
+          "profile_path": "/xewR401F4IXfkUFt8bxAZuDdDbp.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009074", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 3, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385c760ee3668d00a49e", 
+          "id": 1215999, 
+          "name": "Kerrigan Mahan", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385d760ee3668d00a4c6", 
+          "id": 1214404, 
+          "name": "Enrique Castillo", 
+          "order": 6, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183059, 
+      "name": "Loyalty", 
+      "overview": "Wes dreads the fulfilment of the prophecy that Angel will kill Connor; Sahjhan becomes dissatisfied with Holtz's progress in stalking Angel and take matters into his own hands; Fred and Gunn try to figure out how to juggle working together with their new romance.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/7weFU72LLOXkcpAoXJZiyYnlZiW.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-03-04", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384d760ee3668d008d4d", 
+          "department": "Directing", 
+          "id": 102638, 
+          "job": "Director", 
+          "name": "Terrence O'Hara", 
+          "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+        }
+      ], 
+      "episode_number": 16, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009422", 
+          "id": 18657, 
+          "name": "Laurel Holloman", 
+          "order": 1, 
+          "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009074", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 3, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385e760ee3668d00a604", 
+          "id": 30068, 
+          "name": "Jeff Denton", 
+          "order": 5, 
+          "profile_path": "/v3XXcZT7frqOfkijywkB2y3SG4V.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385e760ee3668d00a626", 
+          "id": 74508, 
+          "name": "Bryan Friday", 
+          "order": 6, 
+          "profile_path": "/fMxTFCvOKQGMrEUu6paE42mLBnF.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385e760ee3668d00a648", 
+          "id": 93348, 
+          "name": "J. Scott Shonka", 
+          "order": 7, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183064, 
+      "name": "Sleep Tight", 
+      "overview": "To save Connor's life, Wes takes him away from Angel; Angel uncovers Lilah's plot to have him kill Connor, Holtz finally attacks.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/A42cMKxeovbauYS4nk0pPG3Mvap.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-04-15", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d0070d1", 
+          "department": "Directing", 
+          "id": 72445, 
+          "job": "Director", 
+          "name": "Turi Meyer", 
+          "profile_path": "/3TRekhDcZsF3PhH2hLZZcv4ebE2.jpg"
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 17, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009422", 
+          "id": 18657, 
+          "name": "Laurel Holloman", 
+          "order": 1, 
+          "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009444", 
+          "id": 44261, 
+          "name": "John Rubinstein", 
+          "order": 2, 
+          "profile_path": "/jyHEmKDxlCCxWnsM8hPoCpj0Bn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d0095f4", 
+          "id": 38703, 
+          "name": "Kay Panabaker", 
+          "order": 3, 
+          "profile_path": "/lnPWuiJAkt43mnrZV7a1Lx3IlZI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009074", 
+          "id": 21675, 
+          "name": "Jack Conley", 
+          "order": 3, 
+          "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }
+      ], 
+      "id": 183065, 
+      "name": "Forgiving", 
+      "overview": "As Fred and Gunn search for Wesley, Angel searches for Sahjhan - and casts a spell to make him corporeal so he can be killed.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/u2lwGZKfW4vD6NKClRZ50GnWQ2R.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-04-22", 
+      "crew": [
+        {
+          "credit_id": "5257385c760ee3668d00a348", 
+          "department": "Writing", 
+          "id": 1226598, 
+          "job": "Writer", 
+          "name": "David H. Goodman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257385c760ee3668d00a36a", 
+          "department": "Writing", 
+          "id": 96342, 
+          "job": "Writer", 
+          "name": "David A. Goodman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573837760ee3668d007566", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }
+      ], 
+      "episode_number": 18, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257385f760ee3668d00a71e", 
+          "id": 52308, 
+          "name": "Jason Carter", 
+          "order": 2, 
+          "profile_path": "/ytMY52hZiaaL21wh9dkyabZwX1k.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385f760ee3668d00a740", 
+          "id": 117437, 
+          "name": "Patrick St. Esprit", 
+          "order": 3, 
+          "profile_path": "/bcbLFQUGDcgrlbJz0blywlfGutL.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006d83", 
+          "id": 55568, 
+          "name": "Mark Lutz", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385f760ee3668d00a762", 
+          "id": 11915, 
+          "name": "Nigel Gibbs", 
+          "order": 4, 
+          "profile_path": "/6AE4p72zOtpR9Q385eiwrPwGPaj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183067, 
+      "name": "Double or Nothing", 
+      "overview": "When a demon that Gunn once sold his soul to comes to collect on the debt, Angel, Fred and Cordelia help to save him.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/4miFBVO57l2z9rIpwFqKrdkjSuY.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-04-29", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a83", 
+          "department": "Directing", 
+          "id": 1215026, 
+          "job": "Director", 
+          "name": "Marita Grabiak", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 19, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009030", 
+          "id": 52646, 
+          "name": "Vincent Kartheiser", 
+          "order": 1, 
+          "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006d83", 
+          "id": 55568, 
+          "name": "Mark Lutz", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183066, 
+      "name": "The Price", 
+      "overview": "Angel's hotel is infested with demonic slugscreated by the spell he used to alter Sahjhan.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/a5ZLxayA5dgWSh8TP3tHGOuVpDT.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-05-06", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f4d", 
+          "department": "Directing", 
+          "id": 1224034, 
+          "job": "Director", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 20, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009030", 
+          "id": 52646, 
+          "name": "Vincent Kartheiser", 
+          "order": 1, 
+          "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006d83", 
+          "id": 55568, 
+          "name": "Mark Lutz", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257385f760ee3668d00a7c8", 
+          "id": 10682, 
+          "name": "Anthony Starke", 
+          "order": 5, 
+          "profile_path": "/f2zbCJ2hWkxn5TGvNVi6b9RVWWj.jpg"
+        }, 
+        {
+          "character": "Sunny", 
+          "credit_id": "5257385f760ee3668d00a7ea", 
+          "id": 1226571, 
+          "name": "Erika Thormahlen", 
+          "order": 6, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183068, 
+      "name": "A New World", 
+      "overview": "Angel pursues Connor, who makes a new friend on the streets; something else comes through the portal from Quor-toth; Lilah approaches Wesley.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/wzXzqjY4JgwLTmTM7MwyJ7QLcb7.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-05-13", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f4d", 
+          "department": "Directing", 
+          "id": 1224034, 
+          "job": "Director", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 21, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009030", 
+          "id": 52646, 
+          "name": "Vincent Kartheiser", 
+          "order": 1, 
+          "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009422", 
+          "id": 18657, 
+          "name": "Laurel Holloman", 
+          "order": 1, 
+          "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006d83", 
+          "id": 55568, 
+          "name": "Mark Lutz", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183070, 
+      "name": "Benediction", 
+      "overview": "Holtz insists that Connor rejoins Angel; Justine learns Holtz is back; the Groosalugg realises the depths of Cordelia's feelings for Angel.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/ao42rdJ9DxvbKNM0C0MF4NloePU.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-05-20", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006e9b", 
+          "department": "Writing", 
+          "id": 87590, 
+          "job": "Writer", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006ebf", 
+          "department": "Directing", 
+          "id": 87590, 
+          "job": "Director", 
+          "name": "David Greenwalt", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 22, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009d81", 
+          "id": 87957, 
+          "name": "Keith Szarabajka", 
+          "order": 0, 
+          "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573850760ee3668d009030", 
+          "id": 52646, 
+          "name": "Vincent Kartheiser", 
+          "order": 1, 
+          "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009422", 
+          "id": 18657, 
+          "name": "Laurel Holloman", 
+          "order": 1, 
+          "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009444", 
+          "id": 44261, 
+          "name": "John Rubinstein", 
+          "order": 2, 
+          "profile_path": "/jyHEmKDxlCCxWnsM8hPoCpj0Bn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d00997f", 
+          "id": 62562, 
+          "name": "David Denman", 
+          "order": 2, 
+          "profile_path": "/rT1dvSLZjlfiZm7VvD1qEbvZ34O.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006d83", 
+          "id": 55568, 
+          "name": "Mark Lutz", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183069, 
+      "name": "Tomorrow", 
+      "overview": "Connor returns to Angel to seek his revenge; Angel and Cordelia acknowledge their feelings for each other.", 
+      "production_code": null, 
+      "season_number": 3, 
+      "still_path": "/mHZ4uwtyONNlYsTNUmoN8QCFTtg.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }
+  ], 
+  "id": 7628, 
+  "name": "Season 3", 
+  "overview": "The third season of the television series Angel, the spin-off of Buffy the Vampire Slayer, premiered on September 24, 2001 on The WB and concluded its 22-episode season on May 20, 2002. The season aired in a new timeslot, Mondays at 9:00 pm ET. This was the first season where Angel and Buffy didn't air on the same network, as Buffy had moved to the UPN network beginning with its sixth season.", 
+  "poster_path": "/8MYcGwOFtlQqedYHxjtCfMUciqy.jpg", 
+  "season_number": 3
+}

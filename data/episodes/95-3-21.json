@@ -1,0 +1,112 @@
+{
+  "air_date": "1999-05-18", 
+  "crew": [
+    {
+      "credit_id": "5253387019c2957940053fa5", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52599e2019c295731c08a50b", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 21, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce23", 
+      "id": 35518, 
+      "name": "Harry Groener", 
+      "order": 1, 
+      "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4d6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 4, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d68a", 
+      "id": 149563, 
+      "name": "Ethan Erickson", 
+      "order": 4, 
+      "profile_path": "/rFf9TFofNCARgpj1xTW0CynidAe.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d86c", 
+      "id": 35550, 
+      "name": "Danny Strong", 
+      "order": 4, 
+      "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2d19c295731c08c05e", 
+      "id": 123149, 
+      "name": "Mercedes McNab", 
+      "order": 5, 
+      "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3a19c295731c08da8f", 
+      "id": 426, 
+      "name": "Larry Bagby", 
+      "order": 8, 
+      "profile_path": "/zBXOdQkskwkYCK34RnVKTVaI8DR.jpg"
+    }
+  ], 
+  "id": 949467, 
+  "name": "Graduation Day, Part One", 
+  "overview": "The gang receive some valuable information from old enemy Anya who has actually witnessed an Ascension. She reveals that the Mayor plans to transform himself into pure demon, something that has not been seen for thousands of years. When Angel is poisoned by Faith to distract Buffy, Buffy faces Faith for the final time in order to get the only cure to the poison: Faith's blood.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/8IhK39xdoa4XEwPtnozH6Aq5rxE.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

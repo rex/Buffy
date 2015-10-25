@@ -1,0 +1,112 @@
+{
+  "air_date": "1997-11-17", 
+  "crew": [
+    {
+      "credit_id": "52599e2a19c295731c08b856", 
+      "department": "Writing", 
+      "id": 1221664, 
+      "job": "Writer", 
+      "name": "Howard Gordon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2219c295731c08a798", 
+      "department": "Directing", 
+      "id": 17272, 
+      "job": "Director", 
+      "name": "David Semel", 
+      "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 9, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2619c295731c08b024", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 0, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b6c2", 
+      "id": 36068, 
+      "name": "Bianca Lawson", 
+      "order": 0, 
+      "profile_path": "/wc8Oezs3BRgQeUIDFlRrHA84lVL.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b7d0", 
+      "id": 56691, 
+      "name": "Saverio Guerra", 
+      "order": 5, 
+      "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b7fa", 
+      "id": 1228791, 
+      "name": "Eric Saiet", 
+      "order": 6, 
+      "profile_path": "/b3abFUbsJwmAduTRPPfEN5GALVy.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b824", 
+      "id": 1214542, 
+      "name": "Kelly Connell", 
+      "order": 7, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e5f", 
+      "id": 13922, 
+      "name": "Seth Green", 
+      "order": 8, 
+      "profile_path": "/7ksgEtZZIhSkJmt7zMyVDOQfdxu.jpg"
+    }
+  ], 
+  "id": 949433, 
+  "name": "What's My Line, Part One", 
+  "overview": "Its Career Week at Sunnydale High and Buffy is faced with the reality that she has no future apart from that of a Slayer. Meanwhile, in order to stop the Slayer from ending his plan to restore Drusilla's strength, Spike sends four deadly assassins to ensure the Slayer has no future. Also, a mysterious girl is following Buffy and Angel around and Xander and Cordelia are trapped in Buffy's house after being attacked by one of the assassins.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/9gFCbB7H1PvbKCQV1M8ueaIVWLq.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

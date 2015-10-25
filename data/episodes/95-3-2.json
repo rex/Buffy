@@ -1,0 +1,56 @@
+{
+  "air_date": "1998-10-06", 
+  "crew": [
+    {
+      "credit_id": "52599e2f19c295731c08c4ab", 
+      "department": "Directing", 
+      "id": 87472, 
+      "job": "Director", 
+      "name": "James Whitmore Jr.", 
+      "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 2, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08cbf6", 
+      "id": 9279, 
+      "name": "Nancy Lenehan", 
+      "order": 2, 
+      "profile_path": "/d53TslGYUtkXfHHEjCGMCQOOdlM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949448, 
+  "name": "Dead Man's Party", 
+  "overview": "When Buffy returns home she finds that the life she left behind may not be as easy to slip back into as she has to battle not only the rising dead, but also the distrust of her mother and the silent resentment of her friends.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/henMKX30w8Fe7wZBZVY2TEt1W9t.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,88 @@
+{
+  "air_date": "2000-10-03", 
+  "crew": [
+    {
+      "credit_id": "52573837760ee3668d00747d", 
+      "department": "Directing", 
+      "id": 17272, 
+      "job": "Director", 
+      "name": "David Semel", 
+      "profile_path": "/7nDXxRcD6wmFqjYySJIh4wcepdD.jpg"
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 2, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d007385", 
+      "id": 93925, 
+      "name": "Tommy Hinkley", 
+      "order": 0, 
+      "profile_path": "/mFe3E8NUL1742oNQRoKjrXUYmf8.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d0073a7", 
+      "id": 55554, 
+      "name": "John Kapelos", 
+      "order": 1, 
+      "profile_path": "/9bpUaLNbcmeT7OwgPh84bCFFP9c.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d0073c9", 
+      "id": 77450, 
+      "name": "Scott Thompson Baker", 
+      "order": 2, 
+      "profile_path": "/mnHNiXzJtqLA2cMH4JJY7TuQT8g.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d0073eb", 
+      "id": 88702, 
+      "name": "J.P. Manoux", 
+      "order": 3, 
+      "profile_path": "/fWebcGtEgJFMkbWNc13uku5REYp.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d00740d", 
+      "id": 12549, 
+      "name": "Brett Rickaby", 
+      "order": 4, 
+      "profile_path": "/bsY5Tgy6PTPa4u81eaVIgTs5RwA.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d00742f", 
+      "id": 64200, 
+      "name": "David Kagen", 
+      "order": 5, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573837760ee3668d007451", 
+      "id": 159325, 
+      "name": "Melissa Marsala", 
+      "order": 6, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182941, 
+  "name": "Are You Now or Have You Ever Been", 
+  "overview": "In the 1950s, Angel aids a woman hiding from her past inside a hotel with a long history of death and mayhem. Meanwhile, in the present day, Angel and his colleagues hunt down a demon responsible for the carnage.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/o0Ns7SImIA4NfzMjq2ROwBWZNaL.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,56 @@
+{
+  "air_date": "1999-11-02", 
+  "crew": [
+    {
+      "credit_id": "52573836760ee3668d007353", 
+      "department": "Directing", 
+      "id": 130216, 
+      "job": "Director", 
+      "name": "Scott McGinnis", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d0077c3", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383d760ee3668d007cb6", 
+      "id": 5151, 
+      "name": "Beth Grant", 
+      "order": 1, 
+      "profile_path": "/8WYd8N24jUpwk4nKDGPAdt08ltM.jpg"
+    }
+  ], 
+  "id": 182960, 
+  "name": "Rm w/a Vu", 
+  "overview": "Cordelia finds a perfect apartment, but it's got just one flaw: it's haunted. Meanwhile, Doyle flees the phantoms of his past.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/dtVTod7jCUUHkwHOKjO6pewccDw.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

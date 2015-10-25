@@ -1,0 +1,80 @@
+{
+  "air_date": "2003-03-12", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008a3d", 
+      "department": "Writing", 
+      "id": 1231386, 
+      "job": "Writer", 
+      "name": "Mutant Enemy Productions", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a5f", 
+      "department": "Writing", 
+      "id": 1224044, 
+      "job": "Writer", 
+      "name": "Sarah Fain", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573849760ee3668d008810", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 14, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573853760ee3668d00970f", 
+      "id": 35132, 
+      "name": "Peter Renaday", 
+      "order": 1, 
+      "profile_path": "/wRkQcLnyv1k9eQtB5GczTgIaWj2.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d0078d6", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 2, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573853760ee3668d009731", 
+      "id": 123813, 
+      "name": "Ian Anthony Dale", 
+      "order": 2, 
+      "profile_path": "/8lF1E9MNYDXVPUy4YB3In4mi46N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573854760ee3668d009753", 
+      "id": 1219502, 
+      "name": "Christopher Neiman", 
+      "order": 3, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183024, 
+  "name": "Release", 
+  "overview": "As Faith and Angel continue their battle, the voice of the Beast's Master invades Angel's mind.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/6P6iOVP9uq53Ixdyv8GhhKllgeA.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,56 @@
+{
+  "air_date": "2000-02-29", 
+  "crew": [
+    {
+      "credit_id": "5257383f760ee3668d007f80", 
+      "department": "Writing", 
+      "id": 1221664, 
+      "job": "Writer", 
+      "name": "Howard Gordon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573841760ee3668d0083d7", 
+      "department": "Directing", 
+      "id": 1214210, 
+      "job": "Director", 
+      "name": "Nick Marck", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 16, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573841760ee3668d008389", 
+      "id": 144578, 
+      "name": "Scott William Winters", 
+      "order": 1, 
+      "profile_path": "/ubQy1q1A1EZoqJghTgcDv2v3rXb.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573841760ee3668d0083ab", 
+      "id": 42731, 
+      "name": "Anthony Guidera", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182973, 
+  "name": "The Ring", 
+  "overview": "In pursuit of a missing man, Angel becomes enslaved to an underground-fighting ring.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/vXEZcERB0uQXqAkjh7CiMuQTYkw.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

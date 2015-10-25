@@ -1,0 +1,88 @@
+{
+  "air_date": "2004-02-11", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008b89", 
+      "department": "Writing", 
+      "id": 47506, 
+      "job": "Writer", 
+      "name": "Drew Goddard", 
+      "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+    }, 
+    {
+      "credit_id": "5257384d760ee3668d008d4d", 
+      "department": "Directing", 
+      "id": 102638, 
+      "job": "Director", 
+      "name": "Terrence O'Hara", 
+      "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+    }, 
+    {
+      "credit_id": "52573849760ee3668d008810", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257384d760ee3668d008c71", 
+      "id": 1215395, 
+      "name": "Scott Klace", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384d760ee3668d008c93", 
+      "id": 61855, 
+      "name": "Eyal Podell", 
+      "order": 1, 
+      "profile_path": "/c5HBvjC98ex55qTR8eOomQ93srd.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384d760ee3668d008cb5", 
+      "id": 1217810, 
+      "name": "Nick Spano", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384d760ee3668d008cd7", 
+      "id": 1227482, 
+      "name": "Mikey Day", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384d760ee3668d008cf9", 
+      "id": 15418, 
+      "name": "Joel Polis", 
+      "order": 4, 
+      "profile_path": "/bwDOMBwBxL2cyXHBa4sLO00ifQg.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384d760ee3668d008d1b", 
+      "id": 1222962, 
+      "name": "Camden Toy", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182996, 
+  "name": "Why We Fight", 
+  "overview": "A World War II submarine sailor - the only man Angel ever turned into a vampire since regaining his soul - returns to seek his revenge.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/ova4WYluazKYYEPDr5zUb8k8NgG.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

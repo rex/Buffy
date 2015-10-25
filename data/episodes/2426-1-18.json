@@ -1,0 +1,72 @@
+{
+  "air_date": "2000-04-25", 
+  "crew": [
+    {
+      "credit_id": "52573836760ee3668d00732f", 
+      "department": "Writing", 
+      "id": 21155, 
+      "job": "Writer", 
+      "name": "Jim Kouf", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d0078d6", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 2, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573843760ee3668d008482", 
+      "id": 1219646, 
+      "name": "Tyler Christopher", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }
+  ], 
+  "id": 182977, 
+  "name": "Five by Five", 
+  "overview": "Rogue slayer Faith comes to town, and when she partners up with Wolfram and Hart , Angel's life is in danger.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/seFKbe3X6eIuw3rKqWE5iFblH7M.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

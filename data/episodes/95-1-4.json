@@ -1,0 +1,56 @@
+{
+  "air_date": "1997-03-24", 
+  "crew": [
+    {
+      "credit_id": "52599e2119c295731c08a6b9", 
+      "department": "Directing", 
+      "id": 1214718, 
+      "job": "Director", 
+      "name": "Bruce Seth Green", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fdf", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a617", 
+      "id": 8188, 
+      "name": "Jean Speegle Howard", 
+      "order": 0, 
+      "profile_path": "/6GxAKydN0p77XI0ixTAJeWFPiRR.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2119c295731c08a665", 
+      "id": 1475, 
+      "name": "Musetta Vander", 
+      "order": 1, 
+      "profile_path": "/RkVTWISYMxuFihaj9O7RJDq5Pt.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949416, 
+  "name": "Teacher's Pet", 
+  "overview": "When Xander and most of the male population of Sunnydale High fall for the substitute science teacher Miss French, Buffy tries to warn him that she may not be what she seems when she sees the well-proportioned female specimen scare off a vampire.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/cfyz8TYCOo3tdNHQWfkASda4m38.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

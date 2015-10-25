@@ -1,0 +1,72 @@
+{
+  "air_date": "1999-02-16", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2d19c295731c08c126", 
+      "department": "Directing", 
+      "id": 1231299, 
+      "job": "Director", 
+      "name": "Michael Gershman", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 15, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce23", 
+      "id": 35518, 
+      "name": "Harry Groener", 
+      "order": 1, 
+      "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4d6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 4, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d54e", 
+      "id": 29795, 
+      "name": "Jack Plotnick", 
+      "order": 6, 
+      "profile_path": "/oFGLmsfLkVwMtCocgKbnCPj0gYq.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949461, 
+  "name": "Consequences", 
+  "overview": "Buffy tries to face up to the consequences of her wild actions with Faith but Faith seems to think herself above the law. Buffy confides in Giles about the murder and he oversteps his bounds by not involving the new Watcher, Wesley.    Angel captures Faith and tries to connect with her but Wesley and the Watcher's Council intervene and take Faith to be transported to England. Faith escapes and prepares to leave Sunnydale on a cargo ship but Buffy finds her. Mr Trick and several vampires attack them and Faith saves Buffy from almost being bitten by Trick.   Buffy and the gang think that Faith can be saved but while they discuss it, she is offering her services to the Mayor.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/vC3posEbpHZyDtwd0ESr5zx7bh1.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

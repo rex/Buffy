@@ -1,0 +1,80 @@
+{
+  "air_date": "2000-11-14", 
+  "crew": [
+    {
+      "credit_id": "52573831760ee3668d006f4d", 
+      "department": "Directing", 
+      "id": 1224034, 
+      "job": "Director", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006bf7", 
+      "department": "Writing", 
+      "id": 1224034, 
+      "job": "Writer", 
+      "name": "Tim Minear", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 7, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383c760ee3668d0079bf", 
+      "id": 55194, 
+      "name": "Mark Metcalf", 
+      "order": 1, 
+      "profile_path": "/qjxCggGQH99OkXjDxm33QPIJZcl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383c760ee3668d0079e7", 
+      "id": 47297, 
+      "name": "James Marsters", 
+      "order": 3, 
+      "profile_path": "/asmCNHg9nUC2Yv1d7LMQrQ5Adul.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b6d", 
+      "id": 36221, 
+      "name": "Sam Anderson", 
+      "order": 3, 
+      "profile_path": "/2zcmQEBeArztSQJ317nZCHwCVtF.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b8f", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 4, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }
+  ], 
+  "id": 182953, 
+  "name": "Darla", 
+  "overview": "Lindsey finds himself drawn to Darla as her mental state deteriorates.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/h4wNanpg4HQh2sSZrSr4RSDnxXv.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

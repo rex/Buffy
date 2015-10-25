@@ -1,0 +1,112 @@
+{
+  "air_date": "2003-03-25", 
+  "crew": [
+    {
+      "credit_id": "52599e5219c295731c090b6e", 
+      "department": "Directing", 
+      "id": 1213069, 
+      "job": "Director", 
+      "name": "David Fury", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253386e19c2957940053f5f", 
+      "department": "Writing", 
+      "id": 47506, 
+      "job": "Writer", 
+      "name": "Drew Goddard", 
+      "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+    }, 
+    {
+      "credit_id": "5253387019c2957940053f6b", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 17, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091d8c", 
+      "id": 642250, 
+      "name": "Iyari Limon", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5719c295731c09142f", 
+      "id": 21356, 
+      "name": "D.B. Woodside", 
+      "order": 1, 
+      "profile_path": "/deDzc1UEZsOvamdhvBPNbwrBSrM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5f19c295731c092174", 
+      "id": 73830, 
+      "name": "K. D. Aubert", 
+      "order": 2, 
+      "profile_path": "/4debwedmhJ5aQYerlg2uhuQcPXN.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6119c295731c0923d7", 
+      "id": 1213094, 
+      "name": "Caroline Lagerfelt", 
+      "order": 4, 
+      "profile_path": "/vSCDnlVfJvWWAgst4r02EiXF80r.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091f06", 
+      "id": 1213577, 
+      "name": "Indigo", 
+      "order": 5, 
+      "profile_path": "/oZT8eVQOJkmUkbLjzbGbyo5DWQw.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386d19c2957940053e55", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 7, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949551, 
+  "name": "Lies My Parents Told Me", 
+  "overview": "Giles returns with a device that will deactivate Spike's trigger. It takes him into his past and shows the close relationship with his mother, who used to sing 'Early One Morning' to him. After he was sired by Drusilla he tried to save his dying mother by vamping her, but she turned on him and he had to stake her, leaving an emotional wound that has never managed to heal.   When Buffy still refuses to believe Spike is a danger to them all, Robin asks Giles to help him get his revenge on Spike, leaving Buffy betrayed by the person she trusts the most.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/ODFEtFhhKAEWxn93abVzHujm2H.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

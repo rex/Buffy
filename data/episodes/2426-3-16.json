@@ -1,0 +1,96 @@
+{
+  "air_date": "2002-03-04", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257384d760ee3668d008d4d", 
+      "department": "Directing", 
+      "id": 102638, 
+      "job": "Director", 
+      "name": "Terrence O'Hara", 
+      "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+    }
+  ], 
+  "episode_number": 16, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009422", 
+      "id": 18657, 
+      "name": "Laurel Holloman", 
+      "order": 1, 
+      "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009074", 
+      "id": 21675, 
+      "name": "Jack Conley", 
+      "order": 3, 
+      "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385e760ee3668d00a604", 
+      "id": 30068, 
+      "name": "Jeff Denton", 
+      "order": 5, 
+      "profile_path": "/v3XXcZT7frqOfkijywkB2y3SG4V.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385e760ee3668d00a626", 
+      "id": 74508, 
+      "name": "Bryan Friday", 
+      "order": 6, 
+      "profile_path": "/fMxTFCvOKQGMrEUu6paE42mLBnF.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385e760ee3668d00a648", 
+      "id": 93348, 
+      "name": "J. Scott Shonka", 
+      "order": 7, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183064, 
+  "name": "Sleep Tight", 
+  "overview": "To save Connor's life, Wes takes him away from Angel; Angel uncovers Lilah's plot to have him kill Connor, Holtz finally attacks.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/A42cMKxeovbauYS4nk0pPG3Mvap.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

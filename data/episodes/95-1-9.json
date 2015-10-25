@@ -1,0 +1,64 @@
+{
+  "air_date": "1997-05-05", 
+  "crew": [
+    {
+      "credit_id": "5253387419c2957940054001", 
+      "department": "Writing", 
+      "id": 1212428, 
+      "job": "Writer", 
+      "name": "Dean Batali", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387419c295794005400b", 
+      "department": "Writing", 
+      "id": 1212432, 
+      "job": "Writer", 
+      "name": "Rob Des Hotel", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2319c295731c08aa7c", 
+      "department": "Directing", 
+      "id": 1213615, 
+      "job": "Director", 
+      "name": "Ellen S. Pressman", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 9, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08a9ee", 
+      "id": 1232176, 
+      "name": "Krissy Carlson", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2319c295731c08aa42", 
+      "id": 29446, 
+      "name": "Armin Shimerman", 
+      "order": 2, 
+      "profile_path": "/9THIxwTKPI5MrPPmLmwzU1CpQkl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949420, 
+  "name": "The Puppet Show", 
+  "overview": "The new principal forces Giles to run Sunnydale High's annual talent show and Buffy, Willow and Xander have to perform against their will. Things get worse as the talent show proves to be a deadly place when one of the participants is found with her heart removed and the clues all point to one boy and his ventriloquist puppet.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/xnk4UPwoLpyrlZKy32GKtxsLsrF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,72 @@
+{
+  "air_date": "1999-03-16", 
+  "crew": [
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 17, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3819c295731c08d75d", 
+      "id": 79492, 
+      "name": "Michael Manasseri", 
+      "order": 0, 
+      "profile_path": "/h8SlPbZ3rAKjLjJh1WPAWzdRz6c.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce23", 
+      "id": 35518, 
+      "name": "Harry Groener", 
+      "order": 1, 
+      "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3719c295731c08d4d6", 
+      "id": 1214673, 
+      "name": "Alexis Denisof", 
+      "order": 4, 
+      "profile_path": "/hAcTJxSbSPHLfa59D8mnJOzxpmE.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949463, 
+  "name": "Enemies", 
+  "overview": "Faith's new alliance with the Mayor goes as far as them conspiring to rob Angel of his soul. Faith tries to seduce him but he is thinking Buffy Summers in a big, one-track way. When the old-fashioned way doesn't work, the Mayor summons a powerful sorcerer who does the job for them.   Faith and Angelus team up and capture Buffy but while they are preparing to torture her, Faith lets loose some details about the Mayor and his upcoming Ascension; at which point Angelus reveals that his being evil was all an act for them to get information. Faith escapes after she and Buffy battle and Buffy tells Angel that she needs some time alone after having to watch him and Faith kiss.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/ivtG8SnWBbirKOsMa5XGfee4CQ3.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

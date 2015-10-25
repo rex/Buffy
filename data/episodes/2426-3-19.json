@@ -1,0 +1,72 @@
+{
+  "air_date": "2002-04-29", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008a83", 
+      "department": "Directing", 
+      "id": 1215026, 
+      "job": "Director", 
+      "name": "Marita Grabiak", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d00797c", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 19, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009030", 
+      "id": 52646, 
+      "name": "Vincent Kartheiser", 
+      "order": 1, 
+      "profile_path": "/zgSvuYVE59Ry9Q2qIXM7XAe8R03.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006d83", 
+      "id": 55568, 
+      "name": "Mark Lutz", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006cb6", 
+      "id": 18307, 
+      "name": "Daniel Dae Kim", 
+      "order": 3, 
+      "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183066, 
+  "name": "The Price", 
+  "overview": "Angel's hotel is infested with demonic slugscreated by the spell he used to alter Sahjhan.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/a5ZLxayA5dgWSh8TP3tHGOuVpDT.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

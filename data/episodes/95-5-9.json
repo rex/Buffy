@@ -1,0 +1,80 @@
+{
+  "air_date": "2000-11-28", 
+  "crew": [
+    {
+      "credit_id": "52599e4519c295731c08f32a", 
+      "department": "Writing", 
+      "id": 1231186, 
+      "job": "Writer", 
+      "name": "Rebecca Rand Kirshner", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 9, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4819c295731c08f72d", 
+      "id": 19753, 
+      "name": "Debbie Lee Carrington", 
+      "order": 0, 
+      "profile_path": "/xMynWwkjNbBJsiPdjs8aJ977oBq.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4719c295731c08f656", 
+      "id": 149670, 
+      "name": "Kevin Weisman", 
+      "order": 0, 
+      "profile_path": "/dISGU7Xf0O25wbRn2tGtg7XoJyp.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4819c295731c08f77f", 
+      "id": 18461, 
+      "name": "Nick Chinlund", 
+      "order": 1, 
+      "profile_path": "/7x7DFGRV3Z8RAfTiMsMvU1vOtdP.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }, 
+    {
+      "character": "Ben", 
+      "credit_id": "55110ce49251412a88000167", 
+      "id": 147404, 
+      "name": "Charlie Weber", 
+      "order": 226, 
+      "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+    }
+  ], 
+  "id": 949499, 
+  "name": "Listening to Fear", 
+  "overview": "The Summers women are at the hospital when the doctor informs Joyce she'll have surgery in two days. The rest of the gang go vampire slaying. Willow and Tara are camping out on the roof of a building watching the stars when a large object crashes down in Sunnydale. A mental patient who has been released from the hospital is walking through the forest when a creature attacks him. At the hospital, the creature climbs along the ceiling, undetected. Buffy and Joyce talk the doctor into letting Joyce go home until her operation. The gang finds the location of the crash and the dead body of the released hospital patient. While everyone else goes to find help, Riley calls Graham. He later advises the military officers who answer the call on how to deal with the situation.\n\nAt the hospital, the mental patients are attacked by the demon. Buffy's mom continues to act strangely and say things she doesn't remember. Dawn is hurt when Joyce calls her a \"thing,\" but Buffy comforts her and tells her to", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/ud4uNezP4hyCvYh0LCr9lc9P8gE.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

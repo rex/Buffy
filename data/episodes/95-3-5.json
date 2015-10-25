@@ -1,0 +1,72 @@
+{
+  "air_date": "1998-11-03", 
+  "crew": [
+    {
+      "credit_id": "5253387219c2957940053fdf", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2819c295731c08b39a", 
+      "department": "Directing", 
+      "id": 87590, 
+      "job": "Director", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 5, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e2b19c295731c08ba93", 
+      "id": 44205, 
+      "name": "Jeremy Ratchford", 
+      "order": 0, 
+      "profile_path": "/xaRo0XqN8oTlQFufgvPJRWWTj3x.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08cc51", 
+      "id": 75946, 
+      "name": "Fab Filippo", 
+      "order": 0, 
+      "profile_path": "/34Wj12QrzinSnwe0Wjq1XiPGvre.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce23", 
+      "id": 35518, 
+      "name": "Harry Groener", 
+      "order": 1, 
+      "profile_path": "/y9Z0ZIbFDwe7V7PQEMeCyTld3zM.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3319c295731c08ce6d", 
+      "id": 11764, 
+      "name": "Ian Abercrombie", 
+      "order": 2, 
+      "profile_path": "/qci9vBTZJXQNLIFpCtIpXU881g8.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }
+  ], 
+  "id": 949451, 
+  "name": "Homecoming", 
+  "overview": "When Cordelia flaunts her sure win for Homecoming Queen it awakens the prom queen within Buffy and they become rivals for the title. Meanwhile the new vampire in town, Mr. Trick, rallies a group of tough vampires, demons and mercenaries together to set up a surprise for the two slayers.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/h4SyuE5S0POuTljblXDfJc0cGKu.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,48 @@
+{
+  "air_date": "2002-11-10", 
+  "crew": [
+    {
+      "credit_id": "52573831760ee3668d006f6f", 
+      "department": "Directing", 
+      "id": 12891, 
+      "job": "Director", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }, 
+    {
+      "credit_id": "52573833760ee3668d0071c1", 
+      "department": "Writing", 
+      "id": 12891, 
+      "job": "Writer", 
+      "name": "Joss Whedon", 
+      "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+    }
+  ], 
+  "episode_number": 6, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009517", 
+      "id": 19898, 
+      "name": "Vladimir Kulich", 
+      "order": 3, 
+      "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183019, 
+  "name": "Spin the Bottle", 
+  "overview": "Lorne's spell to restore Cordelia's memory backfires and convinces everyone they're high school students who have been gathered to kill a vampire: Angel.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/zHiKaEOm0KRuAzsFqqjTth6KkfW.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

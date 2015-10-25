@@ -1,0 +1,120 @@
+{
+  "air_date": "2001-12-10", 
+  "crew": [
+    {
+      "credit_id": "5257385c760ee3668d00a348", 
+      "department": "Writing", 
+      "id": 1226598, 
+      "job": "Writer", 
+      "name": "David H. Goodman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257385c760ee3668d00a36a", 
+      "department": "Writing", 
+      "id": 96342, 
+      "job": "Writer", 
+      "name": "David A. Goodman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006d23", 
+      "department": "Directing", 
+      "id": 1223968, 
+      "job": "Director", 
+      "name": "Frederick King Keller", 
+      "profile_path": "/5frIHmIElwmWcOnqRRhAhkpPlW3.jpg"
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009d81", 
+      "id": 87957, 
+      "name": "Keith Szarabajka", 
+      "order": 0, 
+      "profile_path": "/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009422", 
+      "id": 18657, 
+      "name": "Laurel Holloman", 
+      "order": 1, 
+      "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573852760ee3668d009444", 
+      "id": 44261, 
+      "name": "John Rubinstein", 
+      "order": 2, 
+      "profile_path": "/jyHEmKDxlCCxWnsM8hPoCpj0Bn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006cb6", 
+      "id": 18307, 
+      "name": "Daniel Dae Kim", 
+      "order": 3, 
+      "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d009074", 
+      "id": 21675, 
+      "name": "Jack Conley", 
+      "order": 3, 
+      "profile_path": "/yVBZWNakcgP2sUbNh1UGQNEAZ72.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a2da", 
+      "id": 159396, 
+      "name": "Stephanie Courtney", 
+      "order": 6, 
+      "profile_path": "/r5pxOlIdCMJArRsRluIrQFM12nW.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a2fc", 
+      "id": 11768, 
+      "name": "Patricia Tallman", 
+      "order": 7, 
+      "profile_path": "/jl8F0Nv4dQJqg1014baS5eiHWaR.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385c760ee3668d00a324", 
+      "id": 1213582, 
+      "name": "Kira Tirimacco", 
+      "order": 9, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183057, 
+  "name": "Dad", 
+  "overview": "Angel tries to keep his son safe from the many demons, vampires and humans who would like to harm the baby; Holtz joins forces with another vampire slayer.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/pcoGX86EdRKtgCVnpCMi8B66JPW.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

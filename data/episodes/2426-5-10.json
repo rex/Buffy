@@ -1,0 +1,64 @@
+{
+  "air_date": "2004-01-21", 
+  "crew": [
+    {
+      "credit_id": "5257384f760ee3668d008e82", 
+      "department": "Writing", 
+      "id": 1231387, 
+      "job": "Writer", 
+      "name": "Brent Fletcher", 
+      "profile_path": "/wf9HlIrEbtSOlenL1bGMJXaqQUk.jpg"
+    }, 
+    {
+      "credit_id": "5257384f760ee3668d008ea6", 
+      "department": "Directing", 
+      "id": 25934, 
+      "job": "Director", 
+      "name": "David Boreanaz", 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }, 
+    {
+      "credit_id": "5257384c760ee3668d008a3d", 
+      "department": "Writing", 
+      "id": 1231386, 
+      "job": "Writer", 
+      "name": "Mutant Enemy Productions", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d00794c", 
+      "id": 123149, 
+      "name": "Mercedes McNab", 
+      "order": 0, 
+      "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573847760ee3668d0086f1", 
+      "id": 43427, 
+      "name": "Sarah Thompson", 
+      "order": 2, 
+      "profile_path": "/9a8VdWJTKdWGS0a95Rhj2F3qanx.jpg"
+    }
+  ], 
+  "id": 183001, 
+  "name": "Soul Purpose", 
+  "overview": "When Spike is talked into taking up the good-deeds business, Eve lets loose a soul sucking parasite on Angel, who then suffers disturbing feverish hallucinations as he sleeps.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/1BAo32JmNu8A3Lk0tVEZmJXEet4.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

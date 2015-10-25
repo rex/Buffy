@@ -1,0 +1,72 @@
+{
+  "air_date": "2000-02-15", 
+  "crew": [
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52599e2a19c295731c08b882", 
+      "department": "Directing", 
+      "id": 1222761, 
+      "job": "Director", 
+      "name": "David Solomon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 14, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e16f", 
+      "id": 104195, 
+      "name": "Bailey Chase", 
+      "order": 2, 
+      "profile_path": "/1Lmy7WGlthUPwjUDbj1ODTdWUZA.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e1a5", 
+      "id": 83859, 
+      "name": "Leonard Roberts", 
+      "order": 3, 
+      "profile_path": "/stLgqI31p8ULs3lDZg57KWpYL68.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b7d0", 
+      "id": 56691, 
+      "name": "Saverio Guerra", 
+      "order": 5, 
+      "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+    }
+  ], 
+  "id": 949481, 
+  "name": "Goodbye Iowa", 
+  "overview": "Buffy and Riley get mutually suspicious of each other when Buffy reveals that Professor Walsh tried to have her killed. When Professor Walsh is found dead things get even more out of hand, with the commandos quick to blame Buffy. Riley is even more agitated when he sees Buffy with Spike (hostile 17) and then again at Willy's Place. Riley progressively gets sicker and we learn that the commandos have been taking medication to increase their strength.    Meanwhile the man-demon-machine Adam that Professor Walsh created is roaming Sunnydale and even Buffy can't seem to stop him.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/ueiOTfXUzgMZeoITMs6R3ngiTuN.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

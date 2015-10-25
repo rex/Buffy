@@ -1,0 +1,1530 @@
+{
+  "air_date": "2000-09-26", 
+  "episodes": [
+    {
+      "air_date": "2000-09-26", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 1, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4419c295731c08f0bd", 
+          "id": 25848, 
+          "name": "Rudolf Martin", 
+          "order": 3, 
+          "profile_path": "/4dnohkcSh06YhtvUf3NT4DBtgs9.jpg"
+        }
+      ], 
+      "id": 949491, 
+      "name": "Buffy vs. Dracula", 
+      "overview": "Giles tells Willow that he's planning to move back to England since he's feeling less then vital to the work in Sunnydale. Meanwhile on patrol, Buffy runs into a vampire who claims to be Dracula. Dracula turns out to have powers above and beyond the vampire norm such as the ability to turn into a mist and then re-appear, and the ability to turn into a bat.   The gang sets about researching Dracula. Dracula visits Buffy during the night and drinks some of her blood but leaves her alive and under his seductive spell. Xander runs into Dracula and also falls under his power and brings Buffy to him. Dracula claims Buffy's power derives from evil and invites her to feed on him. She does but overcomes his mind control. She is able to slay him as he re-appears from a mist but he keeps re-appearing and Buffy keeps slaying. Eventually he gives up.   Buffy tells Giles of Dracula's comments about her power deriving from evil and her own feelings of hunting vampires rather than slaying as a duty. G", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/ypCxjsrGxcAZwyOXM5iAJuM4rDb.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-10-03", 
+      "crew": [
+        {
+          "credit_id": "52599e3819c295731c08d7e9", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 2, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4419c295731c08f106", 
+          "id": 1229447, 
+          "name": "Faith Abrahams", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4419c295731c08f130", 
+          "id": 149660, 
+          "name": "Bob Morrisey", 
+          "order": 1, 
+          "profile_path": "/4hHQkGkKJxYuuVNG01JkGIoOD2v.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949492, 
+      "name": "Real Me", 
+      "overview": "Buffy's little sister puts forward her view on the slayer and her friends and feels nothing but contempt for all of them apart from Xander. Dawn feels in the way when Buffy complains about having to take her school shopping when she is supposed to be training with Giles. While on patrol, Buffy leaves Dawn with a babysitter, Xander and Anya, but she accidentally invites Harmony into the house which Buffy does not respond to kindly. Harmony kidnaps Dawn to draw Buffy into a trap and Buffy is obliged to save her sister, as usual.   Meanwhile, Giles takes up tenancy in the recently vacated magic shop in order for him to slip back into the role of Watcher.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/g3CRQx4yZ91uk2wr33A2VzTQR4e.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-10-10", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }, 
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 3, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4519c295731c08f1d7", 
+          "id": 1234334, 
+          "name": "Kelly Donovan", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4519c295731c08f22b", 
+          "id": 37008, 
+          "name": "Michael Bailey Smith", 
+          "order": 2, 
+          "profile_path": "/8viurb658U8a4ep5G1xdpUG8fxr.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949493, 
+      "name": "The Replacement", 
+      "overview": "Are two Xanders really better than one? We find out when a demon searching for the Slayer accidentally hits Xander with his weapon, splitting him in two; one with all the positive aspects of his personality, the other with all the negative. While each of them try to convince the Scooby Gang that the other is a demon, Buffy must find the real demon to put the Xanders back together.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/vlE0Um0AwNxFgGivyCPuFGPCnSC.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-10-17", 
+      "crew": [
+        {
+          "credit_id": "52599e3819c295731c08d7e9", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "52599e4519c295731c08f32a", 
+          "department": "Writing", 
+          "id": 1231186, 
+          "job": "Writer", 
+          "name": "Rebecca Rand Kirshner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 4, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4519c295731c08f296", 
+          "id": 85421, 
+          "name": "Time Winters", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3d19c295731c08e16f", 
+          "id": 104195, 
+          "name": "Bailey Chase", 
+          "order": 2, 
+          "profile_path": "/1Lmy7WGlthUPwjUDbj1ODTdWUZA.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949494, 
+      "name": "Out of My Mind", 
+      "overview": "Riley is in bad shape due to the drugs pumped into him by Prof. Walsh from the Initiative. A special government doctor needs to operate on Riley before his body can no longer support his heart rate of 150. Riley, however, is doing everything he can to avoid the medical treatment. It may be because he is scared of what the doctor may do to him, or he may just not want to be a normal man again. It's up to Buffy to get Riley to the operating room on time, which of course she does, but someone else gets in the way. Spike's plan is to force the doctor to remove the chip from his brain, therefore freeing him for slayer killing.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/5eXpPepmuzTvQ7IA1p5b7BmbLml.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-10-24", 
+      "crew": [
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 5, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949495, 
+      "name": "No Place Like Home", 
+      "overview": "Buffy's mother continues to be sick and the doctors can't figure out why. Buffy finds a strange orb while on patrol and later the security guard who pointed it out to her shows up in the hospital apparently crazy. Buffy suspects that there's a supernatural reason behind her mother's illness and goes into a spell-induced trance provided by Willow which reveals Dawn fading in and out of reality.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/6bx27fkKlzYgRY7GDQm8oRh7MiD.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-11-07", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 6, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f41a", 
+          "id": 9273, 
+          "name": "Amy Adams", 
+          "order": 0, 
+          "profile_path": "/tk5eWJcOBr9uRefeUm9ntvehbLA.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f44a", 
+          "id": 116278, 
+          "name": "Brian Tee", 
+          "order": 1, 
+          "profile_path": "/rKo9U4Swi0t4IqUKOU0bhl5BuiZ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f474", 
+          "id": 1235239, 
+          "name": "Teddy Pendergrass", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949496, 
+      "name": "Family", 
+      "overview": "Tara's about to celebrate her 20th birthday. Her family arrives but not to celebrate the occasion. They've come to take her home before she turns into an evil demon just like her mother did at the same age. When Glory sends some Lei-Ach demons to take care of the Slayer, Tara inadvertently helps the demons toward their goal by casting a spell to keep her friends from seeing the demon inside her. When the gang have a fight the resulting group of invisible demons, Tara lifts the spell to help them and they find out her secret. Willow tries to stop her from leaving with her family, but Tara is convinced of what her father says about her. Spike ends the argument by punching Tara in the face and then flinching from the pain, proving that she is a human.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/p4fteSFXUE0zjZEniiJnaeFViDf.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-11-14", 
+      "crew": [
+        {
+          "credit_id": "52599e4419c295731c08efd8", 
+          "department": "Directing", 
+          "id": 1214210, 
+          "job": "Director", 
+          "name": "Nick Marck", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 7, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4719c295731c08f589", 
+          "id": 1081433, 
+          "name": "Christopher Daniels", 
+          "order": 0, 
+          "profile_path": "/3J73a3ZPzGj4cNrtTNse4NI55po.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a188", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 9, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386e19c2957940053f3f", 
+          "id": 25934, 
+          "name": "David Boreanaz", 
+          "order": 15, 
+          "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+        }
+      ], 
+      "id": 949497, 
+      "name": "Fool for Love", 
+      "overview": "When a vampire impales Buffy with her own stake, she wants to find out how her predecessors have lost in battle. Because of Giles' lack of info on the final battles of previous Slayers she turns to the only person she knows who has killed two: Spike. In exchange for cash, he not only details why his victims lost their battles, but his personal history as a vampire. Meanwhile, Joyce's condition worsens and she has to spend the night at the hospital.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/hH257AnxGjVljFtERGauxOaO7Cz.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-11-21", 
+      "crew": [
+        {
+          "credit_id": "52599e4719c295731c08f6ea", 
+          "department": "Directing", 
+          "id": 1223735, 
+          "job": "Director", 
+          "name": "Daniel Attias", 
+          "profile_path": "/nfJz25IjcMZ971lsBDZb17la4Qc.jpg"
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 8, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4719c295731c08f656", 
+          "id": 149670, 
+          "name": "Kevin Weisman", 
+          "order": 0, 
+          "profile_path": "/dISGU7Xf0O25wbRn2tGtg7XoJyp.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949498, 
+      "name": "Shadow", 
+      "overview": "Riley is looking for Buffy at her house, but all he finds is Spike in her room smelling her sweater. Spike informs Riley of Buffy's mom's illness and rubs it in his face that Buffy told the vampire about it before her own boyfriend. Riley goes to the hospital, and Buffy gives him plenty to do, like taking care of Dawn and patrolling, but what Riley really wants is to take care of Buffy. He ends up taking Dawn to an amusement park where they talk about a few things. Despite her good intentions, Dawn makes Riley feel like he's not good enough for Buffy and that he can't compare to Angel. Later on in the episode he feels even further away from being close to Buffy, and he goes and gets himself bitten by a vamp whore.    Meanwhile, at the magic shop Giles accidentally sells two very bad, powerful ingredients for a spell to a \"young woman,\" who turns out to be the all powerful lady who creamed Buffy the last time they fought. Buffy tries to stop her again, but she's no match for the lady in", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/3kWSjMb86SNqztlIs82d5jbWVpj.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-11-28", 
+      "crew": [
+        {
+          "credit_id": "52599e4519c295731c08f32a", 
+          "department": "Writing", 
+          "id": 1231186, 
+          "job": "Writer", 
+          "name": "Rebecca Rand Kirshner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 9, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4819c295731c08f72d", 
+          "id": 19753, 
+          "name": "Debbie Lee Carrington", 
+          "order": 0, 
+          "profile_path": "/xMynWwkjNbBJsiPdjs8aJ977oBq.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4719c295731c08f656", 
+          "id": 149670, 
+          "name": "Kevin Weisman", 
+          "order": 0, 
+          "profile_path": "/dISGU7Xf0O25wbRn2tGtg7XoJyp.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4819c295731c08f77f", 
+          "id": 18461, 
+          "name": "Nick Chinlund", 
+          "order": 1, 
+          "profile_path": "/7x7DFGRV3Z8RAfTiMsMvU1vOtdP.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949499, 
+      "name": "Listening to Fear", 
+      "overview": "The Summers women are at the hospital when the doctor informs Joyce she'll have surgery in two days. The rest of the gang go vampire slaying. Willow and Tara are camping out on the roof of a building watching the stars when a large object crashes down in Sunnydale. A mental patient who has been released from the hospital is walking through the forest when a creature attacks him. At the hospital, the creature climbs along the ceiling, undetected. Buffy and Joyce talk the doctor into letting Joyce go home until her operation. The gang finds the location of the crash and the dead body of the released hospital patient. While everyone else goes to find help, Riley calls Graham. He later advises the military officers who answer the call on how to deal with the situation.\n\nAt the hospital, the mental patients are attacked by the demon. Buffy's mom continues to act strangely and say things she doesn't remember. Dawn is hurt when Joyce calls her a \"thing,\" but Buffy comforts her and tells her to", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/ud4uNezP4hyCvYh0LCr9lc9P8gE.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2000-12-19", 
+      "crew": [
+        {
+          "credit_id": "52599e4819c295731c08f862", 
+          "department": "Directing", 
+          "id": 1213070, 
+          "job": "Director", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 10, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4819c295731c08f77f", 
+          "id": 18461, 
+          "name": "Nick Chinlund", 
+          "order": 1, 
+          "profile_path": "/7x7DFGRV3Z8RAfTiMsMvU1vOtdP.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3d19c295731c08e16f", 
+          "id": 104195, 
+          "name": "Bailey Chase", 
+          "order": 2, 
+          "profile_path": "/1Lmy7WGlthUPwjUDbj1ODTdWUZA.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949500, 
+      "name": "Into the Woods", 
+      "overview": "At the hospital, the Scooby Gang awaits news from the doctor about Joyce's surgery and they are all relieved when the surgery is a success. Dawn spends the night with Xander and Anya. With the house to themselves, Buffy and Riley spend a romantic evening together. In the middle of the night, Riley sneaks out through the window and Spike follows him into an old building.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/8uA3YDBNrnlniSRYuT702cJEDLx.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-01-09", 
+      "crew": [
+        {
+          "credit_id": "52599e4919c295731c08f939", 
+          "department": "Directing", 
+          "id": 101771, 
+          "job": "Director", 
+          "name": "Christopher Hibler", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }
+      ], 
+      "episode_number": 11, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4819c295731c08f8b7", 
+          "id": 21132, 
+          "name": "Abraham Benrubi", 
+          "order": 0, 
+          "profile_path": "/yfW6bAm2jTtt80guxhyNbaaUSV3.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949501, 
+      "name": "Triangle", 
+      "overview": "Giles goes off to England to talk to the council about Glory. Meanwhile, Anya and the gang tend to the magic shop. While attempting a new spell to assist Buffy with her slaying, Willow is distracted by her and Anya's constant bickering and accidentally conjures a troll. Actually Anya turned the guy into a troll 1000 years ago when he dumped her and she was then offered the chance to become a vengeance demon. The big, dumb guy goes around smashing things with his hammer until the gang is able to stop him and send him off to troll land.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/hpSpIOsXIG1lMTcVkrgXqWcrEty.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-01-23", 
+      "crew": [
+        {
+          "credit_id": "52599e4419c295731c08efd8", 
+          "department": "Directing", 
+          "id": 1214210, 
+          "job": "Director", 
+          "name": "Nick Marck", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }
+      ], 
+      "episode_number": 12, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4719c295731c08f656", 
+          "id": 149670, 
+          "name": "Kevin Weisman", 
+          "order": 0, 
+          "profile_path": "/dISGU7Xf0O25wbRn2tGtg7XoJyp.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d2d6", 
+          "id": 1166, 
+          "name": "Harris Yulin", 
+          "order": 2, 
+          "profile_path": "/MCW4IR3mEB6oeRbX9bfeHkZ3qm.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949502, 
+      "name": "Checkpoint", 
+      "overview": "A team from the Watchers Council show up in Sunnydale with some info on who or what Glory is. Before they allow Buffy the details however, they want her to pass a series of psychological and physical tests. They even interview her very nervous gang of friends.   Glory shows up at Buffy's house and has a chat with her about the Key and Buffy freaks and takes Dawn and Joyce to Spike so that he can protect them. After being attacked by a group of human Knights who claim they will send an army to defeat her if she continues to protect the Key, Buffy decides she's had enough and the Watchers will have to play her way.   Buffy lays down the law and the Watchers agree and reveal to her what Glory is. Not a demon but a god.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/ex2QBnTXs1NdMdJ2wPpn3Pu9lPg.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-02-06", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c126", 
+          "department": "Directing", 
+          "id": 1231299, 
+          "job": "Director", 
+          "name": "Michael Gershman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387519c2957940054017", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 13, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949503, 
+      "name": "Blood Ties", 
+      "overview": "Buffy finally tells her friends about Dawn being the Key and they start acting weird around Dawn, which leads to her seeking answers. She knows that crazy people know what she is, so she goes to the mental ward at the hospital. While she's there, she runs into Ben. Ben freaks when she tells him she is the key and tells her to run away fast, but before she gets a chance to get away from him, he turns into Glory.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/cDyal36aS17sx8uYYZX8BHMnanX.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-02-13", 
+      "crew": [
+        {
+          "credit_id": "52599e4719c295731c08f6ea", 
+          "department": "Directing", 
+          "id": 1223735, 
+          "job": "Director", 
+          "name": "Daniel Attias", 
+          "profile_path": "/nfJz25IjcMZ971lsBDZb17la4Qc.jpg"
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 14, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2d19c295731c08c05e", 
+          "id": 123149, 
+          "name": "Mercedes McNab", 
+          "order": 5, 
+          "profile_path": "/6lZx80GFjfkBbjeKEZoe1261uNs.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386d19c2957940053e55", 
+          "id": 7137, 
+          "name": "Juliet Landau", 
+          "order": 7, 
+          "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949504, 
+      "name": "Crush", 
+      "overview": "Buffy notices that Dawn is spending a lot of time around Spike and surmises that she has a crush on him, which Dawn shoots down saying that Spike has a crush on Buffy. Meanwhile a vampire has attacked the passengers on a train and Buffy is finding it hard to concentrate on investigating with the thought that Spike is in love with her.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/cogyy4mhP25JoiyasM3AmLMbiAJ.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-02-20", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }, 
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 15, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fbeb", 
+          "id": 1212441, 
+          "name": "Shonda Farr", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949505, 
+      "name": "I Was Made to Love You", 
+      "overview": "Buffy is very upset about Spike falling in love with her instead of a nice, good boy that she could date. Spike shows up at the same party as Buffy, and he gets thrown out a window by a strange girl who has been wandering around looking for a guy named Warren.    The whole slaying team agree that the girl is a robot because of the way she acts. Buffy pays a visit to the girl's supposed boyfriend, Warren and finds out that Warren made the girl, April, to be the perfect girlfriend. April thinks only of Warren and devotes her entire existence to making him happy. The only problem is that Warren doesn't want her anymore, he has fallen for a real girl and has been running away from the robot.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/ygFmP9bZVxbKJL4we7Et0EXChwI.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-02-27", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 16, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fc44", 
+          "id": 69924, 
+          "name": "J. Evan Bonifant", 
+          "order": 0, 
+          "profile_path": "/ua6kxblfEKBmBmREZNmWfreeZFq.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fc8e", 
+          "id": 17442, 
+          "name": "Kelli Garner", 
+          "order": 1, 
+          "profile_path": "/nD3ATI8v1F0eyoHFlI3HQXcKqLo.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949506, 
+      "name": "The Body", 
+      "overview": "After finding Joyce unconscious on the couch, a terrified slayer calls 911. Unfortunately, it's too late to do anything. The paramedics tell Buffy that her mom had been dead for a while already. We see Dawn at school for the first time, and she's just getting over the freakout she had after finding out she was the key. Rumors were spread and Dawn was hurt by them, but she feels better after talking about it with a nice boy in her art class. Buffy interrupts this conversation though to tell her sister the bad news. Everyone is devastated by this tragedy and they spend the episode grieving, and dealing with their pain in all sorts of ways. Xander punches through a wall while Willow changes her outfit continuously. They are obviously very shaken up, especially since they were all so close with Buffy and her family. Even Anya sheds her first human tears.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/7Yr1ajMjtAyjLSaMV1XluKhGjxe.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-04-17", 
+      "crew": [
+        {
+          "credit_id": "52599e4819c295731c08f862", 
+          "department": "Directing", 
+          "id": 1213070, 
+          "job": "Director", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 17, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4b19c295731c08fdb2", 
+          "id": 6748, 
+          "name": "Joel Grey", 
+          "order": 0, 
+          "profile_path": "/yCLwC64GVp96bNi7eTPT0VPmjON.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386e19c2957940053f3f", 
+          "id": 25934, 
+          "name": "David Boreanaz", 
+          "order": 15, 
+          "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949507, 
+      "name": "Forever", 
+      "overview": "After dealing with the pain of Joyce's funeral, Buffy falls into the arms of Angel who has come from LA to pay his respects, and he consoles her on the future and about getting her and Dawn's lives back together. Dawn becomes fixated on using witchcraft to resurrect her mother and despite her best intentions, Willow actually helps her toward her goal. Dawn gathers information for a powerful spell and enlists Spike to help her complete the task. He takes her to a witch doctor who gives Dawn some advice and warning.   After collecting the final ingredient Dawn performs the spell. Willow warns Buffy about Dawn and she confronts her. Dawn cries that she has no one, Buffy has been pushing her away since Joyce died and hasn't even cried yet. Buffy tells her that when everything is over her mother will be truly gone, and she can't face that. Someone approaches the door and knocks and Buffy rushes to let Joyce in, but Dawn, realising that she was wrong, breaks the spell. Buffy opens the door t", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/z7Ir004jlhDBD9N7bpCAJdLPVw0.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-04-24", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c126", 
+          "department": "Directing", 
+          "id": 1231299, 
+          "job": "Director", 
+          "name": "Michael Gershman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }
+      ], 
+      "episode_number": 18, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4519c295731c08f1d7", 
+          "id": 1234334, 
+          "name": "Kelly Donovan", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }
+      ], 
+      "id": 949508, 
+      "name": "Intervention", 
+      "overview": "Buffy and Giles leave for the desert on a self-discovery/guidance quest led by the First Slayer. While they are gone, Spike decides to have a little fun with his BuffyBot but the gang mistakes it for the real Buffy and think that she has gone crazy.   Meanwhile, Glory's minions also mistake the Buffybot for the Slayer and, noticing how it acts around Spike, begin to suspect that he is the Key.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/cFxqDF0vfq7sZkTCTEhvPE3tm0i.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-05-01", 
+      "crew": [
+        {
+          "credit_id": "52599e3819c295731c08d7e9", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "52599e4519c295731c08f32a", 
+          "department": "Writing", 
+          "id": 1231186, 
+          "job": "Writer", 
+          "name": "Rebecca Rand Kirshner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 19, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949509, 
+      "name": "Tough Love", 
+      "overview": "While Buffy tries to control a motherless Dawn and bring their lives back to some sort of normalcy, Tara is captured by Glory who is desperately trying to find the Key.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/iTDAyeQcueH64VhspnWx6aVd1Hk.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-05-08", 
+      "crew": [
+        {
+          "credit_id": "5253387519c2957940054017", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 20, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4c19c295731c08ff7b", 
+          "id": 51930, 
+          "name": "Wade Williams", 
+          "order": 0, 
+          "profile_path": "/wCH994G5kzIEhGqgdzfZNXrSRif.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4c19c295731c08fffd", 
+          "id": 1225364, 
+          "name": "Karim Prince", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949510, 
+      "name": "Spiral", 
+      "overview": "Buffy, Willow, Tara, and Dawn nearly escape from Glory when Glory's hit by a truck. Buffy and the Scoobies leave Sunnydale in Spike's RV to run from Glory, as Buffy realizes they'll never beat Glory.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/15tVlBrSp0NTsCBgeusJaiR0XXs.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-05-15", 
+      "crew": [
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 21, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4b19c295731c08fdb2", 
+          "id": 6748, 
+          "name": "Joel Grey", 
+          "order": 0, 
+          "profile_path": "/yCLwC64GVp96bNi7eTPT0VPmjON.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4419c295731c08f130", 
+          "id": 149660, 
+          "name": "Bob Morrisey", 
+          "order": 1, 
+          "profile_path": "/4hHQkGkKJxYuuVNG01JkGIoOD2v.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08aeee", 
+          "id": 149463, 
+          "name": "Dean Butler", 
+          "order": 3, 
+          "profile_path": "/iOdPV4ksc2hO3HmWx854Uq5gUVB.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949511, 
+      "name": "The Weight of the World", 
+      "overview": "The Slayer in Buffy is catatonic due to Glory's abduction of Dawn so Willow psychically enters her mind. Willow goes through a loophole in Buffy's mind and sees several replays of Buffy's childhood when she first sees her sister; and of Buffy as she is now smothering Dawn to death. Buffy's guilt over Dawn being kidnapped finally proved to her that she is no match for Glory and she believes she killed Dawn herself.    Meanwhile, Glory vents her frustrations about being stuck on Earth to Dawn and is beginning to feel real human emotions as the barrier separating her and Ben's psyches becomes weaker. She and Ben fight in a confusing switching back and forth argument as he tries to help Dawn. Eventually, Ben is the one to give Dawn away to Glory, knowing that it is his life or hers.    Spike, Xander and Giles are left to try to figure out how to undermine Glory's plans, but the options don't look good. Buffy may have to end up choosing between killing her own sister or letting the world be", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/5gFBs4OJt66ZgKhULqxXmMqe8gX.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-05-22", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 22, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4619c295731c08f383", 
+          "id": 17774, 
+          "name": "Clare Kramer", 
+          "order": 0, 
+          "profile_path": "/uy24uicG26Bu1Jk1qs0MEVouktj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4b19c295731c08fdb2", 
+          "id": 6748, 
+          "name": "Joel Grey", 
+          "order": 0, 
+          "profile_path": "/yCLwC64GVp96bNi7eTPT0VPmjON.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "Ben", 
+          "credit_id": "55110ce49251412a88000167", 
+          "id": 147404, 
+          "name": "Charlie Weber", 
+          "order": 226, 
+          "profile_path": "/iiBq6ciCuHJiy0So58iuhqrirBl.jpg"
+        }
+      ], 
+      "id": 949512, 
+      "name": "The Gift", 
+      "overview": "Another imminent apocalypse is at hand in Sunnydale. Buffy must square off against a true God when Glory prepares to use Dawn to break down the walls between the dimensions and unleash all Hell on Earth but she needs Dawn's blood before her home dimension portal can be opened. Buffy, Xander, Willow, Giles, Anya, Tara and Spike go to battle with the knowledge that they may not all survive.", 
+      "production_code": null, 
+      "season_number": 5, 
+      "still_path": "/4Jv7TVuk2ftFjyoCwMgkaJwQryA.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }
+  ], 
+  "id": 59469, 
+  "name": "Season 5", 
+  "overview": "The fifth season of the television series Buffy the Vampire Slayer premiered on September 26, 2000 on The WB Television Network and concluded its 22-episode season on May 22, 2001. It maintained its previous timeslot, airing Tuesdays at 8:00 pm ET. This was the final season to air on The WB before it moved to UPN; The WB billed the season five finale as the \"The WB series finale\".", 
+  "poster_path": "/w31ArgvaylbIW0exXXgbdCq2scm.jpg", 
+  "season_number": 5
+}

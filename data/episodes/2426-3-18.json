@@ -1,0 +1,80 @@
+{
+  "air_date": "2002-04-22", 
+  "crew": [
+    {
+      "credit_id": "5257385c760ee3668d00a348", 
+      "department": "Writing", 
+      "id": 1226598, 
+      "job": "Writer", 
+      "name": "David H. Goodman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257385c760ee3668d00a36a", 
+      "department": "Writing", 
+      "id": 96342, 
+      "job": "Writer", 
+      "name": "David A. Goodman", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573837760ee3668d007566", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257385f760ee3668d00a71e", 
+      "id": 52308, 
+      "name": "Jason Carter", 
+      "order": 2, 
+      "profile_path": "/ytMY52hZiaaL21wh9dkyabZwX1k.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385f760ee3668d00a740", 
+      "id": 117437, 
+      "name": "Patrick St. Esprit", 
+      "order": 3, 
+      "profile_path": "/bcbLFQUGDcgrlbJz0blywlfGutL.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006d83", 
+      "id": 55568, 
+      "name": "Mark Lutz", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257385f760ee3668d00a762", 
+      "id": 11915, 
+      "name": "Nigel Gibbs", 
+      "order": 4, 
+      "profile_path": "/6AE4p72zOtpR9Q385eiwrPwGPaj.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183067, 
+  "name": "Double or Nothing", 
+  "overview": "When a demon that Gunn once sold his soul to comes to collect on the debt, Angel, Fred and Cordelia help to save him.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/4miFBVO57l2z9rIpwFqKrdkjSuY.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

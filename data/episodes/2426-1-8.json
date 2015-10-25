@@ -1,0 +1,56 @@
+{
+  "air_date": "1999-11-23", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573837760ee3668d007566", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5257383e760ee3668d007e8e", 
+      "department": "Writing", 
+      "id": 1212542, 
+      "job": "Writer", 
+      "name": "Jeannine Renshaw", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 8, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007e48", 
+      "id": 11863, 
+      "name": "Sarah Michelle Gellar", 
+      "order": 0, 
+      "profile_path": "/rweJ98bNan86oIliWZYT552oRra.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007e6a", 
+      "id": 95825, 
+      "name": "Randall Slavin", 
+      "order": 1, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182963, 
+  "name": "I Will Remember You", 
+  "overview": "Old feelings are rekindled when Buffy comes to L.A. to visit Angel. Buffy and Angel are attacked by a Mohra demon, and together they slay it", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/mDsbDJ3yVuW99CkCQARzTvJhc7F.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

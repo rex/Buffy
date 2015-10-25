@@ -1,0 +1,88 @@
+{
+  "air_date": "2004-05-05", 
+  "crew": [
+    {
+      "credit_id": "5257384c760ee3668d008b89", 
+      "department": "Writing", 
+      "id": 47506, 
+      "job": "Writer", 
+      "name": "Drew Goddard", 
+      "profile_path": "/j5Le3QQljdGJ3kPAcjAZr9V4QUC.jpg"
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006ebf", 
+      "department": "Directing", 
+      "id": 87590, 
+      "job": "Director", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573849760ee3668d008810", 
+      "department": "Writing", 
+      "id": 1213074, 
+      "job": "Writer", 
+      "name": "Steven S. DeKnight", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 20, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257384d760ee3668d008c07", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 2, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573850760ee3668d008f88", 
+      "id": 68180, 
+      "name": "Gary Grubbs", 
+      "order": 2, 
+      "profile_path": "/zbSSBFW8oRl4M1u2vyr1PUnWqCw.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b8f", 
+      "id": 7137, 
+      "name": "Juliet Landau", 
+      "order": 4, 
+      "profile_path": "/78ohsJtUTo0ZLdSRfiTgYQQQSWI.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573851760ee3668d0091b0", 
+      "id": 62042, 
+      "name": "Carole Davis", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573851760ee3668d0091d2", 
+      "id": 1215981, 
+      "name": "Dominic Pace", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 183010, 
+  "name": "The Girl in Question", 
+  "overview": "While Angel and Spike to go Italy to retrieve the head of a demon mobster (and save Buffy from a new suitor), Fred's parents arrive at Wolfram and Hart, looking for their daughter.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/u8Uikw75STVo5Ljp9bYhVuzo9yQ.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

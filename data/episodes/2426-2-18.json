@@ -1,0 +1,72 @@
+{
+  "air_date": "2001-04-24", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 18, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573831760ee3668d006fb9", 
+      "id": 80301, 
+      "name": "Michael Dempsey", 
+      "order": 3, 
+      "profile_path": "/7RMTalHTWuSTmkU6ZjSkRsF3Tc5.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573830760ee3668d006cdb", 
+      "id": 1231369, 
+      "name": "Andy Hallett", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573831760ee3668d006fdb", 
+      "id": 19468, 
+      "name": "Gerry Becker", 
+      "order": 4, 
+      "profile_path": "/4oXmbOtBU18w0eB5Jaj7OACvEpG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182932, 
+  "name": "Dead End", 
+  "overview": "Cordelia's visions get worse and the gang fears for her health. Meanwhile Lindsey is granted a new hand that has a murderous mind of its own.", 
+  "production_code": null, 
+  "season_number": 2, 
+  "still_path": "/r3kB0gV0lmrh8diJmhxD7gqMNJG.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,56 @@
+{
+  "air_date": "2000-12-19", 
+  "crew": [
+    {
+      "credit_id": "52599e4819c295731c08f862", 
+      "department": "Directing", 
+      "id": 1213070, 
+      "job": "Director", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fb1", 
+      "department": "Writing", 
+      "id": 1213070, 
+      "job": "Writer", 
+      "name": "Marti Noxon", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 10, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e4819c295731c08f77f", 
+      "id": 18461, 
+      "name": "Nick Chinlund", 
+      "order": 1, 
+      "profile_path": "/7x7DFGRV3Z8RAfTiMsMvU1vOtdP.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e16f", 
+      "id": 104195, 
+      "name": "Bailey Chase", 
+      "order": 2, 
+      "profile_path": "/1Lmy7WGlthUPwjUDbj1ODTdWUZA.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e1f19c295731c08a0e2", 
+      "id": 57419, 
+      "name": "Kristine Sutherland", 
+      "order": 7, 
+      "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+    }
+  ], 
+  "id": 949500, 
+  "name": "Into the Woods", 
+  "overview": "At the hospital, the Scooby Gang awaits news from the doctor about Joyce's surgery and they are all relieved when the surgery is a success. Dawn spends the night with Xander and Anya. With the house to themselves, Buffy and Riley spend a romantic evening together. In the middle of the night, Riley sneaks out through the window and Spike follows him into an old building.", 
+  "production_code": null, 
+  "season_number": 5, 
+  "still_path": "/8uA3YDBNrnlniSRYuT702cJEDLx.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

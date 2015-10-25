@@ -1,0 +1,1498 @@
+{
+  "air_date": "2001-10-02", 
+  "episodes": [
+    {
+      "air_date": "2001-10-02", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e3819c295731c08d7e9", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 1, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2019c295731c08a361", 
+          "id": 34257, 
+          "name": "Anthony Stewart Head", 
+          "order": 3, 
+          "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+        }
+      ], 
+      "id": 949517, 
+      "name": "Bargaining, Part One", 
+      "overview": "Several months have passed since Buffy sacrificed herself to save Dawn, her friends and the world. The Slayerettes are doing their best to keep the demon population down and Willow has repaired the Buffybot so the world remains unaware of the Slayers death. Unfortunately a vamp discovers the truth and escapes to tell his friends.   With no Slayer to watch, Giles makes preparations to return to England and leaves Anya in charge of the magic shop.   Willow, Tara, Anya and Xander secretly perform a powerful spell at Buffy's grave site to resurrect the Slayer, but the spell is interfered with by a group of demon bikers and the Slayerettes flee, not knowing if the spell worked or not.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/oWVhdFxLacZZBttW3rF8RwyYwKF.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-02", 
+      "crew": [
+        {
+          "credit_id": "52599e3819c295731c08d7e9", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 2, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }
+      ], 
+      "id": 949516, 
+      "name": "Bargaining, Part Two", 
+      "overview": "The Scooby Gang run from Buffy's grave site and her resurrection goes unnoticed. When she does get back above ground, she is confused and disoriented and wanders around looking at the carnage caused by the demon gang.   The demons damage the Buffybot badly and notice the real Buffy wandering around. They chase her and she eventually runs into the Slayerettes, who realize that she has been traumatize by having to dig out of her own grave.   When the demons arrive for a final fight, Buffy, still very confused, returns to her Slayer ways and defeats them all; but runs away from her friends after.   The Buffybot stays \"alive\" long enough to tell Dawn of the real Buffy's return. Dawn finds Buffy at Glory's tower, and she wants to jump off again. As the tower begins to collapse Dawn manages to coax Buffy down and they land just as the tower crumbles around them.   Buffy and Dawn hug, but the Slayer is still not herself.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/j9QhPDDh64ybc5uMKQPuUanTiHF.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-09", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 3, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }
+      ], 
+      "id": 949522, 
+      "name": "After Life", 
+      "overview": "The first repercussions of the resurrection spell has the Scoobies battling with a demon ghost and Buffy realizes she was happier with the peace of the afterlife but cannot bring herself to tell her friends. She finds a sympathetic ear in someone else who knows a little about an afterlife: Spike.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/mfLrZ2xok2Deoz1wY3gFKy9PFi4.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-16", 
+      "crew": [
+        {
+          "credit_id": "52599e4e19c295731c09043e", 
+          "department": "Directing", 
+          "id": 1213071, 
+          "job": "Director", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }
+      ], 
+      "episode_number": 4, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2019c295731c08a361", 
+          "id": 34257, 
+          "name": "Anthony Stewart Head", 
+          "order": 3, 
+          "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4e19c295731c0903fe", 
+          "id": 19277, 
+          "name": "Todd Stashwick", 
+          "order": 6, 
+          "profile_path": "/vTY2rqUPQnY3gZNRyoebOZPpsmr.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386e19c2957940053f3f", 
+          "id": 25934, 
+          "name": "David Boreanaz", 
+          "order": 15, 
+          "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+        }
+      ], 
+      "id": 949515, 
+      "name": "Flooded", 
+      "overview": "With Joyce gone, Buffy finds herself trying to contend with burst pipes and home-improvement loans. She seeks out the advice of a just-returned Giles who expresses his concern over Willow's attitude toward bringing Buffy back. While trying to get a loan, Buffy's meeting is crashed by a demon, dispatched by a trio of bored, twenty-something would-be sorcerers who want to cause mischief (and to hypnotize Buffy and make her their love slave).   The demon makes its way to the Slayers home and Buffy begs him not to break anything, and winds up drowning him in a pool of water formed by her plumbing leak.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/wb5W6waI4Fah7NZLe8xrSoBtUGx.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-23", 
+      "crew": [
+        {
+          "credit_id": "52599e4419c295731c08efd8", 
+          "department": "Directing", 
+          "id": 1214210, 
+          "job": "Director", 
+          "name": "Nick Marck", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 5, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2019c295731c08a361", 
+          "id": 34257, 
+          "name": "Anthony Stewart Head", 
+          "order": 3, 
+          "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5219c295731c090a44", 
+          "id": 53252, 
+          "name": "Noel Gugliemi", 
+          "order": 5, 
+          "profile_path": "/mI5urNyZJAzIGxelTjBkm624DkB.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5219c295731c090a72", 
+          "id": 111511, 
+          "name": "Jonathan Goldstein", 
+          "order": 6, 
+          "profile_path": "/5YTsyyHi93x7LCmUAqsqqCpTZ0z.jpg"
+        }
+      ], 
+      "id": 949524, 
+      "name": "Life Serial", 
+      "overview": "As Buffy tries to 'normalize' her new life as a parent and return to college and attempt numerous jobs, she again comes up against the Troika, a group of would-be sorcerers, who test the Slayer by casting spells on her which make her experience time distortions, magically appearing demons and a strange \"Groundhog Day\" time loop.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/cZNKCFxisqnnTR9Lk8dnlKc0S1I.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-10-30", 
+      "crew": [
+        {
+          "credit_id": "5253387519c2957940054017", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 6, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e5019c295731c0907f2", 
+          "id": 35554, 
+          "name": "Steven Anthony Lawrence", 
+          "order": 2, 
+          "profile_path": "/nUwkJOWPsV1mIPUpn5kPRyg4fl0.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5119c295731c09083a", 
+          "id": 20354, 
+          "name": "Amber Tamblyn", 
+          "order": 3, 
+          "profile_path": "/4nwsbtFzoxzN2YF2HOW4P4vdit2.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2019c295731c08a361", 
+          "id": 34257, 
+          "name": "Anthony Stewart Head", 
+          "order": 3, 
+          "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5119c295731c090868", 
+          "id": 78598, 
+          "name": "Dave Power", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 949521, 
+      "name": "All the Way", 
+      "overview": "Dawn lies to Buffy and spends Halloween night joyriding and partying with her friend Janice and two older boys. She develops a crush on one of the boys, Justin, and receives her first real kiss. When the boys reveal themselves to be vampires Dawn stakes Justin and is devastated.    Buffy decides Dawn needs a serious grown-up talk but she hands the task over to Giles, who is not at all happy about the way Buffy is depending on him so much.    Meanwhile, after Willow and Tara have a fight about Willow's abuse of magic, Willow casts a spell on Tara to make her forget the fight.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/iThB4PPb3CGgGJdGJkqa200wCVO.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-11-06", 
+      "crew": [
+        {
+          "credit_id": "5253387019c2957940053fa5", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52599e2019c295731c08a50b", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 7, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e5619c295731c0912aa", 
+          "id": 1213069, 
+          "name": "David Fury", 
+          "order": 0, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5619c295731c0912d4", 
+          "id": 1213070, 
+          "name": "Marti Noxon", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2019c295731c08a361", 
+          "id": 34257, 
+          "name": "Anthony Stewart Head", 
+          "order": 3, 
+          "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5619c295731c091360", 
+          "id": 15567, 
+          "name": "Hinton Battle", 
+          "order": 4, 
+          "profile_path": "/e0KEfjlswSxTtkj4r2T0JajCnWK.jpg"
+        }
+      ], 
+      "id": 949534, 
+      "name": "Once More, With Feeling", 
+      "overview": "A mysterious force causes everyone in Sunnydale to reveal all of their innermost thoughts and feelings in song. Buffy tells the gang the truth about where she was when she was dead and they are devastated, none more than Willow. Tara sings a love song to Willow professing all her love, but does Willow feel the same way? Finally, Giles reveals his belief that Buffy is never going to learn to survive on her own with him around and decides to return to England for good.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/9bM4WmD2zPoFMMrY1TjYisEBCaY.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-11-13", 
+      "crew": [
+        {
+          "credit_id": "52599e3819c295731c08d7e9", 
+          "department": "Directing", 
+          "id": 43954, 
+          "job": "Director", 
+          "name": "David Grossman", 
+          "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+        }, 
+        {
+          "credit_id": "52599e4519c295731c08f32a", 
+          "department": "Writing", 
+          "id": 1231186, 
+          "job": "Writer", 
+          "name": "Rebecca Rand Kirshner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 8, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e5019c295731c09071b", 
+          "id": 84606, 
+          "name": "Raymond O'Connor", 
+          "order": 1, 
+          "profile_path": "/bIC6drKtKjr4F2GXQwbBgJGh8y9.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2019c295731c08a361", 
+          "id": 34257, 
+          "name": "Anthony Stewart Head", 
+          "order": 3, 
+          "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+        }
+      ], 
+      "id": 949520, 
+      "name": "Tabula Rasa", 
+      "overview": "After the gang finds out about Buffy's true afterlife, Willow does a spell to make her forget that she was actually in heaven. Unfortunately the spell goes awry and the gang all wake up with amnesia, forgetting everything about their lives including the existence of vampires and the Slayer.   Because of their British accents, Giles and Spike (\"Randy\") think they are father and son, Giles and Anya think they are engaged, Willow and \"Alex\" think they are dating, and due to the absence of ID, Buffy names herself Joan.   When a demon loan shark comes to collect a long overdue loan from Spike, \"Joan\" and \"Randy\" discover their true nature when they are forced to fight, while Dawn, Willow, Tara and \"Alex\" head out to try and restore their memories.   At episodes end when they get their memories back the gang goes through some changes, with Tara breaking up with Willow and Giles finally leaving Sunnydale behind forever.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/gpoDkfg5BeHNK6lBWK6UE8xdD71.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-11-20", 
+      "crew": [
+        {
+          "credit_id": "52599e5319c295731c090c31", 
+          "department": "Directing", 
+          "id": 72445, 
+          "job": "Director", 
+          "name": "Turi Meyer", 
+          "profile_path": "/3TRekhDcZsF3PhH2hLZZcv4ebE2.jpg"
+        }, 
+        {
+          "credit_id": "5253387419c2957940053ff7", 
+          "department": "Writing", 
+          "id": 1213073, 
+          "job": "Writer", 
+          "name": "Drew Greenberg", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 9, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2119c295731c08a580", 
+          "id": 1226827, 
+          "name": "Elizabeth Anne Allen", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }
+      ], 
+      "id": 949526, 
+      "name": "Smashed", 
+      "overview": "After breaking up with Tara, Willow successfully de-rats Amy and the two witches begin hanging out and having fun with magic, drawing Willow further into her growing addiction.   Meanwhile, Spike notices that his chip doesn't kick in when he hits Buffy but it only works with her, leading him to believe that she is not entirely human anymore.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/pPSRXeffRC7uVCTPLEf8tQjUamm.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2001-11-27", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 10, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2119c295731c08a580", 
+          "id": 1226827, 
+          "name": "Elizabeth Anne Allen", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d31c", 
+          "id": 54865, 
+          "name": "Jeff Kober", 
+          "order": 3, 
+          "profile_path": "/eMp9ZsC77yddwW4SMiuZ7xOd0GS.jpg"
+        }
+      ], 
+      "id": 949523, 
+      "name": "Wrecked", 
+      "overview": "When they finally return home from their nights out, Buffy is ashamed of having slept with Spike and Willow is exhausted from casting spells all night. Amy takes Willow to a warlock whose particular brand of magic quickly has Willow hooked.   While looking after Dawn, Willow decides to get another quick fix and leaves the warlock's place looking very high and not at all in control of herself. To escape a demon Willow and Dawn steal a car but Willow seems it better to drive using magic, not her hands, resulting in them crashing.   Willow breaks down and seems truly sorry for what she has done, but her actions further enrage Buffy who is now convinced that Willow is completely out of control and may need to get help.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/jisisC76Fe0qSSgB1gdDF7JOXyd.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-01-08", 
+      "crew": [
+        {
+          "credit_id": "52599e5219c295731c090b6e", 
+          "department": "Directing", 
+          "id": 1213069, 
+          "job": "Director", 
+          "name": "David Fury", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 11, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5219c295731c090ae8", 
+          "id": 56692, 
+          "name": "Daniel Hagen", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5219c295731c090b3a", 
+          "id": 100060, 
+          "name": "Susan Ruttan", 
+          "order": 4, 
+          "profile_path": "/3EuWixVAbSJu2xKlWgMl5UwGQKA.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }
+      ], 
+      "id": 949525, 
+      "name": "Gone", 
+      "overview": "Buffy and Dawn clear the house of magic items to help Willow and Buffy has a surprise visit from a social worker checking on Dawn's home life. The meeting doesn't go well and in a fit of rage after wards, Buffy cuts off her hair.   Meanwhile, the Geek Trio have built an invisibility ray and accidentally hit Buffy with it.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/pbIfdlOiyFDA45vvTfpRfjalUE5.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-01-29", 
+      "crew": [
+        {
+          "credit_id": "52599e4419c295731c08efd8", 
+          "department": "Directing", 
+          "id": 1214210, 
+          "job": "Director", 
+          "name": "Nick Marck", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387119c2957940053fc1", 
+          "department": "Writing", 
+          "id": 77213, 
+          "job": "Writer", 
+          "name": "Jane Espenson", 
+          "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+        }
+      ], 
+      "episode_number": 12, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e5319c295731c090da7", 
+          "id": 58928, 
+          "name": "Pat Crawford Brown", 
+          "order": 0, 
+          "profile_path": "/1aZTnQDtH0rXwA7ox0mCUsJj9z0.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5419c295731c090dd1", 
+          "id": 1219500, 
+          "name": "Kirsten Nelson", 
+          "order": 1, 
+          "profile_path": "/xygcmhw8nTpz68C8cuha5f6ivas.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5319c295731c090cbd", 
+          "id": 149665, 
+          "name": "Kali Rocha", 
+          "order": 1, 
+          "profile_path": "/uhigi00Mz43MpzXFYk06N5vApqj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2119c295731c08a580", 
+          "id": 1226827, 
+          "name": "Elizabeth Anne Allen", 
+          "order": 2, 
+          "profile_path": null
+        }
+      ], 
+      "id": 949529, 
+      "name": "Doublemeat Palace", 
+      "overview": "Starved for cash, Buffy gets a job in a fast food restaurant where the weird manager and high turnover of employees has her more than a little suspicious. When co-workers start ending up in pieces, the mystery behind the \"secret ingredient\" comes into question. Willow works on staying clear of magic, but Amy gives her an unwanted gift and Willow is forced to make a big decision. A vengeance demon friend of Anya's visits and questions her relationship with Xander, leaving Anya doubtful about their soon-to-be-married life together.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/kPqMmjIyzzYrQEmjAcCPgwY3MyT.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-02-05", 
+      "crew": [
+        {
+          "credit_id": "5253387519c2957940054017", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 13, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }
+      ], 
+      "id": 949528, 
+      "name": "Dead Things", 
+      "overview": "The Troika's latest escapade to make Warren's ex-girlfriend Katrina their willing slave goes horribly wrong when she is accidentally killed. The trio use magical and demonic forces to make Buffy think that she has killed Katrina - and it works.   With finding out the truth about her resurrection and believing she killed an innocent girl, Buffy's world begins to fall apart.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/ldrrucA38gLNjIqrvzgRCrRUrPO.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-02-12", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c126", 
+          "department": "Directing", 
+          "id": 1231299, 
+          "job": "Director", 
+          "name": "Michael Gershman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387419c2957940053ff7", 
+          "department": "Writing", 
+          "id": 1213073, 
+          "job": "Writer", 
+          "name": "Drew Greenberg", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 14, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e5319c295731c090cbd", 
+          "id": 149665, 
+          "name": "Kali Rocha", 
+          "order": 1, 
+          "profile_path": "/uhigi00Mz43MpzXFYk06N5vApqj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }
+      ], 
+      "id": 949527, 
+      "name": "Older and Far Away", 
+      "overview": "Old and new friends gather at the Summers home for Buffy's 21st birthday party and it goes off without a hitch - mostly.   Feeling neglected by Buffy and the Scoobys, Dawn's wish to keep people from leaving her is answered by Anya's demon friend Halfrek, who binds the attendees of the party to the house. When Tara tries a spell to free them, she only makes the situation worse by accidentally releasing a demon trapped inside a sword.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/kCy2mXwYWhTFZnIFIXHkhPPRK6I.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-02-26", 
+      "crew": [
+        {
+          "credit_id": "52599e4e19c295731c09043e", 
+          "department": "Directing", 
+          "id": 1213071, 
+          "job": "Director", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 15, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e5419c295731c090e96", 
+          "id": 29930, 
+          "name": "Ivana Mili\u010devi\u0107", 
+          "order": 1, 
+          "profile_path": "/uWQTBSaZEo5iVIlATgEynocQQsG.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5253386e19c2957940053ee5", 
+          "id": 46772, 
+          "name": "Marc Blucas", 
+          "order": 11, 
+          "profile_path": "/5OdBu0DFKca1mxjeqNruz00DSRF.jpg"
+        }
+      ], 
+      "id": 949530, 
+      "name": "As You Were", 
+      "overview": "Riley pursues a demon to Sunnydale and seeks Buffy's help in killing it. He also comes with a surprise... he is married. His wife, fellow demon hunter Sam, befriends the entire Scooby Gang and gets along quite well with all of them, but Buffy's own \"relationship\" with Spike comes into question when her ex's perfect romance shows her just what she doesn't have.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/A731txaQtHEv5QQhMNy6yb8fXcX.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-03-05", 
+      "crew": [
+        {
+          "credit_id": "52599e4519c295731c08f32a", 
+          "department": "Writing", 
+          "id": 1231186, 
+          "job": "Writer", 
+          "name": "Rebecca Rand Kirshner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 16, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e5319c295731c090cbd", 
+          "id": 149665, 
+          "name": "Kali Rocha", 
+          "order": 1, 
+          "profile_path": "/uhigi00Mz43MpzXFYk06N5vApqj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5419c295731c090f4f", 
+          "id": 42141, 
+          "name": "Casey Sander", 
+          "order": 2, 
+          "profile_path": "/aibkwqOKJK2Qf9pS7rHqsI0Xw5H.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5419c295731c090f83", 
+          "id": 31032, 
+          "name": "Steven Gilborn", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5419c295731c090fad", 
+          "id": 143204, 
+          "name": "Jan Hoag", 
+          "order": 4, 
+          "profile_path": "/k8KZOdJKwo3MXeohtsWLvzgxc2a.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5519c295731c090ff9", 
+          "id": 23975, 
+          "name": "Lee Garlington", 
+          "order": 5, 
+          "profile_path": "/vpiP4yxGFS3KtVVMNtF4sANrgcJ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5519c295731c091023", 
+          "id": 142204, 
+          "name": "Andy Umberger", 
+          "order": 6, 
+          "profile_path": "/nDuiFTa0qzfaD1KFmoq97Ae10N9.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5519c295731c09104d", 
+          "id": 1228802, 
+          "name": "Abigail Mavity", 
+          "order": 7, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5519c295731c091089", 
+          "id": 12314, 
+          "name": "George D. Wallace", 
+          "order": 8, 
+          "profile_path": null
+        }
+      ], 
+      "id": 949531, 
+      "name": "Hell's Bells", 
+      "overview": "The day of the wedding has finally come and Xander and Anya are preparing for the hoards of \"guests\" to arrive. While Xander's screwed up human family go head to head with Anya's mostly non-human friends, a special guest approaches Xander to warn him that his life with Anya may not turn out to be the married bliss he has hoped for.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/xbmmhnSRdb2IlNzdJRohSmHceq4.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-03-12", 
+      "crew": [
+        {
+          "credit_id": "52599e5619c295731c091221", 
+          "department": "Writing", 
+          "id": 1215764, 
+          "job": "Writer", 
+          "name": "Diego Gutierrez", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e5619c295731c09126b", 
+          "department": "Directing", 
+          "id": 33341, 
+          "job": "Director", 
+          "name": "Rick Rosenthal", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 17, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5419c295731c090dd1", 
+          "id": 1219500, 
+          "name": "Kirsten Nelson", 
+          "order": 1, 
+          "profile_path": "/xygcmhw8nTpz68C8cuha5f6ivas.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2619c295731c08aeee", 
+          "id": 149463, 
+          "name": "Dean Butler", 
+          "order": 3, 
+          "profile_path": "/iOdPV4ksc2hO3HmWx854Uq5gUVB.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5619c295731c0911e5", 
+          "id": 1212812, 
+          "name": "Michael Warren", 
+          "order": 6, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e1f19c295731c08a0e2", 
+          "id": 57419, 
+          "name": "Kristine Sutherland", 
+          "order": 7, 
+          "profile_path": "/pQ4N2UPmgNQqlc290MII1OMel2l.jpg"
+        }
+      ], 
+      "id": 949533, 
+      "name": "Normal Again", 
+      "overview": "After being poisoned by a demon, Buffy comes to believe that she is confined to a mental hospital, her mother is alive and her parents are still together and that her life as a Slayer was all an hallucination for the past six years.   Deciding that she prefers this 'normal' life with her parents a whole lot more, Buffy attempts to kill the things that tether her to the 'fantasy' life of the Slayer: the Scoobies.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/fRgVR3kBdXn9sPTbUdXi7zdzeR4.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-04-30", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387419c2957940053ff7", 
+          "department": "Writing", 
+          "id": 1213073, 
+          "job": "Writer", 
+          "name": "Drew Greenberg", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 18, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5319c295731c090cbd", 
+          "id": 149665, 
+          "name": "Kali Rocha", 
+          "order": 1, 
+          "profile_path": "/uhigi00Mz43MpzXFYk06N5vApqj.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }
+      ], 
+      "id": 949532, 
+      "name": "Entropy", 
+      "overview": "Having accepted the offer to become a vengeance demon again, Anya attempts to curse Xander for the pain he caused her... but she can't do it herself. Instead, she enlists the help of some old friends but it doesn't go how she expected.   Buffy spends some quality time with Dawn to make up for her violent actions in \"Normal Again,\" but Dawn's idea of time well spent is the dangerous world of patrolling; while Willow and Tara go on a coffee date and begin to mend their troubled relationship.   The gang discover that the Troika have been watching their every move with hidden cameras. The cameras are traced to the trio's lair and what is seen on video proves to be devastating for all of them.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/cF2WDNPrXjGrrjNvTnlw3mqrlXR.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-05-07", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c126", 
+          "department": "Directing", 
+          "id": 1231299, 
+          "job": "Director", 
+          "name": "Michael Gershman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387519c2957940054017", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 19, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4e19c295731c0902df", 
+          "id": 59090, 
+          "name": "Nichole Hiltz", 
+          "order": 0, 
+          "profile_path": "/6MWOvsODHSwHSbAnEmKODRZqR49.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }
+      ], 
+      "id": 949514, 
+      "name": "Seeing Red", 
+      "overview": "Willow and Tara are well on the road to recovery but love lives are not as good for Xander and Anya or Buffy and Spike.   The Troika move full swing into their biggest plan ever: stealing a pair of mystical orbs which imbue the bearer with super strength and invulnerability. They attempt to rob an armoured van but Buffy crashes the party resulting in a battle between her and SuperWarren. Buffy is all but finished until Jonathan reveals the secret to Warren's power. Buffy manages to defeat him but he escapes by use of a rocket pack and Jonathan and Andrew are arrested.\n\nBuffy heads home to await the next encounter but it comes all too soon. A crazed Warren proves he is evil enough on his own and shoots at Buffy. She takes a bullet in the shoulder but a wild shot fatally hits a Scooby...", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/9bE9Ua48pjLdpKLt05mGXzkXD8n.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-05-14", 
+      "crew": [
+        {
+          "credit_id": "5253387119c2957940053fb1", 
+          "department": "Writing", 
+          "id": 1213070, 
+          "job": "Writer", 
+          "name": "Marti Noxon", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52599e2a19c295731c08b882", 
+          "department": "Directing", 
+          "id": 1222761, 
+          "job": "Director", 
+          "name": "David Solomon", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 20, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e4a19c295731c08fb61", 
+          "id": 136183, 
+          "name": "Adam Busch", 
+          "order": 0, 
+          "profile_path": "/q1t4bQwlwoO77MYaPpTRcgLbf4d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3e19c295731c08e33b", 
+          "id": 35468, 
+          "name": "Amber Benson", 
+          "order": 2, 
+          "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d31c", 
+          "id": 54865, 
+          "name": "Jeff Kober", 
+          "order": 3, 
+          "profile_path": "/eMp9ZsC77yddwW4SMiuZ7xOd0GS.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }
+      ], 
+      "id": 949513, 
+      "name": "Villains", 
+      "overview": "While the paramedics work on Buffy in the yard, in her bedroom Willow deperately calls on Osiris to bring Tara back to life the same way as she did for Buffy. She is told that the spell will not work for a natural human death and becomes consumed with rage and wants revenge in the worst way. She runs to the magic shop and draws the dark power from the books into her causing her hair and eyes to turn black. After saving Buffy by magically removing the bullet from her shoulder she heads out to find Warren.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/hUe7AvBqpEkCztKw0XdWAWtHhJP.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-05-21", 
+      "crew": [
+        {
+          "credit_id": "52599e5019c295731c090690", 
+          "department": "Directing", 
+          "id": 58075, 
+          "job": "Director", 
+          "name": "Bill L. Norton", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387219c2957940053fcd", 
+          "department": "Writing", 
+          "id": 1213071, 
+          "job": "Writer", 
+          "name": "Douglas Petrie", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 21, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e3619c295731c08d31c", 
+          "id": 54865, 
+          "name": "Jeff Kober", 
+          "order": 3, 
+          "profile_path": "/eMp9ZsC77yddwW4SMiuZ7xOd0GS.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e2019c295731c08a361", 
+          "id": 34257, 
+          "name": "Anthony Stewart Head", 
+          "order": 3, 
+          "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e5019c295731c09064a", 
+          "id": 77824, 
+          "name": "Tanoai Reed", 
+          "order": 4, 
+          "profile_path": "/5CCVaidtpFOEcFUoQWQZjbEwwBd.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }
+      ], 
+      "id": 949519, 
+      "name": "Two to Go", 
+      "overview": "After exacting revenge on Warren for Tara's death, an extremely powerful and vengeful Willow now vows to go after the other two members of the trio, Jonathan and Andrew, forcing Buffy into the unlikely role of nerd-villain protector. After freeing the Duo from jail and escaping from Willow, the expanded group runs to the Magic Box to find a protection spell.   While all this is going on in Sunnydale, Spike undergoes a fierce challenge given by an African demon in order to become what he once was.   Willow, drained of her power, finds Rack and draws his energy into her, killing him in the process. At the Magic Box, Willow catches up to them all and takes on Buffy and Anya, who is doing her best to keep a magical barrier up around Willow. Buffy is no match for Willow's power, but eventually she is drained again and they escape while she is down.    Willow regains her strength and brings down Anya's barrier, tossing both her and Buffy aside. Willow heads out of the shop intent on completi", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/xdIotK5t8DDYsgbC3xZ2iAx2fFG.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-05-21", 
+      "crew": [
+        {
+          "credit_id": "52599e2d19c295731c08c098", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5253387019c2957940053f6b", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 22, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52599e2019c295731c08a361", 
+          "id": 34257, 
+          "name": "Anthony Stewart Head", 
+          "order": 3, 
+          "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e4d19c295731c090281", 
+          "id": 62849, 
+          "name": "Tom Lenk", 
+          "order": 4, 
+          "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52599e3819c295731c08d86c", 
+          "id": 35550, 
+          "name": "Danny Strong", 
+          "order": 4, 
+          "profile_path": "/sqnKlr8DAis9awtyUCMHWgcFY8o.jpg"
+        }
+      ], 
+      "id": 949518, 
+      "name": "Grave", 
+      "overview": "Giles's new-found power brings Willow down momentarily and Giles magically binds her and leaves to catch up with Buffy. Willow telepathically controls Anya and gets her to break the binding spell. Willow draws Giles's energy into her and is hit by a sudden burst of emotion. Willow feels so much pain and hurt in the world and she decides to end it all.", 
+      "production_code": null, 
+      "season_number": 6, 
+      "still_path": "/uY7QBRuh9Cb7EKgyWYm2jdlr8yV.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }
+  ], 
+  "id": 59470, 
+  "name": "Season 6", 
+  "overview": "The sixth season of the television series Buffy the Vampire Slayer premiered on October 2, 2001 with a two-hour premiere on UPN and concluded its 22-episode season with a two-hour finale on May 21, 2002. It maintained its previous timeslot, airing Tuesdays at 8:00 pm ET. This season marked the series' network change from The WB Television Network to UPN.", 
+  "poster_path": "/j6PIKJQ3AFB30QlDR9ROfc3kCsp.jpg", 
+  "season_number": 6
+}

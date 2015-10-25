@@ -1,0 +1,112 @@
+{
+  "air_date": "2000-05-23", 
+  "crew": [
+    {
+      "credit_id": "52573830760ee3668d006e9b", 
+      "department": "Writing", 
+      "id": 87590, 
+      "job": "Writer", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "52573830760ee3668d006ebf", 
+      "department": "Directing", 
+      "id": 87590, 
+      "job": "Director", 
+      "name": "David Greenwalt", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 22, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b07", 
+      "id": 35551, 
+      "name": "Julie Benz", 
+      "order": 0, 
+      "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b29", 
+      "id": 126932, 
+      "name": "Elisabeth R\u00f6hm", 
+      "order": 1, 
+      "profile_path": "/67qIdPzAY5XrK895EyUpJI2QF8N.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383e760ee3668d007e6a", 
+      "id": 95825, 
+      "name": "Randall Slavin", 
+      "order": 1, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573843760ee3668d008558", 
+      "id": 153939, 
+      "name": "J. August Richards", 
+      "order": 1, 
+      "profile_path": "/7JlN8VwjjlV2dIipqDIz6PP5MfG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b4b", 
+      "id": 71198, 
+      "name": "Christian Kane", 
+      "order": 2, 
+      "profile_path": "/urL5yaMaEhm5HLOfkDOsZgX1I5f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257383b760ee3668d007825", 
+      "id": 52794, 
+      "name": "David Herman", 
+      "order": 2, 
+      "profile_path": "/6S0UlaChdcilaeYk5svTxOCtShC.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006b6d", 
+      "id": 36221, 
+      "name": "Sam Anderson", 
+      "order": 3, 
+      "profile_path": "/2zcmQEBeArztSQJ317nZCHwCVtF.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573845760ee3668d008650", 
+      "id": 19277, 
+      "name": "Todd Stashwick", 
+      "order": 5, 
+      "profile_path": "/vTY2rqUPQnY3gZNRyoebOZPpsmr.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573846760ee3668d008681", 
+      "id": 1231380, 
+      "name": "Robyn Cohen", 
+      "order": 8, 
+      "profile_path": null
+    }
+  ], 
+  "id": 182982, 
+  "name": "To Shanshu in L.A.", 
+  "overview": "Wolfram and Hart raise a powerful new foe to strike down Angel and those close to him.", 
+  "production_code": null, 
+  "season_number": 1, 
+  "still_path": "/xctGJH6Y6wYI8oglW0d6MkH71QF.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

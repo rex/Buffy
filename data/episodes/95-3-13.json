@@ -1,0 +1,64 @@
+{
+  "air_date": "1999-01-26", 
+  "crew": [
+    {
+      "credit_id": "52599e2f19c295731c08c4ab", 
+      "department": "Directing", 
+      "id": 87472, 
+      "job": "Director", 
+      "name": "James Whitmore Jr.", 
+      "profile_path": "/6OimrEZYLtIj205AuSAP1wEVR0O.jpg"
+    }, 
+    {
+      "credit_id": "5253387d19c295794005406b", 
+      "department": "Writing", 
+      "id": 1213081, 
+      "job": "Writer", 
+      "name": "Dan Vebber", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 13, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d37b", 
+      "id": 76314, 
+      "name": "Channon Roe", 
+      "order": 0, 
+      "profile_path": "/uUrtHAIC010Oelsx8MO6Z1mMbaV.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3619c295731c08d3f1", 
+      "id": 52415, 
+      "name": "Michael Cudlitz", 
+      "order": 2, 
+      "profile_path": "/BMed7j9hfFNPO7yocDjtQnVgdl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2919c295731c08b7d0", 
+      "id": 56691, 
+      "name": "Saverio Guerra", 
+      "order": 5, 
+      "profile_path": "/30zqGjuEdlhkHDfQIIiMCMEMUpZ.jpg"
+    }
+  ], 
+  "id": 949459, 
+  "name": "The Zeppo", 
+  "overview": "When Xander realises that he isn't needed by the gang as much as he'd like to believe, his quest to prove he's cool leads him to an unforgettable night that finds him consorting with fast women, raising the dead and rolling with a dangerous crowd that could put Sunnydale in a world of hurt. Meanwhile, Buffy, Giles and the rest of the crew engage in a furious battle with the Sisterhood of Jhe, an all-female demon apocalypse cult that intends to reopen the Hellmouth and bring about the end of the world. Also, Faith and Xander grow somewhat closer when they have sex after he saves her from an apocalypse demon.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/8WVmQUDI9AkvURa3vOHlldLA0Ld.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

@@ -1,0 +1,112 @@
+{
+  "air_date": "2003-05-13", 
+  "crew": [
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5253387119c2957940053fc1", 
+      "department": "Writing", 
+      "id": 77213, 
+      "job": "Writer", 
+      "name": "Jane Espenson", 
+      "profile_path": "/kWXT8SGenskyFM65v5IByXqOHOp.jpg"
+    }, 
+    {
+      "credit_id": "52599e6119c295731c09234c", 
+      "department": "Directing", 
+      "id": 1215026, 
+      "job": "Director", 
+      "name": "Marita Grabiak", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 21, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e5d19c295731c091d8c", 
+      "id": 642250, 
+      "name": "Iyari Limon", 
+      "order": 0, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5819c295731c09176a", 
+      "id": 168339, 
+      "name": "Sarah Hagan", 
+      "order": 1, 
+      "profile_path": "/p31CwP968p1QOyG3HPFUL2O2w2f.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e2019c295731c08a361", 
+      "id": 34257, 
+      "name": "Anthony Stewart Head", 
+      "order": 3, 
+      "profile_path": "/17LzSGKGZElKVZZ51TIAMvHtQKJ.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3219c295731c08ccd9", 
+      "id": 13446, 
+      "name": "Eliza Dushku", 
+      "order": 3, 
+      "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e4d19c295731c090281", 
+      "id": 62849, 
+      "name": "Tom Lenk", 
+      "order": 4, 
+      "profile_path": "/nXCTMTV3pTgpMlpIKwQrZk6stQ6.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6219c295731c092508", 
+      "id": 51797, 
+      "name": "Nathan Fillion", 
+      "order": 5, 
+      "profile_path": "/B7VTVtnKyFk0AtYjEbqzBQlPec.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e5e19c295731c091f3e", 
+      "id": 76527, 
+      "name": "Felicia Day", 
+      "order": 6, 
+      "profile_path": "/mlTqR0XorYqvPvgu1mLVT8Fso6s.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e6219c295731c0925c4", 
+      "id": 37046, 
+      "name": "Dania Ramirez", 
+      "order": 12, 
+      "profile_path": "/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949555, 
+  "name": "End of Days", 
+  "overview": "Buffy finds the weapon The First is keeping from her: a scythe embedded in stone. Buffy easily pulls it free much to Caleb's dismay and The First tells Caleb to let her go. Faith and the potentials get caught in the explosion, leaving many dead and Faith unconscious. They are attacked by a few Ubervamps, but Buffy arrives and easily slays them all with the scythe, allowing everyone to escape.    After giving Buffy his word, Xander leaves Sunnydale with Dawn against her will. Buffy and Spike are feeling awkward regarding the recent events, so she sets out for information on the scythe.   She finds a tomb where she runs into an old woman. She tells Buffy how the scythe was created to destroy the last pure demon, but it was made in secret and hidden from the shadow men. Caleb arrives and snaps the woman's neck. He and Buffy wrestle control over the scythe until he gets the upper hand. As he is about to strike, Angel knocks him down, and then stands back so Buffy can finish the fight.", 
+  "production_code": null, 
+  "season_number": 7, 
+  "still_path": "/dDuSwNKEwNo1nVVRF6XxYNfJbJK.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

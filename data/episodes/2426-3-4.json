@@ -1,0 +1,80 @@
+{
+  "air_date": "2001-10-15", 
+  "crew": [
+    {
+      "credit_id": "5257385b760ee3668d00a0bd", 
+      "department": "Writing", 
+      "id": 1231393, 
+      "job": "Writer", 
+      "name": "Two Guys from Andromeda", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257382e760ee3668d006c1b", 
+      "department": "Directing", 
+      "id": 104876, 
+      "job": "Director", 
+      "name": "James A. Contner", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 4, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573859760ee3668d00a030", 
+      "id": 22250, 
+      "name": "Rance Howard", 
+      "order": 2, 
+      "profile_path": "/i7tkpb7GLJXjwUNyrpOy63FiStt.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573859760ee3668d00a052", 
+      "id": 15534, 
+      "name": "Paul Benjamin", 
+      "order": 3, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006cb6", 
+      "id": 18307, 
+      "name": "Daniel Dae Kim", 
+      "order": 3, 
+      "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573859760ee3668d00a074", 
+      "id": 1224063, 
+      "name": "Steven W. Bailey", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573859760ee3668d00a096", 
+      "id": 98157, 
+      "name": "Paul Logan", 
+      "order": 5, 
+      "profile_path": "/lx2bemjfnJpHqLREnvUOC0YFRZh.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 159485, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+    }
+  ], 
+  "id": 183052, 
+  "name": "Carpe Noctem", 
+  "overview": "An old man uses an ancient incantation to switch bodies with Angel.", 
+  "production_code": null, 
+  "season_number": 3, 
+  "still_path": "/fss30j05I52w9tT2G7RGfCn0gd2.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

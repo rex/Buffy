@@ -1,0 +1,1506 @@
+{
+  "air_date": "2002-10-06", 
+  "episodes": [
+    {
+      "air_date": "2002-10-06", 
+      "crew": [
+        {
+          "credit_id": "5257384d760ee3668d008d4d", 
+          "department": "Directing", 
+          "id": 102638, 
+          "job": "Director", 
+          "name": "Terrence O'Hara", 
+          "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 1, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009422", 
+          "id": 18657, 
+          "name": "Laurel Holloman", 
+          "order": 1, 
+          "profile_path": "/cJ7khrL18ut48vPwC1cHRpcYQvV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009444", 
+          "id": 44261, 
+          "name": "John Rubinstein", 
+          "order": 2, 
+          "profile_path": "/jyHEmKDxlCCxWnsM8hPoCpj0Bn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009472", 
+          "id": 53252, 
+          "name": "Noel Gugliemi", 
+          "order": 5, 
+          "profile_path": "/mI5urNyZJAzIGxelTjBkm624DkB.jpg"
+        }
+      ], 
+      "id": 183015, 
+      "name": "Deep Down", 
+      "overview": "As Fred and Gunn search for Angel, Wesley continues his affair with Lilah and conducts his own, more fruitful, search.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/cDZts7yI0cu13bt4GAUc4y6GHMU.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-10-13", 
+      "crew": [
+        {
+          "credit_id": "52573830760ee3668d006cff", 
+          "department": "Writing", 
+          "id": 1227656, 
+          "job": "Writer", 
+          "name": "Mere Smith", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383a760ee3668d00771d", 
+          "department": "Directing", 
+          "id": 43222, 
+          "job": "Director", 
+          "name": "Michael Grossman", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 2, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573851760ee3668d0092d8", 
+          "id": 28109, 
+          "name": "Alexa Davalos", 
+          "order": 0, 
+          "profile_path": "/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009300", 
+          "id": 27544, 
+          "name": "Tom Irwin", 
+          "order": 2, 
+          "profile_path": "/8veWAQr2kXYL3EP4ZkAjJhVcZGq.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d00932c", 
+          "id": 7241, 
+          "name": "Rena Owen", 
+          "order": 3, 
+          "profile_path": "/sgJpdxXO6ATawDqzFQak5HSqs9y.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d00934e", 
+          "id": 1212916, 
+          "name": "Jessica Kiper", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009370", 
+          "id": 65124, 
+          "name": "Troy Brenna", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183013, 
+      "name": "Ground State", 
+      "overview": "In his quest to steal an artifact that may help him find Cordelia, Angel finds himself competing with a human thief whose body is electrically charged.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/lWKFSdjE73GUlqnskLy4eZ3j9rt.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-10-20", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a83", 
+          "department": "Directing", 
+          "id": 1215026, 
+          "job": "Director", 
+          "name": "Marita Grabiak", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 3, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d0093b8", 
+          "id": 91725, 
+          "name": "Clayton Rohner", 
+          "order": 1, 
+          "profile_path": "/uVLfEz3oE6VF2VG8YpcjjP4wa5M.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d0093da", 
+          "id": 57995, 
+          "name": "Matt Bushell", 
+          "order": 2, 
+          "profile_path": "/cYq1abfNB0rcxfSdavEaH0gt3AM.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183014, 
+      "name": "The House Always Wins", 
+      "overview": "Angel and his friends discover that Lorne is being held prisoner in a corrupt Las Vegas casino.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/lIT1KqbwErNg3xI9sBWSlW0ghFk.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-10-27", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b05", 
+          "department": "Directing", 
+          "id": 68841, 
+          "job": "Director", 
+          "name": "Skip Schoolnik", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 4, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183016, 
+      "name": "Slouching Toward Bethlehem", 
+      "overview": "After Cordelia returns, she doesn't remember her friends and Lorne senses a major evil brewing. Scared by the world of demons and vampires, Cordelia takes refuge with Connor, who saves her from a demon attack.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/sBJYwsZXfHiLHQNLBFoJraTVfkF.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-11-03", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071e5", 
+          "department": "Directing", 
+          "id": 58075, 
+          "job": "Director", 
+          "name": "Bill L. Norton", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a5f", 
+          "department": "Writing", 
+          "id": 1224044, 
+          "job": "Writer", 
+          "name": "Sarah Fain", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 5, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d00963c", 
+          "id": 102567, 
+          "name": "Randy Oglesby", 
+          "order": 0, 
+          "profile_path": "/i6Zrn7JKMnemYZysNqhkcGs9cjk.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d00966a", 
+          "id": 111512, 
+          "name": "Jerry Trainor", 
+          "order": 3, 
+          "profile_path": "/sPElk2oZDaH2RE5rtE0STFSBLKY.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183021, 
+      "name": "Supersymmetry", 
+      "overview": "Fred discovers her old physics professor is the one who exiled her to Pylea; Cordelia can't get comfortable with Connor and begins to wonder more about her history with Angel.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/zke7HGOPdi3U9c3qn9l4oVyft2S.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-11-10", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f6f", 
+          "department": "Directing", 
+          "id": 12891, 
+          "job": "Director", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }, 
+        {
+          "credit_id": "52573833760ee3668d0071c1", 
+          "department": "Writing", 
+          "id": 12891, 
+          "job": "Writer", 
+          "name": "Joss Whedon", 
+          "profile_path": "/n2x16sVDgj46PabFgJ0jvgjqxWl.jpg"
+        }
+      ], 
+      "episode_number": 6, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009517", 
+          "id": 19898, 
+          "name": "Vladimir Kulich", 
+          "order": 3, 
+          "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183019, 
+      "name": "Spin the Bottle", 
+      "overview": "Lorne's spell to restore Cordelia's memory backfires and convinces everyone they're high school students who have been gathered to kill a vampire: Angel.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/zHiKaEOm0KRuAzsFqqjTth6KkfW.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2002-11-17", 
+      "crew": [
+        {
+          "credit_id": "5257383d760ee3668d007c7e", 
+          "department": "Directing", 
+          "id": 1216750, 
+          "job": "Director", 
+          "name": "Vern Gillum", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 7, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d00956e", 
+          "id": 1218807, 
+          "name": "Tina Morasco", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009517", 
+          "id": 19898, 
+          "name": "Vladimir Kulich", 
+          "order": 3, 
+          "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183018, 
+      "name": "Apocalypse, Nowish", 
+      "overview": "As plagues of various pests descend on Los Angeles, the beast Cordelia saw in her vision returns - and the apocalypse begins.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/sKPcQqMsg7ltJhuIwjpdyO91Nwi.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-01-15", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008b05", 
+          "department": "Directing", 
+          "id": 68841, 
+          "job": "Director", 
+          "name": "Skip Schoolnik", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 8, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d0095f4", 
+          "id": 38703, 
+          "name": "Kay Panabaker", 
+          "order": 3, 
+          "profile_path": "/lnPWuiJAkt43mnrZV7a1Lx3IlZI.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009517", 
+          "id": 19898, 
+          "name": "Vladimir Kulich", 
+          "order": 3, 
+          "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006cb6", 
+          "id": 18307, 
+          "name": "Daniel Dae Kim", 
+          "order": 3, 
+          "profile_path": "/xnaUUZkulAAwS5sbZ2cL7pHal4x.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 159485, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": "/h9cDc4SN7jRkn26TDRWCwpW9vFV.jpg"
+        }
+      ], 
+      "id": 183020, 
+      "name": "Habeas Corpses", 
+      "overview": "Connor gets locked inside Wolfram and Hart with the Big Bad doomsday beast, who turns the legal firms staff into an army of zombies.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/nULfEL5E0KPK3TS3KmYeM0ruhvp.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-01-22", 
+      "crew": [
+        {
+          "credit_id": "5257384d760ee3668d008d4d", 
+          "department": "Directing", 
+          "id": 102638, 
+          "job": "Director", 
+          "name": "Terrence O'Hara", 
+          "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006cff", 
+          "department": "Writing", 
+          "id": 1227656, 
+          "job": "Writer", 
+          "name": "Mere Smith", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 9, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d0094e3", 
+          "id": 1240, 
+          "name": "Jack Kehler", 
+          "order": 0, 
+          "profile_path": "/huxiFLWgthatgaEIT4u36muUJMg.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573851760ee3668d0092d8", 
+          "id": 28109, 
+          "name": "Alexa Davalos", 
+          "order": 0, 
+          "profile_path": "/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009517", 
+          "id": 19898, 
+          "name": "Vladimir Kulich", 
+          "order": 3, 
+          "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183017, 
+      "name": "Long Day's Journey", 
+      "overview": "After a group of totems linked to the ancient sun god Ra are killed by the Big Bad beast, Angel and his friends realize he's plotting to turn off the sun.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/tRRV1LDEouQzL93K62TP7XfCLgL.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-01-29", 
+      "crew": [
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 10, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d0096bb", 
+          "id": 1228121, 
+          "name": "Larry McCormick", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009517", 
+          "id": 19898, 
+          "name": "Vladimir Kulich", 
+          "order": 3, 
+          "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183022, 
+      "name": "Awakening", 
+      "overview": "Angel agrees to try to bring Angelus back... but after the first attempt fails, he and his friends discover a magic sword that might do a better job of getting rid of the Big Bad beast.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/1XVnPzrOSI1OVf4Efe9CIehBIV0.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-02-05", 
+      "crew": [
+        {
+          "credit_id": "52573854760ee3668d0097bd", 
+          "department": "Directing", 
+          "id": 1328, 
+          "job": "Director", 
+          "name": "Sean Astin", 
+          "profile_path": "/ezv9hRbgrR6Uuz4xWqX22cpiRXJ.jpg"
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a5f", 
+          "department": "Writing", 
+          "id": 1224044, 
+          "job": "Writer", 
+          "name": "Sarah Fain", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 11, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009517", 
+          "id": 19898, 
+          "name": "Vladimir Kulich", 
+          "order": 3, 
+          "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183026, 
+      "name": "Soulless", 
+      "overview": "After Angelus succeeds in setting Angel's friends against each other, Cordelia makes him a deal: if he tells what he knows about the Big Bad beast, she'll give herself to him.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/veyAnpvyVQOQSyHjWOffg01j2wZ.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-02-12", 
+      "crew": [
+        {
+          "credit_id": "52573833760ee3668d0071e5", 
+          "department": "Directing", 
+          "id": 58075, 
+          "job": "Director", 
+          "name": "Bill L. Norton", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006cff", 
+          "department": "Writing", 
+          "id": 1227656, 
+          "job": "Writer", 
+          "name": "Mere Smith", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 12, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009517", 
+          "id": 19898, 
+          "name": "Vladimir Kulich", 
+          "order": 3, 
+          "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 1231369, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183029, 
+      "name": "Calvary", 
+      "overview": "After learning the doomsday beast may be working for something bigger and badder than itself, Angel's friends cast a spell to return his soul to Angelus' body.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/vsfErbhIgQGTjuS4qVLEBwAFuai.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-03-05", 
+      "crew": [
+        {
+          "credit_id": "5257384d760ee3668d008bad", 
+          "department": "Directing", 
+          "id": 1216553, 
+          "job": "Director", 
+          "name": "Jefferson Kibbee", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 13, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d0078d6", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 2, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d0098ed", 
+          "id": 1221710, 
+          "name": "Alonzo Bodden", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573852760ee3668d009517", 
+          "id": 19898, 
+          "name": "Vladimir Kulich", 
+          "order": 3, 
+          "profile_path": "/A2g8P9LbEhi34s4I5my4Soo5Y30.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006cdb", 
+          "id": 159320, 
+          "name": "Andy Hallett", 
+          "order": 4, 
+          "profile_path": "/4AXmJZTFyioujFWpyCYM5jDdp9Z.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d00990f", 
+          "id": 77740, 
+          "name": "Spice Williams-Crosby", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183031, 
+      "name": "Salvage", 
+      "overview": "While Lorne casts a sanctuary spell on the hotel, and Wesley brings in the slayer, Faith, to help get Angelus back... the Doomsday Beast and its boss also try to woo Angelus.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/5hH4yj2YWZDxIRs306bEJ3Vkzsb.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-03-12", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006c1b", 
+          "department": "Directing", 
+          "id": 104876, 
+          "job": "Director", 
+          "name": "James A. Contner", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a5f", 
+          "department": "Writing", 
+          "id": 1224044, 
+          "job": "Writer", 
+          "name": "Sarah Fain", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 14, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d00970f", 
+          "id": 35132, 
+          "name": "Peter Renaday", 
+          "order": 1, 
+          "profile_path": "/wRkQcLnyv1k9eQtB5GczTgIaWj2.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d0078d6", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 2, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d009731", 
+          "id": 123813, 
+          "name": "Ian Anthony Dale", 
+          "order": 2, 
+          "profile_path": "/8lF1E9MNYDXVPUy4YB3In4mi46N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d009753", 
+          "id": 1219502, 
+          "name": "Christopher Neiman", 
+          "order": 3, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183024, 
+      "name": "Release", 
+      "overview": "As Faith and Angel continue their battle, the voice of the Beast's Master invades Angel's mind.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/6P6iOVP9uq53Ixdyv8GhhKllgeA.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-03-19", 
+      "crew": [
+        {
+          "credit_id": "5257384d760ee3668d008d4d", 
+          "department": "Directing", 
+          "id": 102638, 
+          "job": "Director", 
+          "name": "Terrence O'Hara", 
+          "profile_path": "/zGcRcVwWYyWZsPNOlQqEblXXg6l.jpg"
+        }, 
+        {
+          "credit_id": "52573830760ee3668d006cff", 
+          "department": "Writing", 
+          "id": 1227656, 
+          "job": "Writer", 
+          "name": "Mere Smith", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 15, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573853760ee3668d00970f", 
+          "id": 35132, 
+          "name": "Peter Renaday", 
+          "order": 1, 
+          "profile_path": "/wRkQcLnyv1k9eQtB5GczTgIaWj2.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573830760ee3668d006d5b", 
+          "id": 21595, 
+          "name": "Alyson Hannigan", 
+          "order": 1, 
+          "profile_path": "/vZw7AEUOs9lbkS0lYzDyaFp9Tjv.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257383b760ee3668d0078d6", 
+          "id": 13446, 
+          "name": "Eliza Dushku", 
+          "order": 2, 
+          "profile_path": "/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d009808", 
+          "id": 1217816, 
+          "name": "Adrienne Wilkinson", 
+          "order": 2, 
+          "profile_path": "/25vXjju81tYiyZnXy0bIpEE80uz.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d009830", 
+          "id": 53778, 
+          "name": "E.J. Callahan", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d009852", 
+          "id": 61542, 
+          "name": "Nate Dushku", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183027, 
+      "name": "Orpheus", 
+      "overview": "As Faith and Angelus lay drugged and possibly dying, they flash back to key events in Angel's life... and Willow comes to help the others in the quest to restore Angel's soul.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/fetldPXcK91jjKLuopdtqkiz1Ft.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-03-26", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383a760ee3668d00771d", 
+          "department": "Directing", 
+          "id": 43222, 
+          "job": "Director", 
+          "name": "Michael Grossman", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a5f", 
+          "department": "Writing", 
+          "id": 1224044, 
+          "job": "Writer", 
+          "name": "Sarah Fain", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 16, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573851760ee3668d0092d8", 
+          "id": 28109, 
+          "name": "Alexa Davalos", 
+          "order": 0, 
+          "profile_path": "/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009a31", 
+          "id": 100891, 
+          "name": "David Monahan", 
+          "order": 1, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009a53", 
+          "id": 154816, 
+          "name": "Michael Patrick McGill", 
+          "order": 2, 
+          "profile_path": "/9M7pqxB3NZm7zVrpGqFkFI25nrw.jpg"
+        }
+      ], 
+      "id": 183034, 
+      "name": "Players", 
+      "overview": "As Angel tries to remember what Lilah's book said about the Master, Lorne plans a cleansing ritual to regain his empathetic powers, ad Gunn helps Gwen with some corporate espionage.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/5KV1xwpuuQYsmViSexi0kU63ifG.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-04-02", 
+      "crew": [
+        {
+          "credit_id": "52573849760ee3668d008834", 
+          "department": "Directing", 
+          "id": 1213074, 
+          "job": "Director", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "52573849760ee3668d008810", 
+          "department": "Writing", 
+          "id": 1213074, 
+          "job": "Writer", 
+          "name": "Steven S. DeKnight", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 17, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006b07", 
+          "id": 35551, 
+          "name": "Julie Benz", 
+          "order": 0, 
+          "profile_path": "/3ymRPOitD5IKXZgDLoy8FLRGQCn.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d00995d", 
+          "id": 9576, 
+          "name": "Gina Torres", 
+          "order": 1, 
+          "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d00997f", 
+          "id": 62562, 
+          "name": "David Denman", 
+          "order": 2, 
+          "profile_path": "/rT1dvSLZjlfiZm7VvD1qEbvZ34O.jpg"
+        }
+      ], 
+      "id": 183032, 
+      "name": "Inside Out", 
+      "overview": "As Cordelia prepares to give birth, Angel and his friends finally learn that she - or an evil presence controlling her - is the Beast's master.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/jMqn4irxEcBj0HfZHJAkOWEXRpR.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-04-09", 
+      "crew": [
+        {
+          "credit_id": "5257384c760ee3668d008a3d", 
+          "department": "Writing", 
+          "id": 1231386, 
+          "job": "Writer", 
+          "name": "Mutant Enemy Productions", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a83", 
+          "department": "Directing", 
+          "id": 1215026, 
+          "job": "Director", 
+          "name": "Marita Grabiak", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257384c760ee3668d008a5f", 
+          "department": "Writing", 
+          "id": 1224044, 
+          "job": "Writer", 
+          "name": "Sarah Fain", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 18, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d00995d", 
+          "id": 9576, 
+          "name": "Gina Torres", 
+          "order": 1, 
+          "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009b33", 
+          "id": 84421, 
+          "name": "Lyle Kanouse", 
+          "order": 1, 
+          "profile_path": "/8haoaqa7rcsyFtpbKxT43xxXP2N.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009b55", 
+          "id": 27589, 
+          "name": "Jackie Tohn", 
+          "order": 2, 
+          "profile_path": "/7fF8j4H6fIzhXH8DaO1nlfEKhDV.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009b77", 
+          "id": 46362, 
+          "name": "Samuel Witwer", 
+          "order": 3, 
+          "profile_path": "/e4FRojd6SmiyRLo2nQQGUXwi16v.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009b99", 
+          "id": 159431, 
+          "name": "Annie Wersching", 
+          "order": 4, 
+          "profile_path": "/no4y7IjvnGNNoLidkQ8VVsgBc8M.jpg"
+        }
+      ], 
+      "id": 183036, 
+      "name": "Shiny Happy People", 
+      "overview": "While everyone else worships the beautiful woman Cordelia bore, Fred sees another side of her.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/hUZfVMOeDWzj6HWW4gsjMALHarR.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-04-16", 
+      "crew": [
+        {
+          "credit_id": "5257384a760ee3668d0088b1", 
+          "department": "Directing", 
+          "id": 1236075, 
+          "job": "Director", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d00888d", 
+          "department": "Writing", 
+          "id": 1236075, 
+          "job": "Writer", 
+          "name": "Jeffrey Bell", 
+          "profile_path": "/hfALBl8i84YwhbzHytEFrCjUzYF.jpg"
+        }
+      ], 
+      "episode_number": 19, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d00995d", 
+          "id": 9576, 
+          "name": "Gina Torres", 
+          "order": 1, 
+          "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009aa7", 
+          "id": 13645, 
+          "name": "Danny Woodburn", 
+          "order": 1, 
+          "profile_path": "/8oXcLk4pijxK8H8xp8G1NmGDL2E.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009ac9", 
+          "id": 52801, 
+          "name": "Patrick Fischler", 
+          "order": 2, 
+          "profile_path": "/ccSabJ9XcpsF21OPskhJRxKsz2d.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d009aeb", 
+          "id": 72577, 
+          "name": "Zakk Wylde", 
+          "order": 3, 
+          "profile_path": "/qvKFy0zwS6lKTrh23uNyTpkoktr.jpg"
+        }
+      ], 
+      "id": 183035, 
+      "name": "The Magic Bullet", 
+      "overview": "As Jasmine's influence continues to spread, Fred finally tricks Angel into seeing her true nature.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/KJZP7DIn6X7t37WWWBkFMkaYQs.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-04-23", 
+      "crew": [
+        {
+          "credit_id": "5257383e760ee3668d007e16", 
+          "department": "Directing", 
+          "id": 1215383, 
+          "job": "Director", 
+          "name": "David Straiton", 
+          "profile_path": "/kwoDQzrt9cywbhFffDx4S6C7x0D.jpg"
+        }, 
+        {
+          "credit_id": "5257384a760ee3668d008922", 
+          "department": "Writing", 
+          "id": 1215761, 
+          "job": "Writer", 
+          "name": "Ben Edlund", 
+          "profile_path": "/3rCZ4ubwANlXZ4XWWd9sh2omS08.jpg"
+        }
+      ], 
+      "episode_number": 20, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d00995d", 
+          "id": 9576, 
+          "name": "Gina Torres", 
+          "order": 1, 
+          "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d0099c7", 
+          "id": 98661, 
+          "name": "Bradley Stryker", 
+          "order": 1, 
+          "profile_path": "/8ZUSpcR7ueXdQfhhChGjNEcpcfF.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573855760ee3668d0099e9", 
+          "id": 69748, 
+          "name": "Tristine Skyler", 
+          "order": 2, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183033, 
+      "name": "Sacrifice", 
+      "overview": "While hiding in a sewer, Angel and his friends battle a nasty monster provides some clues that might help in the larger battle against Jasmine.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/tvpEnzVA28VGQkpByesMJmQXHgQ.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-04-30", 
+      "crew": [
+        {
+          "credit_id": "5257384d760ee3668d008bad", 
+          "department": "Directing", 
+          "id": 1216553, 
+          "job": "Director", 
+          "name": "Jefferson Kibbee", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257383b760ee3668d00797c", 
+          "department": "Writing", 
+          "id": 1213069, 
+          "job": "Writer", 
+          "name": "David Fury", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 21, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573854760ee3668d00995d", 
+          "id": 9576, 
+          "name": "Gina Torres", 
+          "order": 1, 
+          "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009bed", 
+          "id": 1219212, 
+          "name": "Kristin Richardson", 
+          "order": 2, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009c15", 
+          "id": 106868, 
+          "name": "Robert Towers", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009c37", 
+          "id": 25946, 
+          "name": "Bonita Friedericy", 
+          "order": 5, 
+          "profile_path": "/3EzVJOqxl1UYM3LQeGcQm4MFN4k.jpg"
+        }
+      ], 
+      "id": 183037, 
+      "name": "Peace Out", 
+      "overview": "Angel returns from the monster's dimension and finally defuses Jasmine's all-compassing powers.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/ztfOnsUN1JztuJ3iawMskoB2pXU.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }, 
+    {
+      "air_date": "2003-05-07", 
+      "crew": [
+        {
+          "credit_id": "52573831760ee3668d006f4d", 
+          "department": "Directing", 
+          "id": 1224034, 
+          "job": "Director", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }, 
+        {
+          "credit_id": "5257382e760ee3668d006bf7", 
+          "department": "Writing", 
+          "id": 1224034, 
+          "job": "Writer", 
+          "name": "Tim Minear", 
+          "profile_path": null
+        }
+      ], 
+      "episode_number": 22, 
+      "guest_stars": [
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009c85", 
+          "id": 99007, 
+          "name": "Laura Silverman", 
+          "order": 2, 
+          "profile_path": "/12dCTZ8RY4pWX68l9gmiNIKKGQS.jpg"
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573847760ee3668d008713", 
+          "id": 1217551, 
+          "name": "Jonathan M. Woodward", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009ca7", 
+          "id": 1217476, 
+          "name": "Jim Calvert", 
+          "order": 3, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "52573856760ee3668d009cc9", 
+          "id": 1228804, 
+          "name": "Emma Hunton", 
+          "order": 4, 
+          "profile_path": null
+        }, 
+        {
+          "character": "", 
+          "credit_id": "5257382e760ee3668d006bb1", 
+          "id": 1216747, 
+          "name": "Stephanie Romanov", 
+          "order": 5, 
+          "profile_path": null
+        }
+      ], 
+      "id": 183038, 
+      "name": "Home", 
+      "overview": "Lilah returns from the dead to offer Angel and his friends full ownership of Wolfram and Hart.", 
+      "production_code": null, 
+      "season_number": 4, 
+      "still_path": "/eBg0FOeFeehYZ5OhUTeEiTvAQvy.jpg", 
+      "vote_average": 0.0, 
+      "vote_count": 0
+    }
+  ], 
+  "id": 7627, 
+  "name": "Season 4", 
+  "overview": "The fourth season of the television series Angel, the spin-off of Buffy the Vampire Slayer, premiered on October 6, 2002 on The WB and concluded its 22-episode season on May 7, 2003. The season aired in a new timeslot, Sundays at 9:00 pm ET, and then relocated to Wednesdays at 9:00 pm ET, beginning with \"Habeas Corpses\".", 
+  "poster_path": "/qIUdPV0fSWWzTvVx4R7tD3E7x31.jpg", 
+  "season_number": 4
+}

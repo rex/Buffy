@@ -1,0 +1,64 @@
+{
+  "air_date": "2000-05-09", 
+  "crew": [
+    {
+      "credit_id": "52599e3819c295731c08d7e9", 
+      "department": "Directing", 
+      "id": 43954, 
+      "job": "Director", 
+      "name": "David Grossman", 
+      "profile_path": "/9Eq50X0bOm0WxCVnwLmB9igAwUq.jpg"
+    }, 
+    {
+      "credit_id": "5253387219c2957940053fcd", 
+      "department": "Writing", 
+      "id": 1213071, 
+      "job": "Writer", 
+      "name": "Douglas Petrie", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 20, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52599e3519c295731c08d0c7", 
+      "id": 66745, 
+      "name": "Emma Caulfield", 
+      "order": 2, 
+      "profile_path": "/uicijTkEGPqfEB5Dc2QBCMpscsG.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3e19c295731c08e33b", 
+      "id": 35468, 
+      "name": "Amber Benson", 
+      "order": 2, 
+      "profile_path": "/hcatQaJNb2lAcBukfn6IOaxtl5F.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52599e3d19c295731c08e1a5", 
+      "id": 83859, 
+      "name": "Leonard Roberts", 
+      "order": 3, 
+      "profile_path": "/stLgqI31p8ULs3lDZg57KWpYL68.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5253386e19c2957940053f3f", 
+      "id": 25934, 
+      "name": "David Boreanaz", 
+      "order": 15, 
+      "profile_path": "/66AnFnTXGGKBnDxZxFca0RfMFi6.jpg"
+    }
+  ], 
+  "id": 949487, 
+  "name": "The Yoko Factor (1)", 
+  "overview": "Adam enlists Spike to turn the gang against each other, leaving Buffy alone and helpless. Spike plays on their fears of how the others perceive them, telling Xander that Willow and Buffy no longer think that they need him and that he would be better off joining the Army; telling Willow that Xander and Buffy believe her experimenting with magick is just a phase; and elaborating on Giles' own beliefs that he no longer needs to be in Sunnydale.   Giles ends up drunk while Buffy, Willow and Xander fight. Angel comes from L.A. to apologize to Buffy after their fight over Faith in 'Angel' but he ends up fighting with Riley. Buffy sees Adam kill Forrest and tells Riley. The distraught Riley goes to confront Adam while Buffy determines she has to face him alone.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/i5AlX7pw7Uz9sqovcsup97Q5agK.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}

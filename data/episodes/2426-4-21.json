@@ -1,0 +1,72 @@
+{
+  "air_date": "2003-04-30", 
+  "crew": [
+    {
+      "credit_id": "5257384d760ee3668d008bad", 
+      "department": "Directing", 
+      "id": 1216553, 
+      "job": "Director", 
+      "name": "Jefferson Kibbee", 
+      "profile_path": null
+    }, 
+    {
+      "credit_id": "5257383b760ee3668d00797c", 
+      "department": "Writing", 
+      "id": 1213069, 
+      "job": "Writer", 
+      "name": "David Fury", 
+      "profile_path": null
+    }
+  ], 
+  "episode_number": 21, 
+  "guest_stars": [
+    {
+      "character": "", 
+      "credit_id": "52573854760ee3668d00995d", 
+      "id": 9576, 
+      "name": "Gina Torres", 
+      "order": 1, 
+      "profile_path": "/z43hy1X1vRD26vNDh0lzxg1rcBl.jpg"
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009bed", 
+      "id": 1219212, 
+      "name": "Kristin Richardson", 
+      "order": 2, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009c15", 
+      "id": 106868, 
+      "name": "Robert Towers", 
+      "order": 4, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "5257382e760ee3668d006bb1", 
+      "id": 1216747, 
+      "name": "Stephanie Romanov", 
+      "order": 5, 
+      "profile_path": null
+    }, 
+    {
+      "character": "", 
+      "credit_id": "52573856760ee3668d009c37", 
+      "id": 25946, 
+      "name": "Bonita Friedericy", 
+      "order": 5, 
+      "profile_path": "/3EzVJOqxl1UYM3LQeGcQm4MFN4k.jpg"
+    }
+  ], 
+  "id": 183037, 
+  "name": "Peace Out", 
+  "overview": "Angel returns from the monster's dimension and finally defuses Jasmine's all-compassing powers.", 
+  "production_code": null, 
+  "season_number": 4, 
+  "still_path": "/ztfOnsUN1JztuJ3iawMskoB2pXU.jpg", 
+  "vote_average": 0.0, 
+  "vote_count": 0
+}
