@@ -1,14 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" ng-app="BuffyApp">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="/">
   <title>BuffyTracker</title>
   <script type="text/javascript" src="data/js/Shows.js"></script>
   <script type="text/javascript" src="data/js/Seasons.js"></script>
   <script type="text/javascript" src="data/js/Episodes.js"></script>
   <script type="text/javascript" src="data/js/People.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="bower_components/angular-material/angular-material.min.css">
+  <!-- <link rel="stylesheet" type="text/css" href="assets/css/angular-material.min.css"> -->
 </head>
-<body style="margin: 0; padding: 0;">
-  <div style="font-size: 25px; background: #00aaff; padding: 125px;">This is working, yay!</div>
+<body layout="column" ng-controller="AppCtrl">
+  <md-content>
+    <md-toolbar layout="row">
+      <div class="md-toolbar-tools">
+        <h1>BUFFY TRACKER</h1>
+      </div>
+    </md-toolbar>
+
+    <br /><br />
+    <hr />
+
+    <div ng-view></div>
+
+    <hr />
+
+    <pre>$location.path() = {{$location.path()}}</pre>
+    <pre>$route.current.templateUrl = {{$route.current.templateUrl}}</pre>
+    <pre>$route.current.params = {{$route.current.params}}</pre>
+    <pre>$route.current.scope.name = {{$route.current.scope.name}}</pre>
+    <pre>$routeParams = {{$routeParams}}</pre>
+  </md-content>
+
+  <script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+  <script type="text/javascript" src="bower_components/angular-animate/angular-animate.min.js"></script>
+  <script type="text/javascript" src="bower_components/angular-aria/angular-aria.min.js"></script>
+  <script type="text/javascript" src="bower_components/angular-material/angular-material.min.js"></script>
+  <script type="text/javascript" src="bower_components/angular-route/angular-route.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js"></script>
+  <script type="text/javascript" src="assets/js/app.js"></script>
+  <script type="text/javascript" src="assets/js/routes.js"></script>
 </body>
 </html>

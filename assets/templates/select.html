@@ -1,0 +1,16 @@
+<div layout="row" ng-controller="SelectCtrl">
+  <div flex="20"></div>
+  <div flex ng-repeat="show in shows">
+    <md-card>
+      <img src="http://image.tmdb.org/t/p/original{{ show.backdrop_path }}" class="md-card-image" alt="{{ show.name }}" title="{{ show.name }}">
+      <md-card-content>
+        <h2 class="md-title">{{ show.name }}</h2>
+        <p>{{ show.overview }}</p>
+      </md-card-content>
+      <div class="md-actions" layout="row" layout-align="end center">
+        <md-button href="/shows/{{ show.id }}">Watch {{ show.name }}</md-button>
+      </div>
+    </md-card>
+  </div>
+  <div flex="20"></div>
+</div>
