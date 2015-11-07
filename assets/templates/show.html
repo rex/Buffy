@@ -1,0 +1,9 @@
+<div ng-controller="ShowCtrl">
+  <md-tabs md-dynamic-height md-border-bottom md-stretch-tabs="always">
+    <md-tab ng-repeat="season in seasons" label="{{ season.name }}">
+      <md-content class="md-padding">
+        Season {{ season.name }}
+      </md-content>
+    </md-tab>
+  </md-tabs>
+</div>

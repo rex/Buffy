@@ -29,8 +29,6 @@ var buffyApp = angular
 
 buffyApp
   .controller('AppCtrl', ['$scope', '$route', '$routeParams', '$location', function($scope, $route, $routeParams, $location) {
-    $scope.title1 = "Foo 1"
-    $scope.title4 = "Foo 4"
     $scope.shows = window.BuffyTracker_Shows
     $scope.$route = $route
     $scope.$location = $location
@@ -43,10 +41,24 @@ buffyApp
   .controller('ShowCtrl', ['$scope', '$routeParams', function($scope, $routeParams) {
     $scope.name = 'ShowCtrl'
     $scope.params = $routeParams
+    var showId = $scope.params.showId
+    var show = window.BuffyTracker_Shows[showId]
+    var basic_seasons = show.seasons
+    var seasons = []
+    basic_seasons.forEach(function(s) {
+      var full_season = window.BuffyTracker_Seasons[showId +"-"+ s.season_number]
+      console.log(full_season)
+      seasons.push(full_season)
+    })
+
+    $scope.seasons = seasons
   }])
-  .controller('SeasonCtrl', ['$scope', '$routeParams', function($scope, $routeParams) {
+  .controller('SeasonCtrl', ['$scope', '$routeParams', '$attrs', function($scope, $routeParams, $attrs) {
     $scope.name = 'SeasonCtrl'
     $scope.params = $routeParams
+    $scope.season = $attrs.season
+
+    console.log('season: ', season)
   }])
   .controller('EpisodeCtrl', ['$scope', '$routeParams', function($scope, $routeParams) {
     $scope.name = 'EpisodeCtrl'

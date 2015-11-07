@@ -10,7 +10,6 @@
   <script type="text/javascript" src="data/js/Episodes.js"></script>
   <script type="text/javascript" src="data/js/People.js"></script>
   <link rel="stylesheet" type="text/css" href="bower_components/angular-material/angular-material.min.css">
-  <!-- <link rel="stylesheet" type="text/css" href="assets/css/angular-material.min.css"> -->
 </head>
 <body layout="column" ng-controller="AppCtrl">
   <md-content>
@@ -19,13 +18,7 @@
         <h1>BUFFY TRACKER</h1>
       </div>
     </md-toolbar>
-
-    <br /><br />
-    <hr />
-
     <div ng-view></div>
-
-    <hr />
 
     <pre>$location.path() = {{$location.path()}}</pre>
     <pre>$route.current.templateUrl = {{$route.current.templateUrl}}</pre>

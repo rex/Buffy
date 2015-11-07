@@ -20,5 +20,5 @@ buffyApp.config(['$routeProvider', '$locationProvider', function($routeProvider,
       redirectTo: '/'
     })
 
-  $locationProvider.html5Mode(true)
+  $locationProvider.html5Mode(false)
 }])
