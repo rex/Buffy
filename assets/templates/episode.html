@@ -1,0 +1,28 @@
+<md-toolbar>
+  <div class="md-toolbar-tools">
+    <!-- <img ng-src="http://image.tmdb.org/t/p/w92{{ model.still_path }}" class="md-avatar"> -->
+    <h1>
+      <span>{{ model.episode_number }} ) &nbsp;&nbsp;</span>
+    </h1>
+    <span>{{ model.name }}</span>
+    <span flex></span>
+    <md-button>
+      <md-icon>info_outline</md-icon>
+    </md-button>
+    <md-button ng-if="!model.favorited" ng-click="addFavorite(model.id)">
+      <md-icon>favorite_border</md-icon>
+    </md-button>
+    <md-button ng-if="model.favorited" ng-click="removeFavorite(model.id)">
+      <md-icon>favorite</md-icon>
+    </md-button>
+    <md-button ng-if="!model.watched" ng-click="markWatched(model.id)">
+      <md-icon>close</md-icon>
+      Unwatched
+    </md-button>
+    <md-button ng-if="model.watched" ng-click="markUnwatched(model.id)">
+      <md-icon>done</md-icon>
+      Watched
+    </md-button>
+  </div>
+</md-toolbar>
+<md-divider></md-divider>

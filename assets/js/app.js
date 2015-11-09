@@ -22,8 +22,8 @@ var buffyApp = angular
     // blue-grey
     $mdThemingProvider
       .theme('default')
-      .primaryPalette('red')
-      .accentPalette('brown')
+      .primaryPalette('blue-grey')
+      .accentPalette('light-blue')
       // .dark()
   }])
 
@@ -50,6 +50,12 @@ buffyApp
       console.log(full_season)
       full_season.episodes = _.map(full_season.episodes, function(episode) {
         episode.name = episode.name.replace(/ \([0-9]\)/g, '')
+
+        var watched = window.localStorage[episode.id +'_watched']
+        var favorited = window.localStorage[episode.id +'_favorited']
+
+        episode.favorited = (favorited && favorited == "true")
+        episode.watched = (watched && watched == "true")
         return episode
       })
       seasons.push(full_season)
