@@ -2,7 +2,33 @@
   <md-tabs md-dynamic-height md-border-bottom md-stretch-tabs="always">
     <md-tab ng-repeat="season in seasons" label="{{ season.name }}">
       <md-content class="md-padding">
-        Season {{ season.name }}
+        <div ng-repeat="episode in season.episodes">
+          <md-toolbar>
+            <div class="md-toolbar-tools">
+              <!-- <img ng-src="http://image.tmdb.org/t/p/w92{{ episode.still_path }}" class="md-avatar"> -->
+              <h1>
+                <span>{{ episode.episode_number }} ) &nbsp;&nbsp;</span>
+              </h1>
+              <span>{{ episode.name }}</span>
+              <span flex></span>
+              <md-button>
+                <md-icon>info_outline</md-icon>
+              </md-button>
+              <md-button>
+                <md-icon>favorite_border</md-icon>
+              </md-button>
+              <md-button>
+                <md-icon>close</md-icon>
+                Unwatched
+              </md-button>
+              <md-button>
+                <md-icon>done</md-icon>
+                Watched
+              </md-button>
+            </div>
+          </md-toolbar>
+          <md-divider></md-divider>
+        </div>
       </md-content>
     </md-tab>
   </md-tabs>

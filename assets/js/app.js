@@ -48,6 +48,10 @@ buffyApp
     basic_seasons.forEach(function(s) {
       var full_season = window.BuffyTracker_Seasons[showId +"-"+ s.season_number]
       console.log(full_season)
+      full_season.episodes = _.map(full_season.episodes, function(episode) {
+        episode.name = episode.name.replace(/ \([0-9]\)/g, '')
+        return episode
+      })
       seasons.push(full_season)
     })
 
